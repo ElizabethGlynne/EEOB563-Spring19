@@ -1,0 +1,17 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Tue Feb 19 13:24:17 2019]
+[!
+>Consensus of 307 trees
+>
+>Source of trees from which consensus(es) calculated...
+>
+>Processing TREES block from file: ~/EEOB563-Spring2019/Assignments/A3boot.tre
+>  Keeping: trees from file (replacing any trees already in memory)
+>
+>  307 trees read from file
+>
+>  Time used = 18.78 sec (CPU time = 0.01 sec)
+]
+	tree MajRule = [&U] (Platypus,Echidna,(((Opossum,Bandicoot)74.375,Wallaby)86.542,(Elephant,Aardvark,(Tenrec,Hedgehog)63.983,Sloth,Armadillo,Human,Tree_shrew,Rabbit,Mouse,Flying_fox,Cat,Dog,(Pig,Whale)78.167)53.042)100)0;
+end;
