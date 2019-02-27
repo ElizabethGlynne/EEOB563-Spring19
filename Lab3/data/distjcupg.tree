@@ -1,0 +1,35 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Feb 21 10:48:09 2019]
+[!
+>Data file = cob_nt_aligned.nxs
+>UPGMA search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = Jukes-Cantor
+>  All characters have equal weight
+>  (Tree is rooted)
+]
+	Translate
+		1 Platypus,
+		2 Echidna,
+		3 Opossum,
+		4 Wallaby,
+		5 Bandicoot,
+		6 Elephant,
+		7 Aardvark,
+		8 Tenrec,
+		9 Sloth,
+		10 Armadillo,
+		11 Human,
+		12 Tree_shrew,
+		13 Rabbit,
+		14 Mouse,
+		15 Hedgehog,
+		16 Flying_fox,
+		17 Cat,
+		18 Dog,
+		19 Pig,
+		20 Whale
+		;
+tree 'PAUP_1' = [&R] (((1,2),((((((3,(4,5)),(((7,13),((10,14),(((16,17),(19,20)),18))),12)),8),9),11),6)),15);
+End;
