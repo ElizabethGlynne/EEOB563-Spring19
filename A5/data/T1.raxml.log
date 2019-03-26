@@ -1,0 +1,40 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 11-Mar-2019 16:07:32 as follows:
+
+raxml-ng --check --msa alignment.phy --model F81 --prefix T1
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1552338452
+  SIMD kernels: AVX
+  parallelization: PTHREADS (8 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: alignment.phy
+[00:00:00] Loaded alignment with 20 taxa and 4482 sites
+
+Alignment comprises 1 partitions and 4482 patterns
+
+Partition 0: noname
+Model: F81+FO
+Alignment sites / patterns: 4482 / 4482
+Gaps: 6.81 %
+Invariant sites: 49.82 %
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/eglynne/EEOB563-Spring19/A5/data/T1.raxml.log
+
+Analysis started: 11-Mar-2019 16:07:32 / finished: 11-Mar-2019 16:07:32
+
+Elapsed time: 0.226 seconds
+

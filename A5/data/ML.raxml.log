@@ -1,0 +1,96 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 11-Mar-2019 16:11:02 as follows:
+
+raxml-ng --search1 --msa alignment.fs --model F81 --prefix ML
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (1)
+  random seed: 1552338662
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX
+  parallelization: PTHREADS (8 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: alignment.fs
+[00:00:00] Loaded alignment with 20 taxa and 4482 sites
+
+Alignment comprises 1 partitions and 2114 patterns
+
+Partition 0: noname
+Model: F81+FO
+Alignment sites / patterns: 4482 / 2114
+Gaps: 6.81 %
+Invariant sites: 1.18 %
+
+
+NOTE: Binary MSA file created: ML.raxml.rba
+
+
+WARNING: You might be using too many threads (8) for your alignment with 2114 unique patterns.
+NOTE:    For the optimal throughput, please consider using fewer threads 
+NOTE:    and parallelize across starting trees/bootstrap replicates.
+NOTE:    As a general rule-of-thumb, please assign at least 200-1000 alignment patterns per thread.
+
+[00:00:00] Generating 1 random starting tree(s) with 20 taxa
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 265 / 1060
+
+Starting ML tree search with 1 distinct starting trees
+
+[00:00:00 -59615.736692] Initial branch length optimization
+[00:00:00 -57452.440285] Model parameter optimization (eps = 10.000000)
+[00:00:00 -56148.170219] AUTODETECT spr round 1 (radius: 5)
+[00:00:03 -54804.156953] AUTODETECT spr round 2 (radius: 10)
+[00:00:03 -54804.156835] SPR radius for FAST iterations: 5 (autodetect)
+[00:00:03 -54804.156835] Model parameter optimization (eps = 3.000000)
+[00:00:03 -54803.791998] FAST spr round 1 (radius: 5)
+[00:00:05 -54654.261645] FAST spr round 2 (radius: 5)
+[00:00:05 -54618.150434] FAST spr round 3 (radius: 5)
+[00:00:08 -54602.602200] FAST spr round 4 (radius: 5)
+[00:00:08 -54595.116495] FAST spr round 5 (radius: 5)
+[00:00:12 -54578.282032] FAST spr round 6 (radius: 5)
+[00:00:12 -54572.188883] FAST spr round 7 (radius: 5)
+[00:00:13 -54568.618062] FAST spr round 8 (radius: 5)
+[00:00:13 -54568.618061] Model parameter optimization (eps = 1.000000)
+[00:00:13 -54568.309080] SLOW spr round 1 (radius: 5)
+[00:00:17 -54568.308948] SLOW spr round 2 (radius: 10)
+[00:00:17 -54568.308948] SLOW spr round 3 (radius: 15)
+[00:00:17 -54568.308948] SLOW spr round 4 (radius: 20)
+[00:00:20 -54568.308948] Model parameter optimization (eps = 0.100000)
+
+[00:00:20] ML tree search #1, logLikelihood: -54568.308909
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.208845 0.282675 0.123485 0.384995 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+Final LogLikelihood: -54568.308909
+
+AIC score: 109216.617817 / AICc score: 109217.356389 / BIC score: 109472.930803
+Free parameters (model + branch lengths): 40
+
+Best ML tree saved to: /home/eglynne/EEOB563-Spring19/A5/data/ML.raxml.bestTree
+Optimized model saved to: /home/eglynne/EEOB563-Spring19/A5/data/ML.raxml.bestModel
+
+Execution log saved to: /home/eglynne/EEOB563-Spring19/A5/data/ML.raxml.log
+
+Analysis started: 11-Mar-2019 16:11:02 / finished: 11-Mar-2019 16:11:23
+
+Elapsed time: 21.061 seconds
+
