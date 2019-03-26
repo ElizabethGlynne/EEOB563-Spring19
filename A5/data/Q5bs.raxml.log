@@ -1,0 +1,33 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 12-Mar-2019 13:06:40 as follows:
+
+raxml-ng --support --tree Q5.raxml.bestTree --bs-trees allbootstraps --prefix Q5bs --threads 2
+
+Analysis options:
+  run mode: Compute bipartition support (Felsenstein Bootstrap)
+  start tree(s): user
+  random seed: 1552414000
+  SIMD kernels: AVX
+  parallelization: PTHREADS (2 threads), thread pinning: OFF
+
+Reading reference tree from file: Q5.raxml.bestTree
+Reference tree size: 20
+
+Reading bootstrap trees from file: allbootstraps
+Loaded 1000 trees with 20 taxa.
+
+Best ML tree with Felsenstein bootstrap (FBP) support values saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q5bs.raxml.support
+
+Execution log saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q5bs.raxml.log
+
+Analysis started: 12-Mar-2019 13:06:40 / finished: 12-Mar-2019 13:06:40
+
+Elapsed time: 0.714 seconds
+

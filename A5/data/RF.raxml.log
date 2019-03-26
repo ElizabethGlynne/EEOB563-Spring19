@@ -1,0 +1,25 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 11-Mar-2019 16:12:10 as follows:
+
+raxml-ng --rfdist --tree ML.raxml.bestTree --prefix RF
+
+Analysis options:
+  run mode: RF distance computation
+  start tree(s): user
+  random seed: 1552338730
+  SIMD kernels: AVX
+  parallelization: PTHREADS (8 threads), thread pinning: OFF
+
+Reading input trees from file: ML.raxml.bestTree
+Loaded 1 trees with 20 taxa.
+
+
+ERROR: You must provide a file with multiple input trees!
+

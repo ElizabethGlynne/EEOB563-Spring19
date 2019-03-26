@@ -1,0 +1,94 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 12-Mar-2019 07:34:54 as follows:
+
+raxml-ng --evaluate --msa alignment.phy --threads 4 --model F81 --tree Q3.raxml.bestTree --prefix Q13 --log verbose
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 1552394094
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX
+  parallelization: PTHREADS (4 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: alignment.phy
+[00:00:00] Loaded alignment with 20 taxa and 4482 sites
+[00:00:00] Extracting partitions... 
+[00:00:00] Validating alignment... 
+[00:00:00] Checking the alignment...
+[00:00:00] Compressing alignment patterns... 
+
+Alignment comprises 1 partitions and 2114 patterns
+
+Partition 0: noname
+Model: F81+FO
+Alignment sites / patterns: 4482 / 2114
+Gaps: 6.81 %
+Invariant sites: 1.18 %
+
+
+NOTE: Binary MSA file created: Q13.raxml.rba
+
+[00:00:00] Loading user starting tree(s) from: Q3.raxml.bestTree
+
+Initial model parameters:
+   Partition: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.250000 0.250000 0.250000 0.250000 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 529 / 2116
+
+thread#	part#	start	length	weight
+0	0	1587	527	2108
+
+1	0	1058	529	2116
+
+2	0	529	529	2116
+
+3	0	0	529	2116
+
+
+Evaluating 1 trees
+
+[00:00:00] Tree #1, initial LogLikelihood: -55807.263487
+
+[00:00:00 -55807.263487] Initial branch length optimization
+[00:00:03 -55801.887569] Model parameter optimization (eps = 0.100000)
+
+[00:00:03] Tree #1, final logLikelihood: -54568.308931
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.208831 0.282671 0.123491 0.385007 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+Final LogLikelihood: -54568.308931
+
+AIC score: 109216.617863 / AICc score: 109217.356435 / BIC score: 109472.930849
+Free parameters (model + branch lengths): 40
+
+
+All optimized tree(s) saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q13.raxml.mlTrees
+Optimized model saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q13.raxml.bestModel
+
+Execution log saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q13.raxml.log
+
+Analysis started: 12-Mar-2019 07:34:54 / finished: 12-Mar-2019 07:35:01
+
+Elapsed time: 6.507 seconds
+

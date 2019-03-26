@@ -1,0 +1,153 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 12-Mar-2019 07:39:54 as follows:
+
+raxml-ng --evaluate --msa alignment.phy --threads 4 --model PartGene --tree Q42.raxml.bestTree --prefix Q4_2 --log verbose
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 1552394394
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX
+  parallelization: PTHREADS (4 threads), thread pinning: OFF
+
+[00:00:02] Reading alignment from file: alignment.phy
+[00:00:02] Loaded alignment with 20 taxa and 4482 sites
+[00:00:02] Extracting partitions... 
+[00:00:02] Validating alignment... 
+[00:00:02] Checking the alignment...
+[00:00:02] Compressing alignment patterns... 
+
+Alignment comprises 4 partitions and 2214 patterns
+
+Partition 0: cob
+Model: F81+FO+B
+Alignment sites / patterns: 1248 / 645
+Gaps: 8.70 %
+Invariant sites: 2.16 %
+
+Partition 1: cox1
+Model: F81+FO+B
+Alignment sites / patterns: 1560 / 697
+Gaps: 1.15 %
+Invariant sites: 0.64 %
+
+Partition 2: cox2
+Model: F81+FO+B
+Alignment sites / patterns: 735 / 397
+Gaps: 6.55 %
+Invariant sites: 1.77 %
+
+Partition 3: cox3
+Model: F81+FO+B
+Alignment sites / patterns: 939 / 475
+Gaps: 13.91 %
+Invariant sites: 2.02 %
+
+
+NOTE: Binary MSA file created: Q4_2.raxml.rba
+
+[00:00:02] Loading user starting tree(s) from: Q42.raxml.bestTree
+
+Initial model parameters:
+   Partition: cob
+   Speed (ML): 1.000000
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.250000 0.250000 0.250000 0.250000 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+   Partition: cox1
+   Speed (ML): 1.000000
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.250000 0.250000 0.250000 0.250000 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+   Partition: cox2
+   Speed (ML): 1.000000
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.250000 0.250000 0.250000 0.250000 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+   Partition: cox3
+   Speed (ML): 1.000000
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.250000 0.250000 0.250000 0.250000 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+[00:00:02] Data distribution: max. partitions/sites/weight per thread: 2 / 554 / 2216
+
+thread#	part#	start	length	weight
+0	2	0	397	1588
+0	0	79	157	628
+
+1	3	0	475	1900
+1	0	0	79	316
+
+2	1	145	552	2208
+
+3	0	236	409	1636
+3	1	0	145	580
+
+
+Evaluating 1 trees
+
+[00:00:02] Tree #1, initial LogLikelihood: -55806.911401
+
+[00:00:02 -55806.911401] Initial branch length optimization
+[00:00:06 -55781.572218] Model parameter optimization (eps = 0.100000)
+
+[00:00:07] Tree #1, final logLikelihood: -54509.741374
+
+
+Optimized model parameters:
+
+   Partition 0: cob
+   Speed (ML): 1.064724
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.225952 0.302077 0.103741 0.368230 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+   Partition 1: cox1
+   Speed (ML): 0.913342
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.180783 0.277916 0.139965 0.401336 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+   Partition 2: cox2
+   Speed (ML): 1.042419
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.229364 0.266515 0.133685 0.370437 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+   Partition 3: cox3
+   Speed (ML): 1.024742
+   Rate heterogeneity: NONE
+   Base frequencies (ML): 0.213736 0.275488 0.114863 0.395913 
+   Substitution rates (model): 1.000000 1.000000 1.000000 1.000000 1.000000 1.000000 
+
+Final LogLikelihood: -54509.741374
+
+AIC score: 109123.482749 / AICc score: 109124.727273 / BIC score: 109456.689631
+Free parameters (model + branch lengths): 52
+
+
+All optimized tree(s) saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q4_2.raxml.mlTrees
+Optimized model saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q4_2.raxml.bestModel
+
+Execution log saved to: /home/eglynne/EEOB563-Spring19/A5/data/Q4_2.raxml.log
+
+Analysis started: 12-Mar-2019 07:39:54 / finished: 12-Mar-2019 07:40:14
+
+Elapsed time: 20.651 seconds
+

@@ -1,0 +1,107 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Echidna
+  2. Opossum
+  3. Bandicoot
+  4. Wallaby
+  5. Elephant
+  6. Sloth
+  7. Armadillo
+  8. Tree shrew
+  9. Dog
+  10. Flying fox
+
+  11. Pig
+  12. Whale
+  13. Cat
+  14. Mouse
+  15. Hedgehog
+  16. Human
+  17. Aardvark
+  18. Rabbit
+  19. Tenrec
+  20. Platypus
+
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    1.00
+
+.........* **........         1.00
+....***... ..........         1.00
+.********* ******....         1.00
+.......**. ..........         1.00
+.......*** **........         1.00
+.......... ......**..         1.00
+.********* *********.         1.00
+....****** ******....         1.00
+.......... **........         1.00
+.......*** *****.....         1.00
+.***...... ..........         1.00
+....**.... ..........         1.00
+.********* ********..         1.00
+.**....... ..........         1.00
+.......... ...**.....         1.00
+.......*** ***.......         1.00
+....****** *****.....         1.00
+
+
+Sets NOT included in consensus tree: NONE
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of   1.00 trees
+(trees had fractional weights)
+
+                                                                                  +---------------Flying fox
+                                                                          +--1.00-|
+                                                                          |       |       +-------Whale
+                                                                          |       +--1.00-|
+                                                                  +--1.00-|               +-------Pig
+                                                                  |       |
+                                                                  |       |               +-------Tree shrew
+                                                          +--1.00-|       +----------1.00-|
+                                                          |       |                       +-------Dog
+                                                          |       |
+                                                  +--1.00-|       +-------------------------------Cat
+                                                  |       |
+                                                  |       |                               +-------Hedgehog
+                                          +--1.00-|       +--------------------------1.00-|
+                                          |       |                                       +-------Mouse
+                                          |       |
+                                          |       |                               +---------------Armadillo
+                                  +--1.00-|       +--------------------------1.00-|
+                                  |       |                                       |       +-------Sloth
+                                  |       |                                       +--1.00-|
+                                  |       |                                               +-------Elephant
+                          +--1.00-|       |
+                          |       |       +-------------------------------------------------------Human
+                          |       |
+                          |       |                                                       +-------Opossum
+                          |       |                                               +--1.00-|
+                  +--1.00-|       +------------------------------------------1.00-|       +-------Bandicoot
+                  |       |                                                       |
+                  |       |                                                       +---------------Wallaby
+                  |       |
+          +--1.00-|       |                                                               +-------Aardvark
+          |       |       +----------------------------------------------------------1.00-|
+          |       |                                                                       +-------Rabbit
+  +-------|       |
+  |       |       +-------------------------------------------------------------------------------Tenrec
+  |       |
+  |       +---------------------------------------------------------------------------------------Platypus
+  |
+  +-----------------------------------------------------------------------------------------------Echidna
+
+
+  remember: (though rerooted by outgroup) this is an unrooted tree!
+
