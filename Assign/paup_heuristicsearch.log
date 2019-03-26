@@ -1,0 +1,594 @@
+
+P A U P *
+Version 4.0a (build 164) for Unix/Linux (built on Nov  1 2018 at 23:10:44)
+Tue Feb 19 13:06:57 2019
+
+
+paup> AllTrees
+
+Error(#531): Exhaustive search is not allowed for more than 12 taxa (unrooted trees). The number of trees would exceed the maximum that can be represented as a 32-bit integer value.
+
+paup> tstatus full
+
+Taxon-status summary:
+   Original data matrix contains 20 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Platypus)
+
+Current status of all taxa:
+
+   Taxon       Status
+ 1 Platypus    -
+ 2 Echidna     -
+ 3 Opossum     -
+ 4 Wallaby     -
+ 5 Bandicoot   -
+ 6 Elephant    -
+ 7 Aardvark    -
+ 8 Tenrec      -
+ 9 Sloth       -
+10 Armadillo   -
+11 Human       -
+12 Tree shrew  -
+13 Rabbit      -
+14 Mouse       -
+15 Hedgehog    -
+16 Flying fox  -
+17 Cat         -
+18 Dog         -
+19 Pig         -
+20 Whale       -
+
+paup> hsearch start=stepwise addseq=random nreps=100 swap=TBR
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 1149 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        478 characters are constant (proportion = 0.416014)
+        121 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 550
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 1
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Branches collapsed (creating polytomies) if maximum branch length is zero
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 734497
+  Score of best tree(s) found = 3279
+  Number of trees retained = 3
+  Time used = 0.52 sec (CPU time = 0.52 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         3         1         3            3279            3      20
+     2         1         -         -            3281           12      12*
+     3         3         -         -            3281           44      15*
+     4         1         -         -            3282           26       9*
+     5         1         -         -            3283           86       1
+     6         1         -         -            3284            4       3*
+     7         1         -         -            3286            7       4*
+     8         2         -         -            3286           10       1
+     9         1         -         -            3287           30       4*
+    10         1         -         -            3288            8       9*
+    11         1         -         -            3289           28       5*
+    12         1         -         -            3290            1       2*
+    13         1         -         -            3291            6       2*
+    14         4         -         -            3291            2       1
+    15         1         -         -            3292           23       3*
+    16         2         -         -            3292            5       1
+    17         1         -         -            3293           39       1
+    18         3         -         -            3293           15       1
+    19         1         -         -            3294           64       1
+    20         2         -         -            3294           37       1
+    21         1         -         -            3295           65       1
+    22         1         -         -            3296           80       1
+    23         1         -         -            3297           73       1
+    24         1         -         -            3303           83       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> showtrees all
+
+Note: No outgroup has been defined; trees are (arbitrarily) rooted at first taxon.
+
+Tree 1 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                   /---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Echidna
+|                   |
+|                   |                                                                                                                                                             /-------------------- Opossum
+|                   |                                                                                                                                         /-------------------+
+|                   |                                                                                                                                         |                   \-------------------- Bandicoot
+|                   |                   /---------------------------------------------------------------------------------------------------------------------+
+|                   |                   |                                                                                                                     \---------------------------------------- Wallaby
+|                   |                   |
+|                   |                   |                                                                                                                     /---------------------------------------- Elephant
+\-------------------+                   |                                                                                                                     |
+                    |                   |                                                                                                  /------------------+                   /-------------------- Tenrec
+                    |                   |                                                                                                  |                  \-------------------+
+                    |                   |                                                                              /-------------------+                                      \-------------------- Hedgehog
+                    |                   |                                                                              |                   |
+                    |                   |                                                                              |                   |                                      /-------------------- Aardvark
+                    |                   |                                                                              |                   \--------------------------------------+
+                    |                   |                                                          /-------------------+                                                          \-------------------- Rabbit
+                    |                   |                                                          |                   |
+                    \-------------------+                                                          |                   |                                                          /-------------------- Sloth
+                                        |                                                          |                   \----------------------------------------------------------+
+                                        |                                                          |                                                                              \-------------------- Armadillo
+                                        |                                      /-------------------+
+                                        |                                      |                   |                                                                              /-------------------- Human
+                                        |                                      |                   |                                                          /-------------------+
+                                        |                                      |                   |                                                          |                   \-------------------- Cat
+                                        |                                      |                   |                                       /------------------+
+                                        |                                      |                   |                                       |                  \---------------------------------------- Dog
+                                        |                                      |                   \---------------------------------------+
+                                        |                  /-------------------+                                                           |                  /---------------------------------------- Flying fox
+                                        |                  |                   |                                                           |                  |
+                                        |                  |                   |                                                           \------------------+                   /-------------------- Pig
+                                        |                  |                   |                                                                              \-------------------+
+                                        \------------------+                   |                                                                                                  \-------------------- Whale
+                                                           |                   |
+                                                           |                   \----------------------------------------------------------------------------------------------------------------------- Tree shrew
+                                                           |
+                                                           \------------------------------------------------------------------------------------------------------------------------------------------- Mouse
+
+Tree 2 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                 /------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Echidna
+|                 |
+|                 |                                                                                                                                                                 /------------------ Opossum
+|                 |                                                                                                                                               /-----------------+
+|                 |                                                                                                                                               |                 \------------------ Bandicoot
+|                 |                 /-----------------------------------------------------------------------------------------------------------------------------+
+|                 |                 |                                                                                                                             \------------------------------------ Wallaby
+|                 |                 |
+|                 |                 |                                                                                                                             /------------------------------------ Elephant
+\-----------------+                 |                                                                                                                             |
+                  |                 |                                                                                                           /-----------------+                 /------------------ Tenrec
+                  |                 |                                                                                                           |                 \-----------------+
+                  |                 |                                                                                         /-----------------+                                   \------------------ Hedgehog
+                  |                 |                                                                                         |                 |
+                  |                 |                                                                                         |                 |                                   /------------------ Aardvark
+                  |                 |                                                                                         |                 \-----------------------------------+
+                  |                 |                                                                       /-----------------+                                                     \------------------ Rabbit
+                  |                 |                                                                       |                 |
+                  |                 |                                                                       |                 |                                                     /------------------ Human
+                  \-----------------+                                                                       |                 |                                   /-----------------+
+                                    |                                                                       |                 |                                   |                 \------------------ Cat
+                                    |                                                     /-----------------+                 \-----------------------------------+
+                                    |                                                     |                 |                                                     \------------------------------------ Dog
+                                    |                                                     |                 |
+                                    |                                                     |                 |                                                     /------------------------------------ Flying fox
+                                    |                                                     |                 |                                                     |
+                                    |                                   /-----------------+                 \-----------------------------------------------------+                 /------------------ Pig
+                                    |                                   |                 |                                                                       \-----------------+
+                                    |                                   |                 |                                                                                         \------------------ Whale
+                                    |                                   |                 |
+                                    |                 /-----------------+                 |                                                                                         /------------------ Sloth
+                                    |                 |                 |                 \-----------------------------------------------------------------------------------------+
+                                    |                 |                 |                                                                                                           \------------------ Armadillo
+                                    \-----------------+                 |
+                                                      |                 \------------------------------------------------------------------------------------------------------------------------------ Tree shrew
+                                                      |
+                                                      \------------------------------------------------------------------------------------------------------------------------------------------------ Mouse
+
+Tree 3 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                   /---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Echidna
+|                   |
+|                   |                                                                                                                                                             /-------------------- Opossum
+|                   |                                                                                                                                         /-------------------+
+|                   |                                                                                                                                         |                   \-------------------- Bandicoot
+|                   |                   /---------------------------------------------------------------------------------------------------------------------+
+|                   |                   |                                                                                                                     \---------------------------------------- Wallaby
+|                   |                   |
+|                   |                   |                                                                                                                     /---------------------------------------- Elephant
+\-------------------+                   |                                                                                                                     |
+                    |                   |                                                                                                  /------------------+                   /-------------------- Tenrec
+                    |                   |                                                                                                  |                  \-------------------+
+                    |                   |                                                                              /-------------------+                                      \-------------------- Hedgehog
+                    |                   |                                                                              |                   |
+                    |                   |                                                                              |                   |                                      /-------------------- Aardvark
+                    |                   |                                                                              |                   \--------------------------------------+
+                    |                   |                                                          /-------------------+                                                          \-------------------- Rabbit
+                    |                   |                                                          |                   |
+                    \-------------------+                                                          |                   |                                                          /-------------------- Sloth
+                                        |                                                          |                   \----------------------------------------------------------+
+                                        |                                                          |                                                                              \-------------------- Armadillo
+                                        |                                                          |
+                                        |                                                          |                                                                              /-------------------- Human
+                                        |                                      /-------------------+                                                          /-------------------+
+                                        |                                      |                   |                                                          |                   \-------------------- Cat
+                                        |                                      |                   |                                       /------------------+
+                                        |                                      |                   |                                       |                  \---------------------------------------- Dog
+                                        |                                      |                   |                   /-------------------+
+                                        |                  /-------------------+                   |                   |                   |                                      /-------------------- Pig
+                                        |                  |                   |                   \-------------------+                   \--------------------------------------+
+                                        |                  |                   |                                       |                                                          \-------------------- Whale
+                                        |                  |                   |                                       |
+                                        \------------------+                   |                                       \------------------------------------------------------------------------------- Flying fox
+                                                           |                   |
+                                                           |                   \----------------------------------------------------------------------------------------------------------------------- Tree shrew
+                                                           |
+                                                           \------------------------------------------------------------------------------------------------------------------------------------------- Mouse
+
+paup> savetree file=hsearch5.tre brlen=yes
+
+3 trees saved to file "~/EEOB563-Spring2019/Assignments/hsearch5.tre"
+
+paup> hsearch start=stepwise addseq=random nreps=1 swap=TBR
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 1149 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        478 characters are constant (proportion = 0.416014)
+        121 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 550
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 1
+    Starting seed = generated automatically
+    Number of trees held at each step = 1
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Branches collapsed (creating polytomies) if maximum branch length is zero
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 9085
+  Score of best tree(s) found = 3282
+  Number of trees retained = 1
+  Time used = 0.01 sec (CPU time = 0.01 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            3282            1       1
+
+paup> savetree file=hsearchTBR.tre brlen=yes
+
+1 tree saved to file "~/EEOB563-Spring2019/Assignments/hsearchTBR.tre"
+
+paup> showtrees all
+
+Note: No outgroup has been defined; tree is (arbitrarily) rooted at first taxon.
+
+Tree 1 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                     /-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Echidna
+|                     |
+|                     |                                                                                                                                                         /---------------------- Opossum
+|                     |                                                                                                                                   /---------------------+
+|                     |                                                                                                                                   |                     \---------------------- Bandicoot
+|                     |                     /-------------------------------------------------------------------------------------------------------------+
+|                     |                     |                                                                                                             \-------------------------------------------- Wallaby
+|                     |                     |
+\---------------------+                     |                                                                                                             /-------------------------------------------- Elephant
+                      |                     |                                                                                                             |
+                      |                     |                                                                                       /---------------------+                     /---------------------- Tenrec
+                      |                     |                                                                                       |                     \---------------------+
+                      |                     |                                                                 /---------------------+                                           \---------------------- Hedgehog
+                      |                     |                                                                 |                     |
+                      |                     |                                           /---------------------+                     \------------------------------------------------------------------ Aardvark
+                      |                     |                                           |                     |
+                      \---------------------+                                           |                     \---------------------------------------------------------------------------------------- Rabbit
+                                            |                                           |
+                                            |                                           |                                                                                       /---------------------- Sloth
+                                            |                                           |                                                                 /---------------------+
+                                            |                     /---------------------+                                                                 |                     \---------------------- Armadillo
+                                            |                     |                     |                     /-------------------------------------------+
+                                            |                     |                     |                     |                                           |                     /---------------------- Tree shrew
+                                            |                     |                     |                     |                                           \---------------------+
+                                            |                     |                     |                     |                                                                 \---------------------- Dog
+                                            |                     |                     \---------------------+
+                                            |                     |                                           |                                                                 /---------------------- Human
+                                            |                     |                                           |                     /-------------------------------------------+
+                                            \---------------------+                                           |                     |                                           \---------------------- Cat
+                                                                  |                                           \---------------------+
+                                                                  |                                                                 |                     /-------------------------------------------- Flying fox
+                                                                  |                                                                 |                     |
+                                                                  |                                                                 \---------------------+                     /---------------------- Pig
+                                                                  |                                                                                       \---------------------+
+                                                                  |                                                                                                             \---------------------- Whale
+                                                                  |
+                                                                  \------------------------------------------------------------------------------------------------------------------------------------ Mouse
+
+paup> savetree file=hsearchTBR.tre brlen=yes
+
+OK to replace file "hsearchTBR.tre"? (Y/n)y
+
+1 tree saved to file "~/EEOB563-Spring2019/Assignments/hsearchTBR.tre"
+
+paup> hsearch start=stepwise addseq=random nreps=1 swap=NO
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 1149 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        478 characters are constant (proportion = 0.416014)
+        121 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 550
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 1
+    Starting seed = generated automatically
+    Number of trees held at each step = 1
+  Branch-swapping algorithm: none
+  Branches collapsed (creating polytomies) if maximum branch length is zero
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 0
+  Score of best tree(s) found = 3302
+  Number of trees retained = 1
+  Time used = 0.00 sec (CPU time = 0.00 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size*     tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            3302            1       1
+
+paup> showtrees all
+
+Note: No outgroup has been defined; tree is (arbitrarily) rooted at first taxon.
+
+Tree 1 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                 /------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Echidna
+|                 |
+|                 |                                                                                                                                                                 /------------------ Opossum
+|                 |                                   /-----------------------------------------------------------------------------------------------------------------------------+
+|                 |                                   |                                                                                                                             \------------------ Bandicoot
+|                 |                                   |
+|                 |                                   |                                                                                                                             /------------------ Elephant
+|                 |                                   |                                                                                         /-----------------------------------+
+|                 |                                   |                                                                                         |                                   \------------------ Sloth
+|                 |                                   |                                                                                         |
+|                 |                                   |                                                                       /-----------------+                                   /------------------ Tenrec
+|                 |                                   |                                                                       |                 |                 /-----------------+
+|                 |                                   |                                                                       |                 |                 |                 \------------------ Hedgehog
+\-----------------+                                   |                                                     /-----------------+                 \-----------------+
+                  |                                   |                                                     |                 |                                   \------------------------------------ Armadillo
+                  |                                   |                                                     |                 |
+                  |                                   |                                                     |                 |                                                     /------------------ Aardvark
+                  |                 /-----------------+                                                     |                 \-----------------------------------------------------+
+                  |                 |                 |                                                     |                                                                       \------------------ Rabbit
+                  |                 |                 |                                                     |
+                  |                 |                 |                                   /-----------------+                                                                       /------------------ Human
+                  |                 |                 |                                   |                 |                                   /-----------------------------------+
+                  |                 |                 |                                   |                 |                                   |                                   \------------------ Cat
+                  |                 |                 |                                   |                 |                 /-----------------+
+                  |                 |                 |                                   |                 |                 |                 |                 /------------------------------------ Flying fox
+                  |                 |                 |                                   |                 |                 |                 |                 |
+                  \-----------------+                 |                 /-----------------+                 |                 |                 \-----------------+                 /------------------ Pig
+                                    |                 |                 |                 |                 \-----------------+                                   \-----------------+
+                                    |                 |                 |                 |                                   |                                                     \------------------ Whale
+                                    |                 |                 |                 |                                   |
+                                    |                 \-----------------+                 |                                   \------------------------------------------------------------------------ Dog
+                                    |                                   |                 |
+                                    |                                   |                 \------------------------------------------------------------------------------------------------------------ Tree shrew
+                                    |                                   |
+                                    |                                   \------------------------------------------------------------------------------------------------------------------------------ Mouse
+                                    |
+                                    \------------------------------------------------------------------------------------------------------------------------------------------------------------------ Wallaby
+
+paup> savetree file=hsearchNO.tre brlen=yes
+
+1 tree saved to file "~/EEOB563-Spring2019/Assignments/hsearchNO.tre"
+
+paup> hsearch start=stepwise addseq=random nreps=1 swap=NNI
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 1149 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        478 characters are constant (proportion = 0.416014)
+        121 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 550
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 1
+    Starting seed = generated automatically
+    Number of trees held at each step = 1
+  Branch-swapping algorithm: nearest-neighbor interchange (NNI)
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Branches collapsed (creating polytomies) if maximum branch length is zero
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 128
+  Score of best tree(s) found = 3290
+  Number of trees retained = 1
+  Time used = 0.00 sec (CPU time = 0.00 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            3290            1       1
+
+paup> showtrees all
+
+Note: No outgroup has been defined; tree is (arbitrarily) rooted at first taxon.
+
+Tree 1 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                 /------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Echidna
+|                 |
+|                 |                                                                                                                                                                 /------------------ Opossum
+|                 |                                                                                                                                               /-----------------+
+|                 |                                                                                                                                               |                 \------------------ Bandicoot
+|                 |                 /-----------------------------------------------------------------------------------------------------------------------------+
+|                 |                 |                                                                                                                             \------------------------------------ Wallaby
+|                 |                 |
+\-----------------+                 |                                                                                                                                               /------------------ Elephant
+                  |                 |                                   /-----------------------------------------------------------------------------------------------------------+
+                  |                 |                                   |                                                                                                           \------------------ Rabbit
+                  |                 |                                   |
+                  |                 |                                   |                                                                                                           /------------------ Tenrec
+                  |                 |                                   |                                                                                         /-----------------+
+                  |                 |                                   |                                                                                         |                 \------------------ Hedgehog
+                  |                 |                                   |                                                                       /-----------------+
+                  \-----------------+                                   |                                                     /-----------------+                 \------------------------------------ Mouse
+                                    |                                   |                                                     |                 |
+                                    |                 /-----------------+                                                     |                 \------------------------------------------------------ Armadillo
+                                    |                 |                 |                                   /-----------------+
+                                    |                 |                 |                                   |                 |                                                     /------------------ Sloth
+                                    |                 |                 |                                   |                 \-----------------------------------------------------+
+                                    |                 |                 |                 /-----------------+                                                                       \------------------ Human
+                                    |                 |                 |                 |                 |
+                                    |                 |                 |                 |                 |                                                                       /------------------ Tree shrew
+                                    |                 |                 |                 |                 \-----------------------------------------------------------------------+
+                                    |                 |                 |                 |                                                                                         \------------------ Dog
+                                    \-----------------+                 \-----------------+
+                                                      |                                   |                                                                       /------------------------------------ Flying fox
+                                                      |                                   |                                                                       |
+                                                      |                                   |                                                     /-----------------+                 /------------------ Pig
+                                                      |                                   |                                                     |                 \-----------------+
+                                                      |                                   \-----------------------------------------------------+                                   \------------------ Whale
+                                                      |                                                                                         |
+                                                      |                                                                                         \------------------------------------------------------ Cat
+                                                      |
+                                                      \------------------------------------------------------------------------------------------------------------------------------------------------ Aardvark
+
+paup> savetree file=hsearchNNI.tre brlen=yes
+
+1 tree saved to file "~/EEOB563-Spring2019/Assignments/hsearchNNI.tre"
+
+paup> hsearch start=stepwise addseq=random nreps=1 swap=SPR
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 1149 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        478 characters are constant (proportion = 0.416014)
+        121 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 550
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 1
+    Starting seed = generated automatically
+    Number of trees held at each step = 1
+  Branch-swapping algorithm: subtree-pruning-regrafting (SPR) with reconnection limit = 8
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Branches collapsed (creating polytomies) if maximum branch length is zero
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 1760
+  Score of best tree(s) found = 3300
+  Number of trees retained = 1
+  Time used = 0.00 sec (CPU time = 0.00 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            3300            1       1
+
+paup> showtrees all
+
+Note: No outgroup has been defined; tree is (arbitrarily) rooted at first taxon.
+
+Tree 1 (rooted using default outgroup)
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ Platypus
+|
+|                     /-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Echidna
+|                     |
+|                     |                                                                                                                                                         /---------------------- Opossum
+|                     |                                                                                                                                   /---------------------+
+|                     |                                                                                                                                   |                     \---------------------- Bandicoot
+|                     |                     /-------------------------------------------------------------------------------------------------------------+
+|                     |                     |                                                                                                             \-------------------------------------------- Wallaby
+|                     |                     |
+|                     |                     |                                                                                                                                   /---------------------- Elephant
+\---------------------+                     |                                                                                                             /---------------------+
+                      |                     |                                                                                                             |                     \---------------------- Sloth
+                      |                     |                                                                 /-------------------------------------------+
+                      |                     |                                                                 |                                           |                     /---------------------- Aardvark
+                      |                     |                                                                 |                                           \---------------------+
+                      |                     |                                                                 |                                                                 \---------------------- Tenrec
+                      |                     |                                                                 |
+                      |                     |                                                                 |                                                                 /---------------------- Human
+                      \---------------------+                                           /---------------------+                                           /---------------------+
+                                            |                                           |                     |                                           |                     \---------------------- Rabbit
+                                            |                                           |                     |                     /---------------------+
+                                            |                                           |                     |                     |                     |                     /---------------------- Cat
+                                            |                                           |                     |                     |                     \---------------------+
+                                            |                                           |                     \---------------------+                                           \---------------------- Dog
+                                            |                                           |                                           |
+                                            |                                           |                                           |                     /-------------------------------------------- Flying fox
+                                            |                     /---------------------+                                           |                     |
+                                            |                     |                     |                                           \---------------------+                     /---------------------- Pig
+                                            |                     |                     |                                                                 \---------------------+
+                                            |                     |                     |                                                                                       \---------------------- Whale
+                                            |                     |                     |
+                                            \---------------------+                     |                                                                                       /---------------------- Armadillo
+                                                                  |                     |                                                                 /---------------------+
+                                                                  |                     |                                                                 |                     \---------------------- Hedgehog
+                                                                  |                     \-----------------------------------------------------------------+
+                                                                  |                                                                                       \-------------------------------------------- Tree shrew
+                                                                  |
+                                                                  \------------------------------------------------------------------------------------------------------------------------------------ Mouse
+
+paup> savetree file=hsearchSPR.tre brlen=yes
+
+1 tree saved to file "~/EEOB563-Spring2019/Assignments/hsearchSPR.tre"
+
+paup> cleartrees
+
+All trees have been cleared from memory.
+
+paup> log stop
