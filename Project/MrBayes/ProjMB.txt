@@ -1,0 +1,2504 @@
+   Logging screen output to file "ProjMB.txt"
+
+MrBayes > 
+   Executing file "../OriginalData/Dirunality+6gene_data.nxs"
+   Could not open file "../OriginalData/Dirunality+6gene_data.nxs"
+
+   Returning execution to command line ...
+
+   Error in command "Execute"
+
+MrBayes > 
+   Executing file "../OriginalData/Diurnality_6gene_data.nxs"
+   DOS line termination
+   Longest line length = 301548
+   Parsing file
+   Expecting NEXUS formatted file
+   Reading data block
+      Allocated taxon set
+      Allocated matrix
+      Defining new matrix with 280 taxa and 4106 characters
+      Data is Dna
+      Missing data coded as ?
+      Gaps coded as -
+      Taxon   1 -> Aeluroscalabotes.felinus.JB16
+      Taxon   2 -> Afroedura.karroica.PEM1112
+      Taxon   3 -> Afroedura.loveridgei.GVH3969
+      Taxon   4 -> Kolekanos.plumicaudus.WDH1
+      Taxon   5 -> Afrogecko.porphyreus.CAS206995
+      Taxon   6 -> Ramigekko.swartbergensis.JB47
+      Taxon   7 -> Agamura.persica.FMNH247474
+      Taxon   8 -> Ailuronyx.tachyscopaeus.MCZF38717
+      Taxon   9 -> Ailuronyx.trachygaster.AMB8160
+      Taxon  10 -> Alsophylax.pipiens.CAS238805
+      Taxon  11 -> Aprasia.inaurita
+      Taxon  12 -> Aprasia.parapulchella.MVD66569
+      Taxon  13 -> Aristelliger.georgeensis.JB101
+      Taxon  14 -> Aristelliger.lar.JB01
+      Taxon  15 -> Aristelliger.praesignis.USNM337563
+      Taxon  16 -> Asaccus.platyrhynchus.CAS227605
+      Taxon  17 -> Asaccus.sp.JB15
+      Taxon  18 -> Bavayia.cyclura.AMB7683
+      Taxon  19 -> Bavayia.geitaina.AMB7229
+      Taxon  20 -> Paniegekko.madjo.AMSR149329
+      Taxon  21 -> Blaesodactylus.antongilensis.ZSM410.2005
+      Taxon  22 -> Bunopus.tuberculatus.CAS228737
+      Taxon  23 -> Calodactylodes.illingworthorum.AMB7415
+      Taxon  24 -> Carphodactylus.laevis.AMS143258
+      Taxon  25 -> Chatogekko.amazonicus.LSUMZ14050
+      Taxon  26 -> Chatogekko.amazonicus.LSUMZ14233
+      Taxon  27 -> Chatogekko.amazonicus.LSUMZ16400
+      Taxon  28 -> Chondrodactylus.angulifer.MCZF38623
+      Taxon  29 -> Chondrodactylus.fitzsimonsi.CAS193884
+      Taxon  30 -> Christinus.marmoratus.AMS135330
+      Taxon  31 -> Cnemaspis.africana.FMNH251355
+      Taxon  32 -> Cnemaspis.dickersonae.MTSN8604
+      Taxon  33 -> Cnemaspis.kandiana.AMB7508
+      Taxon  34 -> Cnemaspis.kendalii.LSHC6562
+      Taxon  35 -> Cnemaspis.limi.LSHC6267
+      Taxon  36 -> Cnemaspis.podihuna.AMB7449
+      Taxon  37 -> Cnemaspis.uzungwe.MTSN5603
+      Taxon  38 -> Coleodactylus.brachystoma.MZUSP92569
+      Taxon  39 -> Coleodactylus.cf.brachystoma.CHUNB43901
+      Taxon  40 -> Coleodactylus.septentrionalis.LSUMZ12351
+      Taxon  41 -> Coleonyx.brevis.TG00194
+      Taxon  42 -> Coleonyx.mitratus.TG00075
+      Taxon  43 -> Coleonyx.variegatus.CAS205334
+      Taxon  44 -> Colopus.kochi.CAS214308
+      Taxon  45 -> Colopus.wahlbergii.NMZ16974
+      Taxon  46 -> Crenadactylus.ocellatus.AMSR162089
+      Taxon  47 -> Crossobamon.orientalis.ID7618
+      Taxon  48 -> Cryptactites.peringueyi.CAS186374
+      Taxon  49 -> Cyrtodactylus.angularis.FMNH265815
+      Taxon  50 -> Cyrtodactylus.ayeyarwardyensis.CAS216446
+      Taxon  51 -> Cyrtodactylus.novaeguineae.FK11689
+      Taxon  52 -> Cyrtodactylus.philippinicus.FMNH236073
+      Taxon  53 -> Cyrtopodion.scabrum.TG00109
+      Taxon  54 -> Delma.butleri.SAMR36144
+      Taxon  55 -> Delma.tincta.AMS151607
+      Taxon  56 -> Dierogekko.insularis.AMSR161069
+      Taxon  57 -> Diplodactylus.conspicillatus.AMS158426
+      Taxon  58 -> Diplodactylus.tesselatus.AMS143855
+      Taxon  59 -> Dixonius.siamensis.LSHC7328
+      Taxon  60 -> Dixonius.vietnamensis.FMNH263003
+      Taxon  61 -> Ebenavia.inunguis.ZCMV2099
+      Taxon  62 -> Elasmodactylus.tetensis.PEM5551
+      Taxon  63 -> Eublepharis.macularius.TG00081
+      Taxon  64 -> Euleptes.europaea.NoID
+      Taxon  65 -> Eurydactylodes.agricolae.AMSR149366
+      Taxon  66 -> Gonatodes.antillensis.YPM17583
+      Taxon  67 -> Garthia.gaudichaudii.SC1
+      Taxon  68 -> Geckoella.triedra.35A
+      Taxon  69 -> Geckolepis.maculata.FGZC463
+      Taxon  70 -> Gehyra.australis.AMS139934
+      Taxon  71 -> Gehyra.dubia.AMS152245
+      Taxon  72 -> Gehyra.mutilata.JFBM15819
+      Taxon  73 -> Gehyra.nana.AMS140070
+      Taxon  74 -> Gehyra.cf.oceanica.FK11878
+      Taxon  75 -> Gehyra.variegata.AMS140478
+      Taxon  76 -> Gekko.badenii.TG00095
+      Taxon  77 -> Gekko.chinensis.LSHC4209
+      Taxon  78 -> Gekko.gecko.TG00079
+      Taxon  79 -> Gekko.cf.grossmani.NoID
+      Taxon  80 -> Gekko.mindoroensis.KU303912
+      Taxon  81 -> Gekko.monarchus.PEMR5412
+      Taxon  82 -> Gekko.subpalmatus.AMB5567
+      Taxon  83 -> Gekko.vittatus.BPBM19780
+      Taxon  84 -> Goggia.lineata.AMB4762
+      Taxon  85 -> Gonatodes.albogularis.MVZ204073
+      Taxon  86 -> Gonatodes.alexandermendesi.BPN1303
+      Taxon  87 -> Gonatodes.annularis.NoID
+      Taxon  88 -> Gonatodes.caudiscutatus.KU218359
+      Taxon  89 -> Gonatodes.ceciliae.TG00039
+      Taxon  90 -> Gonatodes.concinnatus.LSUMZ12688
+      Taxon  91 -> Gonatodes.daudini.JB38
+      Taxon  92 -> Gonatodes.humeralis.MF19492
+      Taxon  93 -> Gonatodes.ocellatus.TG00038
+      Taxon  94 -> Gonatodes.vittatus.TG00040
+      Taxon  95 -> Goniurosaurus.araneus.JFBM15830
+      Taxon  96 -> Goniurosaurus.luii.TG00795
+      Taxon  97 -> Gymnodactylus.amarali.CHUNB38646
+      Taxon  98 -> Haemodracon.riebeckii.JB11
+      Taxon  99 -> Hemidactylus.brasilianus.MZUSP92493
+      Taxon 100 -> Hemidactylus.fasciatus.ROM
+      Taxon 101 -> Hemidactylus.flavivirdis.FMNH245515
+      Taxon 102 -> Hemidactylus.frenatus.TG00088
+      Taxon 103 -> Hemidactylus.greeffi.CAS219044
+      Taxon 104 -> Hemidactylus.imbricatus.TG00568
+      Taxon 105 -> Hemidactylus.mabouia.JEM1864
+      Taxon 106 -> Hemidactylus.macropholis.CAS227520
+      Taxon 107 -> Hemidactylus.palaichthus.LSUMZ12421
+      Taxon 108 -> Hemidactylus.platyurus.JFBM15815
+      Taxon 109 -> Hemidactylus.robustus.FMNH245519
+      Taxon 110 -> Hemidactylus.turcicus.TG00567
+      Taxon 111 -> Hemiphyllodactylus.titiwangsaensis.LSHC7208
+      Taxon 112 -> Hemiphyllodactylus.yunnanensis.FMNH258695
+      Taxon 113 -> Hemitheconyx.caudicinctus.TG00180
+      Taxon 114 -> Hemitheconyx.taylori.JB12
+      Taxon 115 -> Heteronotia.binoei.AMS151170
+      Taxon 116 -> Heteronotia.planiceps.AMS140331
+      Taxon 117 -> Holodactylus.africanus.CAS198845
+      Taxon 118 -> Homonota.darwinii.LJAMM4601
+      Taxon 119 -> Homonota.fasciata.TG00085
+      Taxon 120 -> Homopholis.fasciatus.TG00191
+      Taxon 121 -> Lepidoblepharis.festae.LSUMZ12704
+      Taxon 122 -> Lepidoblepharis.sp.KU218367
+      Taxon 123 -> Lepidoblepharis.xanthostigma.MVZ171438
+      Taxon 124 -> Lepidodactylus.lugubris.AMB4111
+      Taxon 125 -> Lepidodactylus.novaeguineae.BPBM15842
+      Taxon 126 -> Lialis.burtonis.TG00078
+      Taxon 127 -> Lucasium.damaeum.AMB54
+      Taxon 128 -> Lucasium.stenodactylum.AMS139897
+      Taxon 129 -> Luperosaurus.cumingii.RMB3546
+      Taxon 130 -> Lygodactylus.bivittis.FGMV2001.A21
+      Taxon 131 -> Lygodactylus.bradfieldi.AMB7628
+      Taxon 132 -> Lygodactylus.klugei
+      Taxon 133 -> Lygodactylus.miops.ZSM116.2004
+      Taxon 134 -> Lygodactylus.miribilis.FGMV2000.B3
+      Taxon 135 -> Lygodactylus.tolampyae.FGMV2001.C4
+      Taxon 136 -> Matoatoa.brevipes.FGMV2002.2237
+      Taxon 137 -> Mediodactylus.russowii.AMB8701
+      Taxon 138 -> Mediodactylus.spinicauda.CAS228709
+      Taxon 139 -> Microgecko.persicus.JB27
+      Taxon 140 -> Nactus.pelagicus.CAS229289
+      Taxon 141 -> Nactus.vankampeni.FK11384
+      Taxon 142 -> Narudasia.festiva.AMB3243
+      Taxon 143 -> Naultinus.elegans.Whangarei
+      Taxon 144 -> Naultinus.gemmeus.RAH464
+      Taxon 145 -> Naultinus.rudis.RAH388
+      Taxon 146 -> Nephrurus.levis.AMS140561
+      Taxon 147 -> Oedodera.marmorata.CAS230936
+      Taxon 148 -> Nebulifera.robusta.ABTC3938
+      Taxon 149 -> Hesperoedura.reticulata.SAMAR23035
+      Taxon 150 -> Oedura.marmorata.AMS143861
+      Taxon 151 -> Amalosia.rhombifer.AMS136216
+      Taxon 152 -> Ophidiocephalus.taeniatus.SAMR44653
+      Taxon 153 -> Orraya.occultus.QMA002513
+      Taxon 154 -> Phyllopezus.periosus.MTR887022
+      Taxon 155 -> Pachydactylus.gaiasensis.AMB7596
+      Taxon 156 -> Pachydactylus.kladaroderma.PEM1253
+      Taxon 157 -> Pachydactylus.punctatus.MCZR184457
+      Taxon 158 -> Pachydactylus.rugosus.CAS201905
+      Taxon 159 -> Pachydactylus.vanzlyi.jvv1761
+      Taxon 160 -> Paradelma.orientalis.QMJ56089
+      Taxon 161 -> Paragehyra.gabriellae.FGZC2366
+      Taxon 162 -> Paroedura.masobe.JFBM15832
+      Taxon 163 -> Paroedura.picta.FGMV2001.B1
+      Taxon 164 -> Perochirus.ateles.DBDmale
+      Taxon 165 -> Phelsuma.borbonica.JB95
+      Taxon 166 -> Phelsuma.guentheri
+      Taxon 167 -> Phelsuma.laticauda.TG00232
+      Taxon 168 -> Phelsuma.madagascariensis.FGMV2002.797
+      Taxon 169 -> Phelsuma.modesta.ZSM35.2004
+      Taxon 170 -> Rhoptropella.ocellata.CAS186351
+      Taxon 171 -> Phelsuma.rosagularis.JB109
+      Taxon 172 -> Phyllodactylus.reissii.JB39
+      Taxon 173 -> Phyllodactylus.tuberculosus.KU289758
+      Taxon 174 -> Phyllodactylus.unctus.ROM39002
+      Taxon 175 -> Phyllodactylus.wirshingi.TG00722
+      Taxon 176 -> Phyllodactylus.xanti.ROM38490
+      Taxon 177 -> Phyllopezus.lutzae.CHUNB50462
+      Taxon 178 -> Phyllopezus.maranjonensis.ZFMK84996
+      Taxon 179 -> Phyllopezus.pollicaris.CHUNB43850
+      Taxon 180 -> Phyllopezus.pollicaris.JFBM
+      Taxon 181 -> Phyllopezus.pollicaris.MZUSP92491
+      Taxon 182 -> Phyllurus.platurus.AMB42
+      Taxon 183 -> Pletholax.gracilis.WBJ2483
+      Taxon 184 -> Pristurus.carteri.TG00083
+      Taxon 185 -> Pseudogekko.smaragdina.KU303995
+      Taxon 186 -> Pseudogonatodes.guianensis.AMCC106916
+      Taxon 187 -> Pseudogonatodes.guianensis.KU222142
+      Taxon 188 -> Pseudogonatodes.guianensis.LSUMZ13583
+      Taxon 189 -> Pseudothecadactylus.lindneri.MVZ99544
+      Taxon 190 -> Ptenopus.carpi.CAS214534
+      Taxon 191 -> Ptychozoon.kuhli.RMB1134
+      Taxon 192 -> Ptychozoon.lionatum.CAS221163
+      Taxon 193 -> Ptyodactylus.guttatus.TG00072
+      Taxon 194 -> Pygopus.lepidopodus.WBJ1206
+      Taxon 195 -> Pygopus.nigriceps.MVZ197233
+      Taxon 196 -> Quedenfeldtia.moerens.JB77
+      Taxon 197 -> Quedenfeldtia.trachyblepharus.MVZ178121
+      Taxon 198 -> Correlophus.ciliatus.AMS146595
+      Taxon 199 -> Rhacodactylus.leachianus.AMB7189
+      Taxon 200 -> Rhoptropus.afer.MCZR183711
+      Taxon 201 -> Rhoptropus.boultoni.CAS214713
+      Taxon 202 -> Rhoptropus.diporus.MCZR183737
+      Taxon 203 -> Rhynchoedura.ornata.AMS155371
+      Taxon 204 -> Saltuarius.swaini.AMS143262
+      Taxon 205 -> Saurodactylus.brosseti.TG00082
+      Taxon 206 -> Saurodactylus.fasciatus.DJHM616
+      Taxon 207 -> Saurodactylus.mauritainicus.DGHSm61
+      Taxon 208 -> Sphaerodactylus.leucaster.Glor5269
+      Taxon 209 -> Sphaerodactylus.argus.TG00125
+      Taxon 210 -> Sphaerodactylus.elegans.YPM14795
+      Taxon 211 -> Sphaerodactylus.glaucus.JAC24229
+      Taxon 212 -> Sphaerodactylus.grandisquamis.TG00099
+      Taxon 213 -> Sphaerodactylus.nicholsi.TG00211
+      Taxon 214 -> Sphaerodactylus.nigropunctatus.FLMNH144010
+      Taxon 215 -> Sphaerodactylus.notatus.FLMNH132440
+      Taxon 216 -> Sphaerodactylus.roosevelti.TG691
+      Taxon 217 -> Sphaerodactylus.torrei.JB34
+      Taxon 218 -> Sphaerodactylus.townsendi.TG00210
+      Taxon 219 -> Stenodactylus.sthenodactylus.MVZ235804
+      Taxon 220 -> Strophurus.aberrans.AMS136023
+      Taxon 221 -> Strophurus.elderi.AMS130987
+      Taxon 222 -> Strophurus.strophurus.AMS140536
+      Taxon 223 -> Tarentola.americana.MVZ241223
+      Taxon 224 -> Tarentola.chazaliae.TG00130
+      Taxon 225 -> Tarentola.delalandii.JB43
+      Taxon 226 -> Tarentola.deserti.JB44
+      Taxon 227 -> Tarentola.fascicularus.JB29
+      Taxon 228 -> Tarentola.mauritanica.TG00129
+      Taxon 229 -> Tenuidactylus.caspius.CAS228602
+      Taxon 230 -> Tenuidactylus.longipes.CAS226830
+      Taxon 231 -> Teratoscincus.keyserlingii.CAS228808
+      Taxon 232 -> Teratoscincus.microlepis.TG00074
+      Taxon 233 -> Teratoscincus.przewalskii.TG00233
+      Taxon 234 -> Teratoscincus.roborowskii.JFBM
+      Taxon 235 -> Teratoscincus.scincus.JFBM14252
+      Taxon 236 -> Thecadactylus.rapicauda.ENS7108
+      Taxon 237 -> Thecadactylus.rapicauda.USNM561446
+      Taxon 238 -> Thecadactylus.solimoensis.KU214929
+      Taxon 239 -> Toropuku.stephensi.RAH554
+      Taxon 240 -> Tropiocolotes.tripolitanus.FMNH262276
+      Taxon 241 -> Tukutuku.rakiurae.RAH238
+      Taxon 242 -> Underwoodisaurus.milii.AMB499
+      Taxon 243 -> Urocotyledon.inexpectatus.MCZF38723
+      Taxon 244 -> Uroplatus.giganteus.ZCMV864
+      Taxon 245 -> Uroplatus.guentheri.FGMV2001.C21
+      Taxon 246 -> Uroplatus.henkeli.FGMV2000.C1
+      Taxon 247 -> Uroplatus.phantasticus.FGMV2002.640
+      Taxon 248 -> Uvidicolus.sphyrurus.AMS152397
+      Taxon 249 -> Woodworthia.maculata.RAH292
+      Taxon 250 -> Hoplodactylus.duvaucelii.FT277
+      Taxon 251 -> Dactylocnemis.pacificus.CD859
+      Taxon 252 -> Mokopirirakau.granulatus.RAH340
+      Taxon 253 -> Mniarogekko.jalu.AMSR161238
+      Taxon 254 -> Altigekko.stoliczkai.PMNH2323
+      Taxon 255 -> Asiocolotes.levitoni.PMNH2431
+      Taxon 256 -> Tenuidactylus.elongatus.JB127
+      Taxon 257 -> Tenuidactylus.fedtschenkoi.JEM346
+      Taxon 258 -> Cyrtopodion.kohsulaimanai.PMH2388
+      Taxon 259 -> Indogekko.rohtasfortai.PMNH2391
+      Taxon 260 -> Mediodactylus.brachykolon.PMNH2165
+      Taxon 261 -> Siwaligekko.battalensis.PMNH2301
+      Taxon 262 -> Stenodactylus.doriae.JB20
+      Taxon 263 -> Lepidodactylus.orientalis.BPBM19794
+      Taxon 264 -> Pristurus.sp.UAE
+      Taxon 265 -> Amphisbaena
+      Taxon 266 -> Anolis.carolinensis.JBLSC1
+      Taxon 267 -> Aspidoscelis.tigris.TG0069
+      Taxon 268 -> Dibamus.bouretti
+      Taxon 269 -> Elagaria.kingii.TG000656
+      Taxon 270 -> Eumeces.inexpectatus
+      Taxon 271 -> Heloderma.suspectum
+      Taxon 272 -> Podarcis.sicula
+      Taxon 273 -> Ramphotyphlops.braminus.JFBM
+      Taxon 274 -> Rhineura.floridana
+      Taxon 275 -> Sphenodon.punctatus
+      Taxon 276 -> Trachydosaurus.rugosus.JFBM
+      Taxon 277 -> Xantusia.vigilis
+      Taxon 278 -> Trioceros.jacksonii
+      Taxon 279 -> Python.molurus
+      Taxon 280 -> Gallus
+      Successfully read matrix
+      Setting default partition (does not divide up characters)
+      Setting model defaults
+      Seed (for generating default start values) = 1555356959
+      Setting output file names to "../OriginalData/Diurnality_6gene_data.nxs.run<i>.<p|t>"
+   Exiting data block
+   Skipping "sets" block
+   Reading trees block
+      Expecting ': or , or )'
+      Instead found '[' in command 'Tree'
+      The error occurred when reading char. 2216-2216 on line 2019
+         in the file '../OriginalData/Diurnality_6gene_data.nxs'
+
+   Returning execution to command line ...
+
+   Error in command "Execute"
+
+MrBayes > 
+   Could not find command "eDirunality_6gene_edit.nxs"
+
+MrBayes > 
+   Executing file "Diurnality_6gene_edit.nxs"
+   DOS line termination
+   Longest line length = 1460
+   Parsing file
+   Expecting NEXUS formatted file
+   Deleting previously defined characters
+   Deleting previously defined taxa
+   Reading data block
+      Allocated taxon set
+      Allocated matrix
+      Defining new matrix with 280 taxa and 4106 characters
+      Data is Dna
+      Missing data coded as ?
+      Gaps coded as -
+      Taxon   1 -> Aeluroscalabotes.felinus.JB16
+      Taxon   2 -> Afroedura.karroica.PEM1112
+      Taxon   3 -> Afroedura.loveridgei.GVH3969
+      Taxon   4 -> Kolekanos.plumicaudus.WDH1
+      Taxon   5 -> Afrogecko.porphyreus.CAS206995
+      Taxon   6 -> Ramigekko.swartbergensis.JB47
+      Taxon   7 -> Agamura.persica.FMNH247474
+      Taxon   8 -> Ailuronyx.tachyscopaeus.MCZF38717
+      Taxon   9 -> Ailuronyx.trachygaster.AMB8160
+      Taxon  10 -> Alsophylax.pipiens.CAS238805
+      Taxon  11 -> Aprasia.inaurita
+      Taxon  12 -> Aprasia.parapulchella.MVD66569
+      Taxon  13 -> Aristelliger.georgeensis.JB101
+      Taxon  14 -> Aristelliger.lar.JB01
+      Taxon  15 -> Aristelliger.praesignis.USNM337563
+      Taxon  16 -> Asaccus.platyrhynchus.CAS227605
+      Taxon  17 -> Asaccus.sp.JB15
+      Taxon  18 -> Bavayia.cyclura.AMB7683
+      Taxon  19 -> Bavayia.geitaina.AMB7229
+      Taxon  20 -> Paniegekko.madjo.AMSR149329
+      Taxon  21 -> Blaesodactylus.antongilensis.ZSM410.2005
+      Taxon  22 -> Bunopus.tuberculatus.CAS228737
+      Taxon  23 -> Calodactylodes.illingworthorum.AMB7415
+      Taxon  24 -> Carphodactylus.laevis.AMS143258
+      Taxon  25 -> Chatogekko.amazonicus.LSUMZ14050
+      Taxon  26 -> Chatogekko.amazonicus.LSUMZ14233
+      Taxon  27 -> Chatogekko.amazonicus.LSUMZ16400
+      Taxon  28 -> Chondrodactylus.angulifer.MCZF38623
+      Taxon  29 -> Chondrodactylus.fitzsimonsi.CAS193884
+      Taxon  30 -> Christinus.marmoratus.AMS135330
+      Taxon  31 -> Cnemaspis.africana.FMNH251355
+      Taxon  32 -> Cnemaspis.dickersonae.MTSN8604
+      Taxon  33 -> Cnemaspis.kandiana.AMB7508
+      Taxon  34 -> Cnemaspis.kendalii.LSHC6562
+      Taxon  35 -> Cnemaspis.limi.LSHC6267
+      Taxon  36 -> Cnemaspis.podihuna.AMB7449
+      Taxon  37 -> Cnemaspis.uzungwe.MTSN5603
+      Taxon  38 -> Coleodactylus.brachystoma.MZUSP92569
+      Taxon  39 -> Coleodactylus.cf.brachystoma.CHUNB43901
+      Taxon  40 -> Coleodactylus.septentrionalis.LSUMZ12351
+      Taxon  41 -> Coleonyx.brevis.TG00194
+      Taxon  42 -> Coleonyx.mitratus.TG00075
+      Taxon  43 -> Coleonyx.variegatus.CAS205334
+      Taxon  44 -> Colopus.kochi.CAS214308
+      Taxon  45 -> Colopus.wahlbergii.NMZ16974
+      Taxon  46 -> Crenadactylus.ocellatus.AMSR162089
+      Taxon  47 -> Crossobamon.orientalis.ID7618
+      Taxon  48 -> Cryptactites.peringueyi.CAS186374
+      Taxon  49 -> Cyrtodactylus.angularis.FMNH265815
+      Taxon  50 -> Cyrtodactylus.ayeyarwardyensis.CAS216446
+      Taxon  51 -> Cyrtodactylus.novaeguineae.FK11689
+      Taxon  52 -> Cyrtodactylus.philippinicus.FMNH236073
+      Taxon  53 -> Cyrtopodion.scabrum.TG00109
+      Taxon  54 -> Delma.butleri.SAMR36144
+      Taxon  55 -> Delma.tincta.AMS151607
+      Taxon  56 -> Dierogekko.insularis.AMSR161069
+      Taxon  57 -> Diplodactylus.conspicillatus.AMS158426
+      Taxon  58 -> Diplodactylus.tesselatus.AMS143855
+      Taxon  59 -> Dixonius.siamensis.LSHC7328
+      Taxon  60 -> Dixonius.vietnamensis.FMNH263003
+      Taxon  61 -> Ebenavia.inunguis.ZCMV2099
+      Taxon  62 -> Elasmodactylus.tetensis.PEM5551
+      Taxon  63 -> Eublepharis.macularius.TG00081
+      Taxon  64 -> Euleptes.europaea.NoID
+      Taxon  65 -> Eurydactylodes.agricolae.AMSR149366
+      Taxon  66 -> Gonatodes.antillensis.YPM17583
+      Taxon  67 -> Garthia.gaudichaudii.SC1
+      Taxon  68 -> Geckoella.triedra.35A
+      Taxon  69 -> Geckolepis.maculata.FGZC463
+      Taxon  70 -> Gehyra.australis.AMS139934
+      Taxon  71 -> Gehyra.dubia.AMS152245
+      Taxon  72 -> Gehyra.mutilata.JFBM15819
+      Taxon  73 -> Gehyra.nana.AMS140070
+      Taxon  74 -> Gehyra.cf.oceanica.FK11878
+      Taxon  75 -> Gehyra.variegata.AMS140478
+      Taxon  76 -> Gekko.badenii.TG00095
+      Taxon  77 -> Gekko.chinensis.LSHC4209
+      Taxon  78 -> Gekko.gecko.TG00079
+      Taxon  79 -> Gekko.cf.grossmani.NoID
+      Taxon  80 -> Gekko.mindoroensis.KU303912
+      Taxon  81 -> Gekko.monarchus.PEMR5412
+      Taxon  82 -> Gekko.subpalmatus.AMB5567
+      Taxon  83 -> Gekko.vittatus.BPBM19780
+      Taxon  84 -> Goggia.lineata.AMB4762
+      Taxon  85 -> Gonatodes.albogularis.MVZ204073
+      Taxon  86 -> Gonatodes.alexandermendesi.BPN1303
+      Taxon  87 -> Gonatodes.annularis.NoID
+      Taxon  88 -> Gonatodes.caudiscutatus.KU218359
+      Taxon  89 -> Gonatodes.ceciliae.TG00039
+      Taxon  90 -> Gonatodes.concinnatus.LSUMZ12688
+      Taxon  91 -> Gonatodes.daudini.JB38
+      Taxon  92 -> Gonatodes.humeralis.MF19492
+      Taxon  93 -> Gonatodes.ocellatus.TG00038
+      Taxon  94 -> Gonatodes.vittatus.TG00040
+      Taxon  95 -> Goniurosaurus.araneus.JFBM15830
+      Taxon  96 -> Goniurosaurus.luii.TG00795
+      Taxon  97 -> Gymnodactylus.amarali.CHUNB38646
+      Taxon  98 -> Haemodracon.riebeckii.JB11
+      Taxon  99 -> Hemidactylus.brasilianus.MZUSP92493
+      Taxon 100 -> Hemidactylus.fasciatus.ROM
+      Taxon 101 -> Hemidactylus.flavivirdis.FMNH245515
+      Taxon 102 -> Hemidactylus.frenatus.TG00088
+      Taxon 103 -> Hemidactylus.greeffi.CAS219044
+      Taxon 104 -> Hemidactylus.imbricatus.TG00568
+      Taxon 105 -> Hemidactylus.mabouia.JEM1864
+      Taxon 106 -> Hemidactylus.macropholis.CAS227520
+      Taxon 107 -> Hemidactylus.palaichthus.LSUMZ12421
+      Taxon 108 -> Hemidactylus.platyurus.JFBM15815
+      Taxon 109 -> Hemidactylus.robustus.FMNH245519
+      Taxon 110 -> Hemidactylus.turcicus.TG00567
+      Taxon 111 -> Hemiphyllodactylus.titiwangsaensis.LSHC7208
+      Taxon 112 -> Hemiphyllodactylus.yunnanensis.FMNH258695
+      Taxon 113 -> Hemitheconyx.caudicinctus.TG00180
+      Taxon 114 -> Hemitheconyx.taylori.JB12
+      Taxon 115 -> Heteronotia.binoei.AMS151170
+      Taxon 116 -> Heteronotia.planiceps.AMS140331
+      Taxon 117 -> Holodactylus.africanus.CAS198845
+      Taxon 118 -> Homonota.darwinii.LJAMM4601
+      Taxon 119 -> Homonota.fasciata.TG00085
+      Taxon 120 -> Homopholis.fasciatus.TG00191
+      Taxon 121 -> Lepidoblepharis.festae.LSUMZ12704
+      Taxon 122 -> Lepidoblepharis.sp.KU218367
+      Taxon 123 -> Lepidoblepharis.xanthostigma.MVZ171438
+      Taxon 124 -> Lepidodactylus.lugubris.AMB4111
+      Taxon 125 -> Lepidodactylus.novaeguineae.BPBM15842
+      Taxon 126 -> Lialis.burtonis.TG00078
+      Taxon 127 -> Lucasium.damaeum.AMB54
+      Taxon 128 -> Lucasium.stenodactylum.AMS139897
+      Taxon 129 -> Luperosaurus.cumingii.RMB3546
+      Taxon 130 -> Lygodactylus.bivittis.FGMV2001.A21
+      Taxon 131 -> Lygodactylus.bradfieldi.AMB7628
+      Taxon 132 -> Lygodactylus.klugei
+      Taxon 133 -> Lygodactylus.miops.ZSM116.2004
+      Taxon 134 -> Lygodactylus.miribilis.FGMV2000.B3
+      Taxon 135 -> Lygodactylus.tolampyae.FGMV2001.C4
+      Taxon 136 -> Matoatoa.brevipes.FGMV2002.2237
+      Taxon 137 -> Mediodactylus.russowii.AMB8701
+      Taxon 138 -> Mediodactylus.spinicauda.CAS228709
+      Taxon 139 -> Microgecko.persicus.JB27
+      Taxon 140 -> Nactus.pelagicus.CAS229289
+      Taxon 141 -> Nactus.vankampeni.FK11384
+      Taxon 142 -> Narudasia.festiva.AMB3243
+      Taxon 143 -> Naultinus.elegans.Whangarei
+      Taxon 144 -> Naultinus.gemmeus.RAH464
+      Taxon 145 -> Naultinus.rudis.RAH388
+      Taxon 146 -> Nephrurus.levis.AMS140561
+      Taxon 147 -> Oedodera.marmorata.CAS230936
+      Taxon 148 -> Nebulifera.robusta.ABTC3938
+      Taxon 149 -> Hesperoedura.reticulata.SAMAR23035
+      Taxon 150 -> Oedura.marmorata.AMS143861
+      Taxon 151 -> Amalosia.rhombifer.AMS136216
+      Taxon 152 -> Ophidiocephalus.taeniatus.SAMR44653
+      Taxon 153 -> Orraya.occultus.QMA002513
+      Taxon 154 -> Phyllopezus.periosus.MTR887022
+      Taxon 155 -> Pachydactylus.gaiasensis.AMB7596
+      Taxon 156 -> Pachydactylus.kladaroderma.PEM1253
+      Taxon 157 -> Pachydactylus.punctatus.MCZR184457
+      Taxon 158 -> Pachydactylus.rugosus.CAS201905
+      Taxon 159 -> Pachydactylus.vanzlyi.jvv1761
+      Taxon 160 -> Paradelma.orientalis.QMJ56089
+      Taxon 161 -> Paragehyra.gabriellae.FGZC2366
+      Taxon 162 -> Paroedura.masobe.JFBM15832
+      Taxon 163 -> Paroedura.picta.FGMV2001.B1
+      Taxon 164 -> Perochirus.ateles.DBDmale
+      Taxon 165 -> Phelsuma.borbonica.JB95
+      Taxon 166 -> Phelsuma.guentheri
+      Taxon 167 -> Phelsuma.laticauda.TG00232
+      Taxon 168 -> Phelsuma.madagascariensis.FGMV2002.797
+      Taxon 169 -> Phelsuma.modesta.ZSM35.2004
+      Taxon 170 -> Rhoptropella.ocellata.CAS186351
+      Taxon 171 -> Phelsuma.rosagularis.JB109
+      Taxon 172 -> Phyllodactylus.reissii.JB39
+      Taxon 173 -> Phyllodactylus.tuberculosus.KU289758
+      Taxon 174 -> Phyllodactylus.unctus.ROM39002
+      Taxon 175 -> Phyllodactylus.wirshingi.TG00722
+      Taxon 176 -> Phyllodactylus.xanti.ROM38490
+      Taxon 177 -> Phyllopezus.lutzae.CHUNB50462
+      Taxon 178 -> Phyllopezus.maranjonensis.ZFMK84996
+      Taxon 179 -> Phyllopezus.pollicaris.CHUNB43850
+      Taxon 180 -> Phyllopezus.pollicaris.JFBM
+      Taxon 181 -> Phyllopezus.pollicaris.MZUSP92491
+      Taxon 182 -> Phyllurus.platurus.AMB42
+      Taxon 183 -> Pletholax.gracilis.WBJ2483
+      Taxon 184 -> Pristurus.carteri.TG00083
+      Taxon 185 -> Pseudogekko.smaragdina.KU303995
+      Taxon 186 -> Pseudogonatodes.guianensis.AMCC106916
+      Taxon 187 -> Pseudogonatodes.guianensis.KU222142
+      Taxon 188 -> Pseudogonatodes.guianensis.LSUMZ13583
+      Taxon 189 -> Pseudothecadactylus.lindneri.MVZ99544
+      Taxon 190 -> Ptenopus.carpi.CAS214534
+      Taxon 191 -> Ptychozoon.kuhli.RMB1134
+      Taxon 192 -> Ptychozoon.lionatum.CAS221163
+      Taxon 193 -> Ptyodactylus.guttatus.TG00072
+      Taxon 194 -> Pygopus.lepidopodus.WBJ1206
+      Taxon 195 -> Pygopus.nigriceps.MVZ197233
+      Taxon 196 -> Quedenfeldtia.moerens.JB77
+      Taxon 197 -> Quedenfeldtia.trachyblepharus.MVZ178121
+      Taxon 198 -> Correlophus.ciliatus.AMS146595
+      Taxon 199 -> Rhacodactylus.leachianus.AMB7189
+      Taxon 200 -> Rhoptropus.afer.MCZR183711
+      Taxon 201 -> Rhoptropus.boultoni.CAS214713
+      Taxon 202 -> Rhoptropus.diporus.MCZR183737
+      Taxon 203 -> Rhynchoedura.ornata.AMS155371
+      Taxon 204 -> Saltuarius.swaini.AMS143262
+      Taxon 205 -> Saurodactylus.brosseti.TG00082
+      Taxon 206 -> Saurodactylus.fasciatus.DJHM616
+      Taxon 207 -> Saurodactylus.mauritainicus.DGHSm61
+      Taxon 208 -> Sphaerodactylus.leucaster.Glor5269
+      Taxon 209 -> Sphaerodactylus.argus.TG00125
+      Taxon 210 -> Sphaerodactylus.elegans.YPM14795
+      Taxon 211 -> Sphaerodactylus.glaucus.JAC24229
+      Taxon 212 -> Sphaerodactylus.grandisquamis.TG00099
+      Taxon 213 -> Sphaerodactylus.nicholsi.TG00211
+      Taxon 214 -> Sphaerodactylus.nigropunctatus.FLMNH144010
+      Taxon 215 -> Sphaerodactylus.notatus.FLMNH132440
+      Taxon 216 -> Sphaerodactylus.roosevelti.TG691
+      Taxon 217 -> Sphaerodactylus.torrei.JB34
+      Taxon 218 -> Sphaerodactylus.townsendi.TG00210
+      Taxon 219 -> Stenodactylus.sthenodactylus.MVZ235804
+      Taxon 220 -> Strophurus.aberrans.AMS136023
+      Taxon 221 -> Strophurus.elderi.AMS130987
+      Taxon 222 -> Strophurus.strophurus.AMS140536
+      Taxon 223 -> Tarentola.americana.MVZ241223
+      Taxon 224 -> Tarentola.chazaliae.TG00130
+      Taxon 225 -> Tarentola.delalandii.JB43
+      Taxon 226 -> Tarentola.deserti.JB44
+      Taxon 227 -> Tarentola.fascicularus.JB29
+      Taxon 228 -> Tarentola.mauritanica.TG00129
+      Taxon 229 -> Tenuidactylus.caspius.CAS228602
+      Taxon 230 -> Tenuidactylus.longipes.CAS226830
+      Taxon 231 -> Teratoscincus.keyserlingii.CAS228808
+      Taxon 232 -> Teratoscincus.microlepis.TG00074
+      Taxon 233 -> Teratoscincus.przewalskii.TG00233
+      Taxon 234 -> Teratoscincus.roborowskii.JFBM
+      Taxon 235 -> Teratoscincus.scincus.JFBM14252
+      Taxon 236 -> Thecadactylus.rapicauda.ENS7108
+      Taxon 237 -> Thecadactylus.rapicauda.USNM561446
+      Taxon 238 -> Thecadactylus.solimoensis.KU214929
+      Taxon 239 -> Toropuku.stephensi.RAH554
+      Taxon 240 -> Tropiocolotes.tripolitanus.FMNH262276
+      Taxon 241 -> Tukutuku.rakiurae.RAH238
+      Taxon 242 -> Underwoodisaurus.milii.AMB499
+      Taxon 243 -> Urocotyledon.inexpectatus.MCZF38723
+      Taxon 244 -> Uroplatus.giganteus.ZCMV864
+      Taxon 245 -> Uroplatus.guentheri.FGMV2001.C21
+      Taxon 246 -> Uroplatus.henkeli.FGMV2000.C1
+      Taxon 247 -> Uroplatus.phantasticus.FGMV2002.640
+      Taxon 248 -> Uvidicolus.sphyrurus.AMS152397
+      Taxon 249 -> Woodworthia.maculata.RAH292
+      Taxon 250 -> Hoplodactylus.duvaucelii.FT277
+      Taxon 251 -> Dactylocnemis.pacificus.CD859
+      Taxon 252 -> Mokopirirakau.granulatus.RAH340
+      Taxon 253 -> Mniarogekko.jalu.AMSR161238
+      Taxon 254 -> Altigekko.stoliczkai.PMNH2323
+      Taxon 255 -> Asiocolotes.levitoni.PMNH2431
+      Taxon 256 -> Tenuidactylus.elongatus.JB127
+      Taxon 257 -> Tenuidactylus.fedtschenkoi.JEM346
+      Taxon 258 -> Cyrtopodion.kohsulaimanai.PMH2388
+      Taxon 259 -> Indogekko.rohtasfortai.PMNH2391
+      Taxon 260 -> Mediodactylus.brachykolon.PMNH2165
+      Taxon 261 -> Siwaligekko.battalensis.PMNH2301
+      Taxon 262 -> Stenodactylus.doriae.JB20
+      Taxon 263 -> Lepidodactylus.orientalis.BPBM19794
+      Taxon 264 -> Pristurus.sp.UAE
+      Taxon 265 -> Amphisbaena
+      Taxon 266 -> Anolis.carolinensis.JBLSC1
+      Taxon 267 -> Aspidoscelis.tigris.TG0069
+      Taxon 268 -> Dibamus.bouretti
+      Taxon 269 -> Elagaria.kingii.TG000656
+      Taxon 270 -> Eumeces.inexpectatus
+      Taxon 271 -> Heloderma.suspectum
+      Taxon 272 -> Podarcis.sicula
+      Taxon 273 -> Ramphotyphlops.braminus.JFBM
+      Taxon 274 -> Rhineura.floridana
+      Taxon 275 -> Sphenodon.punctatus
+      Taxon 276 -> Trachydosaurus.rugosus.JFBM
+      Taxon 277 -> Xantusia.vigilis
+      Taxon 278 -> Trioceros.jacksonii
+      Taxon 279 -> Python.molurus
+      Taxon 280 -> Gallus
+      Successfully read matrix
+      Setting default partition (does not divide up characters)
+      Setting model defaults
+      Seed (for generating default start values) = 509680401
+      Setting output file names to "Diurnality_6gene_edit.nxs.run<i>.<p|t>"
+   Exiting data block
+   Reached end of file
+
+MrBayes > 
+   Setting outgroup to taxon "Gallus"
+
+MrBayes > 
+   Defining charset called 'nDNA'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2cod1_2_tRNA'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2cod3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'nDNA.cod1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'nDNA.cod2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'nDNA.cod3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'cmos'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ACM4'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'PDC'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'mtDNA'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'tRNA'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG2.1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG2.2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG2.3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'cmos.1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'cmos.2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'cmos.3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ACM4.1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ACM4.2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ACM4.3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG1.1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG1.2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'RAG1.3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'PDC.1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'PDC.2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'PDC.3'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2.cod1'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2.cod2'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2.cod3'
+   Defining partition called 'sat-partition'
+
+MrBayes > 
+   Could not find command "sat-parition"
+
+MrBayes > 
+   Could not find command "sat-partition"
+
+MrBayes > 
+   Charset name has been used previously
+
+MrBayes > 
+   Charset name has been used previously
+
+MrBayes > 
+   Charset name has been used previously
+
+MrBayes > 
+   Charset name has been used previously
+
+MrBayes > 
+   Charset name has been used previously
+
+MrBayes > 
+   Charset name has been used previously
+
+MrBayes > 
+   Could not find parameter "parition"
+
+MrBayes > 
+   Setting sat-partition as the partition, dividing characters into 3 parts.
+   Setting model defaults
+   Seed (for generating default start values) = 13459999
+
+MrBayes > 
+   Setting Nst to 6 for partition 1
+   Setting Nst to 6 for partition 2
+   Setting Nst to 6 for partition 3
+   Setting Rates to Gamma for partition 1
+   Setting Rates to Gamma for partition 2
+   Setting Rates to Gamma for partition 3
+   Successfully set likelihood model parameters to all
+      applicable data partitions 
+
+MrBayes > 
+   Could not find command "rset"
+
+MrBayes > 
+   Unknown character in command string
+
+MrBayes > 
+   Unknown character in command string
+
+MrBayes > 
+   Setting Revmatpr to Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00) for partition 1
+   Setting Revmatpr to Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00) for partition 2
+   Setting Revmatpr to Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00) for partition 3
+   Expecting '<number>'
+   Instead found ')' in command 'Prset' at position 48
+
+MrBayes > 
+   Could not find parameter "shapeape"
+
+MrBayes > 
+   Could not find parameter "applytp"
+
+MrBayes > 
+   Setting number of generations to 1000000
+   Setting print frequency to 2500
+   Setting sample frequency to 2500
+   Setting diagnosing frequency to 2000
+   Setting diagnostics statistic to Maxstddev
+   Successfully set chain parameters
+
+MrBayes > 
+   Setting number of chains to 4
+   No valid match for argument "year"
+   Invalid argument for savebrlens
+   Error when setting parameter "Savebrlens" (2)
+
+MrBayes > 
+   Setting number of generations to 1000000
+   Setting print frequency to 2500
+   Setting sample frequency to 2500
+   Setting diagnosing frequency to 2000
+   Setting diagnostics statistic to Maxstddev
+   Successfully set chain parameters
+
+MrBayes > 
+   Setting number of chains to 4
+   Setting chain output file names to "MB-1mil-partn.run<i>.<p/t>"
+   Successfully set chain parameters
+
+MrBayes > 
+   Running Markov chain
+   MCMC stamp = 7114212602
+   Seed = 303079107
+   Swapseed = 1555356959
+   Model settings:
+
+      Settings for partition 1 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 2 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 3 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+   Active parameters: 
+
+                          Partition(s)
+      Parameters          1  2  3
+      ---------------------------
+      Revmat              1  1  1
+      Statefreq           2  2  2
+      Shape               3  3  3
+      Ratemultiplier      4  4  4
+      Topology            5  5  5
+      Brlens              6  6  6
+      ---------------------------
+
+      Parameters can be linked or unlinked across partitions using 'link' and 'unlink'
+
+      1 --  Parameter  = Revmat{all}
+            Type       = Rates of reversible rate matrix
+            Prior      = Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00)
+            Partitions = All
+
+      2 --  Parameter  = Pi{all}
+            Type       = Stationary state frequencies
+            Prior      = Dirichlet
+            Partitions = All
+
+      3 --  Parameter  = Alpha{all}
+            Type       = Shape of scaled gamma distribution of site rates
+            Prior      = Exponential(1.00)
+            Partitions = All
+
+      4 --  Parameter  = Ratemultiplier{all}
+            Type       = Partition-specific rate multiplier
+            Prior      = Fixed(1.0)
+            Partitions = All
+
+      5 --  Parameter  = Tau{all}
+            Type       = Topology
+            Prior      = All topologies equally probable a priori
+            Partitions = All
+            Subparam.  = V{all}
+
+      6 --  Parameter  = V{all}
+            Type       = Branch lengths
+            Prior      = Unconstrained:GammaDir(1.0,0.1000,1.0,1.0)
+            Partitions = All
+
+
+
+   The MCMC sampler will use the following moves:
+      With prob.  Chain will use move
+         0.94 %   Dirichlet(Revmat{all})
+         0.94 %   Slider(Revmat{all})
+         0.94 %   Dirichlet(Pi{all})
+         0.94 %   Slider(Pi{all})
+         1.89 %   Multiplier(Alpha{all})
+         9.43 %   ExtSPR(Tau{all},V{all})
+         9.43 %   ExtTBR(Tau{all},V{all})
+         9.43 %   NNI(Tau{all},V{all})
+         9.43 %   ParsSPR(Tau{all},V{all})
+        37.74 %   Multiplier(V{all})
+        13.21 %   Nodeslider(V{all})
+         5.66 %   TLMultiplier(V{all})
+
+   Division 1 has 2251 unique site patterns
+   Division 2 has 1056 unique site patterns
+   Division 3 has 334 unique site patterns
+   Initializing conditional likelihoods
+   Using standard non-SSE likelihood calculator for division 1 (single-precision)
+   Using standard non-SSE likelihood calculator for division 2 (single-precision)
+   Using standard non-SSE likelihood calculator for division 3 (single-precision)
+
+   Initial log likelihoods and log prior probs for run 1:
+      Chain 1 -- -540265.313853 -- 144.807818
+      Chain 2 -- -546201.414202 -- 144.807818
+      Chain 3 -- -544382.111723 -- 144.807818
+      Chain 4 -- -546021.080159 -- 144.807818
+
+   Initial log likelihoods and log prior probs for run 2:
+      Chain 1 -- -540165.379228 -- 144.807818
+      Chain 2 -- -541735.013943 -- 144.807818
+      Chain 3 -- -542932.726795 -- 144.807818
+      Chain 4 -- -542517.331758 -- 144.807818
+
+
+   Using a relative burnin of 25.0 % for diagnostics
+
+   Chain results (1000000 generations requested):
+
+       0 -- [-540265.314] (-546201.414) (-544382.112) (-546021.080) * [-540165.379] (-541735.014) (-542932.727) (-542517.332) 
+
+   Max standard deviation of split frequencies: 0.707107
+
+    2500 -- (-428127.240) [-423231.565] (-432322.822) (-426980.613) * (-429436.456) (-426486.591) [-422740.739] (-424555.754) -- 62:23:57
+
+   Max standard deviation of split frequencies: 0.707107
+
+    5000 -- (-402850.528) [-400478.920] (-408542.463) (-402604.618) * (-402609.350) (-402950.814) [-400406.275] (-406051.152) -- 58:42:18
+
+   Max standard deviation of split frequencies: 0.707107
+
+    7500 -- [-387738.511] (-388169.790) (-390804.292) (-388900.110) * [-388777.535] (-391974.895) (-390258.903) (-391579.545) -- 55:21:34
+
+   Max standard deviation of split frequencies: 0.471405
+
+   10000 -- (-378276.635) [-378184.846] (-380433.780) (-378949.008) * [-379041.603] (-382525.857) (-379062.162) (-381426.621) -- 53:16:03
+
+   Max standard deviation of split frequencies: 0.530330
+
+
+   Max standard deviation of split frequencies: 0.530330
+
+   12500 -- (-372997.796) [-369966.113] (-371777.212) (-370711.777) * (-371018.536) (-373459.480) [-370304.090] (-372298.733) -- 52:53:10
+
+   Max standard deviation of split frequencies: 0.565685
+
+   15000 -- (-368957.122) [-364383.220] (-365164.438) (-365879.183) * (-366930.774) (-367945.777) [-362009.375] (-365445.956) -- 52:32:00
+
+   Max standard deviation of split frequencies: 0.589256
+
+   17500 -- (-365259.573) (-360902.839) [-359849.970] (-361293.557) * (-362901.312) (-363373.695) [-356105.794] (-358548.581) -- 52:08:05
+
+   Max standard deviation of split frequencies: 0.589256
+
+   20000 -- (-361635.587) (-356291.206) (-355587.030) [-353367.741] * (-358480.933) (-359422.888) [-350991.965] (-353834.366) -- 52:00:29
+
+   Max standard deviation of split frequencies: 0.606092
+
+
+   Max standard deviation of split frequencies: 0.606092
+
+   22500 -- (-357277.299) (-352473.113) (-352911.992) [-349414.770] * (-352881.839) (-356605.424) [-347164.959] (-349601.606) -- 51:39:02
+
+   Max standard deviation of split frequencies: 0.618718
+
+   25000 -- (-353997.285) (-345633.301) (-348778.198) [-343990.837] * (-348002.522) (-354200.618) [-342409.256] (-346106.562) -- 51:15:48
+
+   Max standard deviation of split frequencies: 0.628539
+
+   27500 -- (-350874.220) (-340971.599) (-345379.537) [-339580.879] * (-344177.822) (-351866.373) [-337098.358] (-343094.284) -- 50:50:06
+
+   Max standard deviation of split frequencies: 0.628539
+
+   30000 -- (-348439.222) (-337350.226) (-341090.643) [-336160.834] * (-340683.736) (-348418.530) [-333892.683] (-340343.459) -- 50:20:28
+
+   Max standard deviation of split frequencies: 0.636396
+
+
+   Max standard deviation of split frequencies: 0.636396
+
+   32500 -- (-344562.703) (-334495.070) (-338083.784) [-332181.660] * (-338074.985) (-345944.695) [-330837.303] (-336757.547) -- 49:55:16
+
+   Max standard deviation of split frequencies: 0.642824
+
+   35000 -- (-341299.735) (-331722.724) (-334973.448) [-329867.774] * (-335946.687) (-343025.226) [-328003.582] (-333944.539) -- 49:40:28
+
+   Max standard deviation of split frequencies: 0.648181
+
+   37500 -- (-336231.923) (-329576.117) (-332389.191) [-327717.416] * (-332732.170) (-340035.681) [-325726.173] (-331540.572) -- 49:12:57
+
+   Max standard deviation of split frequencies: 0.707107
+
+   40000 -- (-333893.473) (-326573.697) (-329560.023) [-325872.455] * (-329944.665) (-337421.340) [-322864.682] (-329722.276) -- 48:49:36
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   42500 -- (-330009.794) (-324359.162) (-326697.222) [-323681.204] * (-327847.588) (-334396.542) [-320742.952] (-328467.439) -- 48:21:47
+
+   Max standard deviation of split frequencies: 0.707107
+
+   45000 -- (-325570.279) (-321916.995) (-324871.264) [-321575.746] * (-325624.878) (-332028.307) [-319024.315] (-326391.927) -- 48:00:33
+
+   Max standard deviation of split frequencies: 0.707107
+
+   47500 -- (-321151.175) [-319857.799] (-323203.763) (-320149.157) * (-324291.384) (-329378.670) [-316880.665] (-325550.264) -- 47:38:10
+
+   Max standard deviation of split frequencies: 0.707107
+
+   50000 -- (-318559.087) [-317373.061] (-322095.888) (-318895.232) * (-322282.471) (-325633.013) [-314879.269] (-324480.137) -- 47:10:03
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   52500 -- (-316657.025) [-315837.508] (-320840.412) (-317764.760) * (-320405.736) (-322723.927) [-314008.016] (-322846.932) -- 46:44:17
+
+   Max standard deviation of split frequencies: 0.707107
+
+   55000 -- (-314368.358) [-313506.075] (-320167.992) (-315882.072) * (-318515.864) (-319620.516) [-313158.950] (-321479.876) -- 46:19:26
+
+   Max standard deviation of split frequencies: 0.707107
+
+   57500 -- (-312978.425) [-311949.859] (-318829.989) (-314347.999) * (-316955.427) (-317534.739) [-312405.930] (-320315.059) -- 45:55:55
+
+   Max standard deviation of split frequencies: 0.707107
+
+   60000 -- (-311871.123) [-311036.181] (-317622.647) (-313310.546) * (-315467.372) (-316414.083) [-311253.848] (-319266.376) -- 45:36:42
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   62500 -- (-311007.383) [-310184.705] (-315474.597) (-312154.344) * (-314037.699) (-315321.622) [-310090.687] (-318149.322) -- 45:16:15
+
+   Max standard deviation of split frequencies: 0.707107
+
+   65000 -- (-310112.025) [-309907.237] (-312922.784) (-310957.463) * (-311817.552) (-313315.893) [-308754.243] (-316915.007) -- 44:56:23
+
+   Max standard deviation of split frequencies: 0.707107
+
+   67500 -- (-309345.825) (-309822.177) (-311548.594) [-309349.900] * (-311015.632) (-311571.187) [-308146.745] (-315581.727) -- 44:37:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+   70000 -- (-308466.579) (-309174.853) (-309930.882) [-308004.077] * (-310403.651) (-309321.725) [-307265.142] (-314016.080) -- 44:20:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   72500 -- (-307872.290) (-308437.124) (-309095.489) [-307418.083] * (-309785.585) (-306984.879) [-306799.751] (-312008.533) -- 44:01:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+   75000 -- (-307048.478) (-307836.434) (-308265.725) [-306787.952] * (-309259.237) (-306143.000) [-306056.640] (-310922.521) -- 43:44:44
+
+   Max standard deviation of split frequencies: 0.707107
+
+   77500 -- (-306258.148) (-307222.043) (-307914.324) [-306144.663] * (-308924.894) (-305594.576) [-305417.186] (-309738.754) -- 43:27:12
+
+   Max standard deviation of split frequencies: 0.707107
+
+   80000 -- (-305873.880) (-306639.671) (-307616.610) [-305670.288] * (-308667.100) (-305347.501) [-305183.296] (-308561.771) -- 43:10:34
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   82500 -- (-305608.806) (-306325.690) (-307276.117) [-305411.852] * (-308544.633) (-305130.973) [-304920.122] (-307663.544) -- 42:55:29
+
+   Max standard deviation of split frequencies: 0.707107
+
+   85000 -- (-305390.351) (-305645.776) (-306992.022) [-305265.880] * (-308236.504) (-304864.639) [-304837.472] (-306801.011) -- 42:38:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+   87500 -- (-305295.448) (-305499.327) (-306621.956) [-305141.898] * (-307909.521) [-304519.110] (-304785.209) (-306283.922) -- 42:22:39
+
+   Max standard deviation of split frequencies: 0.707107
+
+   90000 -- (-305198.429) (-305390.122) (-306461.123) [-304992.299] * (-307373.655) [-304044.489] (-304733.102) (-305909.418) -- 42:06:56
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   92500 -- (-305095.106) (-305371.248) (-306192.396) [-304925.905] * (-307072.231) [-303866.577] (-304497.746) (-305315.472) -- 41:51:24
+
+   Max standard deviation of split frequencies: 0.707107
+
+   95000 -- (-304991.759) (-305065.021) (-306161.005) [-304856.831] * (-306861.822) [-303726.238] (-304462.454) (-304840.976) -- 41:36:50
+
+   Max standard deviation of split frequencies: 0.707107
+
+   97500 -- (-304932.440) (-304859.366) (-306146.169) [-304709.062] * (-306589.985) [-303568.238] (-304445.964) (-304703.000) -- 41:23:11
+
+   Max standard deviation of split frequencies: 0.707107
+
+   100000 -- (-304917.169) [-304581.983] (-306115.595) (-304707.401) * (-306515.167) [-303468.606] (-304434.160) (-304616.509) -- 41:13:03
+
+   Max standard deviation of split frequencies: 0.684297
+
+
+   Max standard deviation of split frequencies: 0.684297
+
+   102500 -- (-304928.194) [-304392.788] (-306131.863) (-304681.081) * (-306500.420) [-303451.911] (-304454.861) (-304554.437) -- 41:04:24
+
+   Max standard deviation of split frequencies: 0.662913
+
+   105000 -- (-304888.990) [-304373.255] (-306145.434) (-304641.052) * (-306459.837) [-303289.157] (-304477.233) (-304426.111) -- 40:51:35
+
+   Max standard deviation of split frequencies: 0.642824
+
+   107500 -- (-304872.587) [-304306.035] (-306102.322) (-304641.385) * (-306190.284) [-303270.216] (-304472.953) (-304226.536) -- 40:38:06
+
+   Max standard deviation of split frequencies: 0.621397
+
+   110000 -- (-304853.498) [-304268.764] (-306094.479) (-304645.380) * (-306157.487) [-303265.056] (-304432.555) (-304094.816) -- 40:23:37
+
+   Max standard deviation of split frequencies: 0.603120
+
+
+   Max standard deviation of split frequencies: 0.603120
+
+   112500 -- (-304829.113) [-304268.329] (-306091.482) (-304665.748) * (-306138.198) [-303235.347] (-304399.000) (-303981.509) -- 40:10:19
+
+   Max standard deviation of split frequencies: 0.585888
+
+   115000 -- (-304766.517) [-304252.772] (-306074.671) (-304652.278) * (-306110.683) [-303226.944] (-304343.610) (-303655.723) -- 39:57:34
+
+   Max standard deviation of split frequencies: 0.569614
+
+   117500 -- (-304753.533) [-304235.025] (-306052.728) (-304678.728) * (-305813.948) [-303220.730] (-304336.163) (-303411.344) -- 39:45:07
+
+   Max standard deviation of split frequencies: 0.569614
+
+   120000 -- (-304786.223) [-304154.658] (-306055.877) (-304672.112) * (-305429.507) [-303239.436] (-304280.045) (-303409.197) -- 39:35:16
+
+   Max standard deviation of split frequencies: 0.573330
+
+
+   Max standard deviation of split frequencies: 0.573330
+
+   122500 -- (-304740.273) [-303936.457] (-306036.245) (-304688.388) * (-305211.470) [-303212.117] (-304283.978) (-303378.546) -- 39:23:24
+
+   Max standard deviation of split frequencies: 0.576850
+
+   125000 -- (-304720.624) [-303890.490] (-306053.732) (-304690.782) * (-305167.160) [-303232.441] (-304210.271) (-303388.591) -- 39:13:24
+
+   Max standard deviation of split frequencies: 0.580190
+
+   127500 -- (-304717.510) [-303811.434] (-306057.672) (-304701.275) * (-305042.699) [-303244.883] (-304132.887) (-303368.609) -- 39:03:05
+
+   Max standard deviation of split frequencies: 0.598321
+
+   130000 -- (-304730.761) [-303788.530] (-305928.548) (-304688.600) * (-304992.209) [-303242.920] (-304065.024) (-303367.972) -- 38:51:15
+
+   Max standard deviation of split frequencies: 0.601041
+
+
+   Max standard deviation of split frequencies: 0.601041
+
+   132500 -- (-304697.222) [-303770.395] (-305704.003) (-304696.437) * (-304917.468) [-303183.936] (-304048.256) (-303367.089) -- 38:39:52
+
+   Max standard deviation of split frequencies: 0.603628
+
+   135000 -- (-304683.790) [-303661.020] (-305484.003) (-304717.209) * (-304905.844) [-303159.943] (-304073.905) (-303372.326) -- 38:29:26
+
+   Max standard deviation of split frequencies: 0.606092
+
+   137500 -- (-304619.675) [-303380.903] (-305282.259) (-304692.936) * (-304859.260) [-303159.894] (-304044.234) (-303368.701) -- 38:19:03
+
+   Max standard deviation of split frequencies: 0.622927
+
+   140000 -- (-304562.487) [-303342.056] (-305200.761) (-304696.256) * (-304806.485) [-303134.808] (-303995.210) (-303348.831) -- 38:06:53
+
+   Max standard deviation of split frequencies: 0.624885
+
+
+   Max standard deviation of split frequencies: 0.624885
+
+   142500 -- (-304540.321) [-303319.420] (-305078.314) (-304684.585) * (-304762.486) [-303134.523] (-303938.573) (-303354.253) -- 37:56:32
+
+   Max standard deviation of split frequencies: 0.626754
+
+   145000 -- (-304491.880) [-303262.277] (-305077.448) (-304701.167) * (-304810.829) [-303138.830] (-303570.685) (-303369.184) -- 37:45:33
+
+   Max standard deviation of split frequencies: 0.628539
+
+   147500 -- (-304508.280) [-303094.087] (-305081.464) (-304659.310) * (-304796.633) [-303144.026] (-303333.776) (-303398.438) -- 37:35:42
+
+   Max standard deviation of split frequencies: 0.644253
+
+   150000 -- (-304507.287) [-303061.029] (-305045.081) (-304655.403) * (-304771.344) [-303135.586] (-303242.145) (-303378.310) -- 37:25:25
+
+   Max standard deviation of split frequencies: 0.645619
+
+
+   Max standard deviation of split frequencies: 0.645619
+
+   152500 -- (-304476.224) [-303065.084] (-305041.955) (-304667.508) * (-304758.753) [-303130.858] (-303239.995) (-303377.469) -- 37:14:26
+
+   Max standard deviation of split frequencies: 0.646927
+
+   155000 -- (-304452.548) [-303043.430] (-305036.206) (-304658.890) * (-304730.360) [-303103.775] (-303233.398) (-303367.182) -- 37:03:37
+
+   Max standard deviation of split frequencies: 0.648181
+
+   157500 -- (-304438.136) [-303049.475] (-304966.387) (-304516.805) * (-304731.002) [-303125.452] (-303211.713) (-303356.026) -- 36:54:02
+
+   Max standard deviation of split frequencies: 0.662913
+
+   160000 -- (-304402.292) [-303039.648] (-305005.366) (-304472.635) * (-304742.067) [-303128.914] (-303193.791) (-303273.276) -- 36:43:46
+
+   Max standard deviation of split frequencies: 0.663815
+
+
+   Max standard deviation of split frequencies: 0.663815
+
+   162500 -- (-304384.511) [-303054.242] (-304925.779) (-304344.794) * (-304753.553) [-303156.067] (-303204.509) (-303174.842) -- 36:34:09
+
+   Max standard deviation of split frequencies: 0.664680
+
+   165000 -- (-304111.657) [-303035.103] (-304925.662) (-304122.130) * (-304698.506) (-303153.304) (-303224.589) [-303016.043] -- 36:25:50
+
+   Max standard deviation of split frequencies: 0.651647
+
+   167500 -- (-303984.679) [-303037.312] (-304928.758) (-304058.864) * (-304683.209) (-303156.383) (-303233.968) [-302982.519] -- 36:17:10
+
+   Max standard deviation of split frequencies: 0.651647
+
+   170000 -- (-303854.293) [-303032.000] (-304877.775) (-303996.920) * (-304704.860) (-303181.877) (-303238.985) [-302954.978] -- 36:07:31
+
+   Max standard deviation of split frequencies: 0.639116
+
+
+   Max standard deviation of split frequencies: 0.639116
+
+   172500 -- (-303851.699) [-303021.411] (-304634.667) (-303971.493) * (-304731.568) (-303183.813) (-303270.002) [-302940.602] -- 35:58:22
+
+   Max standard deviation of split frequencies: 0.627057
+
+   175000 -- (-303847.726) [-302993.728] (-304500.143) (-303901.789) * (-304698.370) (-303216.540) (-303241.205) [-302929.366] -- 35:48:51
+
+   Max standard deviation of split frequencies: 0.615445
+
+   177500 -- (-303591.736) [-303004.329] (-304437.741) (-303842.631) * (-304660.340) (-303229.133) (-303229.190) [-302931.945] -- 35:39:53
+
+   Max standard deviation of split frequencies: 0.615445
+
+   180000 -- (-303513.779) [-303000.832] (-304445.993) (-303863.812) * (-304671.392) (-303242.122) (-303207.177) [-302946.149] -- 35:31:05
+
+   Max standard deviation of split frequencies: 0.604255
+
+
+   Max standard deviation of split frequencies: 0.604255
+
+   182500 -- (-303490.635) [-303018.947] (-304435.830) (-303853.115) * (-304638.566) (-303219.432) (-303183.154) [-302945.482] -- 35:22:12
+
+   Max standard deviation of split frequencies: 0.593465
+
+   185000 -- (-303482.561) [-302989.835] (-304462.993) (-303872.649) * (-304560.945) (-303199.503) (-303213.525) [-302937.784] -- 35:13:16
+
+   Max standard deviation of split frequencies: 0.583053
+
+   187500 -- (-303474.149) [-302984.780] (-304450.050) (-303863.571) * (-304545.405) (-303201.799) (-303213.587) [-302929.043] -- 35:04:16
+
+   Max standard deviation of split frequencies: 0.583053
+
+   190000 -- (-303455.203) [-302926.928] (-304428.229) (-303869.185) * (-304563.506) (-303179.290) (-303199.199) [-302935.023] -- 34:55:16
+
+   Max standard deviation of split frequencies: 0.573000
+
+
+   Max standard deviation of split frequencies: 0.573000
+
+   192500 -- (-303445.989) [-302933.782] (-304457.762) (-303839.895) * (-304511.743) (-303211.838) (-303195.876) [-302963.918] -- 34:46:50
+
+   Max standard deviation of split frequencies: 0.575273
+
+   195000 -- (-303451.084) [-302964.316] (-304440.899) (-303840.681) * (-304522.789) (-303209.243) (-303200.224) [-302937.239] -- 34:38:08
+
+   Max standard deviation of split frequencies: 0.577471
+
+   197500 -- (-303433.449) [-302964.263] (-304440.183) (-303842.310) * (-304418.017) (-303225.215) (-303188.637) [-302939.917] -- 34:29:50
+
+   Max standard deviation of split frequencies: 0.589256
+
+   200000 -- (-303464.002) [-302972.694] (-304445.767) (-303842.762) * (-304422.372) (-303190.738) (-303180.430) [-302942.906] -- 34:21:24
+
+   Max standard deviation of split frequencies: 0.591188
+
+
+   Max standard deviation of split frequencies: 0.591188
+
+   202500 -- (-303492.434) [-302961.989] (-304468.494) (-303857.018) * (-304442.126) (-303163.891) (-303165.168) [-302921.462] -- 34:12:49
+
+   Max standard deviation of split frequencies: 0.593057
+
+   205000 -- (-303456.801) [-302992.986] (-304473.185) (-303859.595) * (-304460.825) (-303174.101) (-303201.412) [-302937.400] -- 34:03:55
+
+   Max standard deviation of split frequencies: 0.594868
+
+   207500 -- (-303447.608) [-303005.709] (-304467.195) (-303870.475) * (-304444.991) (-303131.282) (-303213.585) [-302951.814] -- 33:55:48
+
+   Max standard deviation of split frequencies: 0.606092
+
+   210000 -- (-303448.420) [-302996.761] (-304473.604) (-303855.875) * (-304456.863) (-303070.277) (-303228.659) [-302934.194] -- 33:47:21
+
+   Max standard deviation of split frequencies: 0.607670
+
+
+   Max standard deviation of split frequencies: 0.607670
+
+   212500 -- (-303429.375) [-302978.453] (-304478.039) (-303857.897) * (-304497.712) (-303049.379) (-303229.454) [-302919.180] -- 33:38:57
+
+   Max standard deviation of split frequencies: 0.609200
+
+   215000 -- (-303432.396) [-302972.674] (-304517.969) (-303879.419) * (-304471.784) (-303055.111) (-303225.327) [-302903.287] -- 33:30:56
+
+   Max standard deviation of split frequencies: 0.610683
+
+   217500 -- (-303396.287) [-302998.658] (-304478.293) (-303842.155) * (-304462.363) (-303076.146) (-303252.819) [-302913.419] -- 33:23:55
+
+   Max standard deviation of split frequencies: 0.621397
+
+   220000 -- (-303406.315) [-302980.437] (-304489.789) (-303718.734) * (-304440.309) (-303052.178) (-303252.827) [-302934.632] -- 33:15:58
+
+   Max standard deviation of split frequencies: 0.612122
+
+
+   Max standard deviation of split frequencies: 0.612122
+
+   222500 -- (-303401.954) [-302977.178] (-304490.306) (-303622.374) * (-304440.920) (-303065.711) (-303247.149) [-302915.130] -- 33:07:43
+
+   Max standard deviation of split frequencies: 0.603120
+
+   225000 -- (-303388.298) [-302973.031] (-304466.296) (-303608.155) * (-304431.386) (-303068.559) (-303225.740) [-302921.329] -- 32:59:55
+
+   Max standard deviation of split frequencies: 0.594380
+
+   227500 -- (-303372.635) [-302967.107] (-304465.696) (-303614.926) * (-304418.771) (-303062.462) (-303216.540) [-302924.760] -- 32:51:49
+
+   Max standard deviation of split frequencies: 0.584132
+
+   230000 -- (-303395.004) [-302966.379] (-304442.842) (-303626.613) * (-304460.212) (-303042.442) (-303195.734) [-302962.169] -- 32:43:53
+
+   Max standard deviation of split frequencies: 0.575787
+
+
+   Max standard deviation of split frequencies: 0.575787
+
+   232500 -- (-303388.037) [-302988.901] (-304487.426) (-303623.325) * (-304442.500) (-303048.624) (-303212.297) [-302945.722] -- 32:36:03
+
+   Max standard deviation of split frequencies: 0.557718
+
+   235000 -- (-303401.062) [-302967.697] (-304488.497) (-303614.327) * (-304420.193) (-303048.505) (-303242.618) [-302937.545] -- 32:28:38
+
+   Max standard deviation of split frequencies: 0.540151
+
+   237500 -- (-303403.380) [-302955.356] (-304482.500) (-303600.496) * (-304415.004) (-303057.820) (-303271.020) [-302926.128] -- 32:20:55
+
+   Max standard deviation of split frequencies: 0.530330
+
+   240000 -- (-303423.984) [-302958.597] (-304454.834) (-303563.129) * (-304425.172) (-303045.005) (-303221.067) [-302922.647] -- 32:12:49
+
+   Max standard deviation of split frequencies: 0.523065
+
+
+   Max standard deviation of split frequencies: 0.523065
+
+   242500 -- (-303430.993) [-302972.822] (-304424.907) (-303567.902) * (-304383.109) (-303054.449) (-303211.754) [-302927.344] -- 32:05:08
+
+   Max standard deviation of split frequencies: 0.525552
+
+   245000 -- (-303440.758) [-302969.670] (-304427.652) (-303592.220) * (-304351.754) (-303049.741) (-303199.354) [-302943.531] -- 31:57:17
+
+   Max standard deviation of split frequencies: 0.527973
+
+   247500 -- (-303449.275) [-302997.265] (-304459.648) (-303566.119) * (-304337.669) (-303023.175) (-303175.436) [-302928.786] -- 31:49:28
+
+   Max standard deviation of split frequencies: 0.537401
+
+   250000 -- (-303441.625) [-302981.258] (-304453.037) (-303572.850) * (-304390.826) (-303019.885) (-303190.793) [-302910.702] -- 31:41:33
+
+   Max standard deviation of split frequencies: 0.539634
+
+
+   Max standard deviation of split frequencies: 0.539634
+
+   252500 -- (-303401.479) [-303000.891] (-304462.824) (-303577.977) * (-304354.493) (-303027.322) (-303216.017) [-302885.636] -- 31:33:45
+
+   Max standard deviation of split frequencies: 0.541809
+
+   255000 -- (-303397.664) [-302997.050] (-304442.036) (-303574.877) * (-304358.102) (-303030.205) (-303226.336) [-302913.602] -- 31:25:58
+
+   Max standard deviation of split frequencies: 0.543928
+
+   257500 -- (-303391.656) [-302991.210] (-304447.495) (-303591.627) * (-304372.474) (-303042.001) (-303229.723) [-302915.487] -- 31:18:27
+
+   Max standard deviation of split frequencies: 0.552994
+
+   260000 -- (-303396.170) [-302984.883] (-304484.208) (-303581.461) * (-304349.874) (-303050.569) (-303241.306) [-302919.913] -- 31:11:09
+
+   Max standard deviation of split frequencies: 0.554945
+
+
+   Max standard deviation of split frequencies: 0.554945
+
+   262500 -- (-303411.353) [-302988.113] (-304345.732) (-303585.799) * (-304345.356) (-303039.881) (-303236.394) [-302924.678] -- 31:03:41
+
+   Max standard deviation of split frequencies: 0.556847
+
+   265000 -- (-303388.319) [-302975.157] (-304283.507) (-303592.811) * (-304378.779) (-303046.167) (-303239.512) [-302926.005] -- 30:56:21
+
+   Max standard deviation of split frequencies: 0.558702
+
+   267500 -- (-303422.582) [-302993.133] (-304213.622) (-303646.630) * (-304386.064) (-303031.927) (-303250.379) [-302909.916] -- 30:49:08
+
+   Max standard deviation of split frequencies: 0.567431
+
+   270000 -- (-303439.842) [-302984.305] (-304200.867) (-303651.073) * (-304393.169) (-303052.021) (-303233.063) [-302895.116] -- 30:41:56
+
+   Max standard deviation of split frequencies: 0.569135
+
+
+   Max standard deviation of split frequencies: 0.569135
+
+   272500 -- (-303425.672) [-302992.033] (-304149.447) (-303631.571) * (-304391.163) (-303061.537) (-303231.174) [-302898.627] -- 30:35:02
+
+   Max standard deviation of split frequencies: 0.570797
+
+   275000 -- (-303427.739) [-302977.263] (-304153.450) (-303652.508) * (-304356.687) (-303046.093) (-303240.897) [-302904.704] -- 30:27:44
+
+   Max standard deviation of split frequencies: 0.572420
+
+   277500 -- (-303426.336) [-302987.267] (-304143.295) (-303632.692) * (-304364.075) (-303050.558) (-303207.366) [-302927.908] -- 30:20:18
+
+   Max standard deviation of split frequencies: 0.580838
+
+   280000 -- (-303412.058) [-302988.010] (-304155.585) (-303626.694) * (-304402.959) (-303058.115) (-303200.600) [-302911.280] -- 30:12:59
+
+   Max standard deviation of split frequencies: 0.582323
+
+
+   Max standard deviation of split frequencies: 0.582323
+
+   282500 -- (-303399.914) [-302961.497] (-304115.780) (-303632.603) * (-304367.995) (-303061.442) (-303214.089) [-302917.684] -- 30:05:46
+
+   Max standard deviation of split frequencies: 0.583774
+
+   285000 -- (-303409.665) [-302974.720] (-304142.538) (-303645.896) * (-304368.434) (-303032.075) (-303205.108) [-302921.303] -- 29:58:34
+
+   Max standard deviation of split frequencies: 0.585192
+
+   287500 -- (-303397.381) [-302979.109] (-304122.698) (-303616.487) * (-304354.091) (-303020.696) (-303205.850) [-302930.592] -- 29:51:32
+
+   Max standard deviation of split frequencies: 0.593319
+
+   290000 -- (-303407.240) [-302990.261] (-304113.029) (-303616.710) * (-304362.625) (-303014.856) (-303191.373) [-302915.518] -- 29:44:42
+
+   Max standard deviation of split frequencies: 0.594613
+
+
+   Max standard deviation of split frequencies: 0.594613
+
+   292500 -- (-303405.260) [-302971.664] (-304146.117) (-303599.978) * (-304340.219) (-303046.257) (-303192.466) [-302924.096] -- 29:37:44
+
+   Max standard deviation of split frequencies: 0.595877
+
+   295000 -- (-303430.665) [-302986.123] (-304114.287) (-303622.983) * (-304307.155) (-303072.863) (-303175.992) [-302933.675] -- 29:30:42
+
+   Max standard deviation of split frequencies: 0.597112
+
+   297500 -- (-303394.543) [-302965.375] (-304129.361) (-303632.966) * (-304276.758) (-303051.234) (-303170.162) [-302931.318] -- 29:23:29
+
+   Max standard deviation of split frequencies: 0.604969
+
+   300000 -- (-303387.193) [-302973.327] (-304104.619) (-303623.557) * (-304308.444) (-303053.631) (-303191.756) [-302925.320] -- 29:16:24
+
+   Max standard deviation of split frequencies: 0.606092
+
+
+   Max standard deviation of split frequencies: 0.606092
+
+   302500 -- (-303388.666) [-302991.291] (-304127.374) (-303620.675) * (-304200.120) (-303028.809) (-303209.999) [-302916.710] -- 29:09:28
+
+   Max standard deviation of split frequencies: 0.607190
+
+   305000 -- (-303395.240) [-302986.420] (-304114.787) (-303631.837) * (-303970.167) (-303033.744) (-303230.626) [-302907.824] -- 29:02:10
+
+   Max standard deviation of split frequencies: 0.608264
+
+   307500 -- (-303403.883) [-302964.579] (-304108.531) (-303590.774) * (-303786.588) (-303004.414) (-303217.152) [-302930.284] -- 28:55:02
+
+   Max standard deviation of split frequencies: 0.615867
+
+   310000 -- (-303402.777) [-302974.172] (-304068.039) (-303577.073) * (-303686.582) (-303008.286) (-303225.880) [-302928.796] -- 28:47:58
+
+   Max standard deviation of split frequencies: 0.616838
+
+
+   Max standard deviation of split frequencies: 0.616838
+
+   312500 -- (-303410.010) [-302957.378] (-304120.392) (-303592.634) * (-303590.033) (-303040.347) (-303215.787) [-302933.702] -- 28:41:01
+
+   Max standard deviation of split frequencies: 0.617788
+
+   315000 -- (-303423.570) [-302965.717] (-304134.823) (-303631.356) * (-303480.855) (-303037.704) (-303204.737) [-302927.635] -- 28:34:18
+
+   Max standard deviation of split frequencies: 0.618718
+
+   317500 -- (-303420.978) [-302950.099] (-304122.077) (-303636.191) * (-303478.078) (-303038.289) (-303208.330) [-302939.484] -- 28:27:30
+
+   Max standard deviation of split frequencies: 0.626084
+
+   320000 -- (-303407.685) [-302948.716] (-304118.445) (-303605.256) * (-303495.077) (-303033.235) (-303211.799) [-302968.878] -- 28:20:33
+
+   Max standard deviation of split frequencies: 0.626919
+
+
+   Max standard deviation of split frequencies: 0.626919
+
+   322500 -- (-303399.240) [-302966.505] (-304135.998) (-303596.895) * (-303520.013) (-303055.526) (-303235.985) [-302950.866] -- 28:13:49
+
+   Max standard deviation of split frequencies: 0.627738
+
+   325000 -- (-303387.694) [-302939.388] (-304121.754) (-303590.605) * (-303522.674) (-303051.505) (-303189.693) [-302933.657] -- 28:06:44
+
+   Max standard deviation of split frequencies: 0.628539
+
+   327500 -- (-303404.085) [-302958.081] (-304089.360) (-303604.747) * (-303495.277) (-303055.627) (-303213.451) [-302926.858] -- 27:59:38
+
+   Max standard deviation of split frequencies: 0.635682
+
+   330000 -- (-303392.728) [-302935.392] (-304120.762) (-303622.245) * (-303463.391) (-303054.267) (-303229.229) [-302912.777] -- 27:52:41
+
+   Max standard deviation of split frequencies: 0.636396
+
+
+   Max standard deviation of split frequencies: 0.636396
+
+   332500 -- (-303396.353) [-302943.142] (-304143.058) (-303615.246) * (-303469.962) (-303037.635) (-303177.288) [-302928.390] -- 27:45:36
+
+   Max standard deviation of split frequencies: 0.637096
+
+   335000 -- (-303395.256) [-302933.371] (-304101.523) (-303614.933) * (-303467.401) (-303025.404) (-303211.579) [-302931.840] -- 27:38:27
+
+   Max standard deviation of split frequencies: 0.637783
+
+   337500 -- (-303396.919) [-302954.544] (-304113.576) (-303610.273) * (-303421.342) (-303038.281) (-303227.960) [-302911.174] -- 27:31:22
+
+   Max standard deviation of split frequencies: 0.644715
+
+   340000 -- (-303401.776) [-302955.701] (-304113.782) (-303590.183) * (-303421.942) (-303022.240) (-303207.754) [-302891.112] -- 27:24:14
+
+   Max standard deviation of split frequencies: 0.645321
+
+
+   Max standard deviation of split frequencies: 0.645321
+
+   342500 -- (-303369.144) [-302952.955] (-304098.365) (-303598.291) * (-303447.662) (-303021.151) (-303203.680) [-302934.454] -- 27:17:26
+
+   Max standard deviation of split frequencies: 0.645915
+
+   345000 -- (-303389.778) [-302967.861] (-304073.575) (-303575.763) * (-303430.986) (-303031.152) (-303215.547) [-302946.469] -- 27:10:38
+
+   Max standard deviation of split frequencies: 0.646498
+
+   347500 -- (-303427.296) [-302958.856] (-304077.101) (-303597.360) * (-303443.185) (-303035.170) (-303218.938) [-302949.141] -- 27:03:44
+
+   Max standard deviation of split frequencies: 0.653232
+
+   350000 -- (-303445.847) [-302952.655] (-304089.442) (-303618.057) * (-303487.840) (-303035.269) (-303207.324) [-302922.450] -- 26:56:47
+
+   Max standard deviation of split frequencies: 0.653740
+
+
+   Max standard deviation of split frequencies: 0.653740
+
+   352500 -- (-303455.720) [-302940.175] (-304110.549) (-303607.327) * (-303467.636) (-303039.951) (-303234.537) [-302936.939] -- 26:50:07
+
+   Max standard deviation of split frequencies: 0.654239
+
+   355000 -- (-303421.179) [-302955.423] (-304148.855) (-303621.169) * (-303468.760) (-303003.833) (-303227.885) [-302934.711] -- 26:43:14
+
+   Max standard deviation of split frequencies: 0.654729
+
+   357500 -- (-303443.003) [-302924.940] (-304146.626) (-303619.176) * (-303459.697) (-303028.520) (-303200.119) [-302914.166] -- 26:36:27
+
+   Max standard deviation of split frequencies: 0.661276
+
+   360000 -- (-303421.088) [-302928.210] (-304153.141) (-303610.529) * (-303433.032) (-303048.705) (-303207.703) [-302919.284] -- 26:29:37
+
+   Max standard deviation of split frequencies: 0.661696
+
+
+   Max standard deviation of split frequencies: 0.661696
+
+   362500 -- (-303446.763) [-302951.310] (-304155.329) (-303581.559) * (-303475.616) (-303028.225) (-303186.991) [-302950.151] -- 26:22:43
+
+   Max standard deviation of split frequencies: 0.662109
+
+   365000 -- (-303422.849) [-302916.578] (-304153.895) (-303572.503) * (-303464.214) (-303043.807) (-303178.207) [-302962.342] -- 26:16:02
+
+   Max standard deviation of split frequencies: 0.662514
+
+   367500 -- (-303394.908) [-302929.146] (-304121.747) (-303573.920) * (-303465.490) (-303043.456) (-303174.384) [-302988.741] -- 26:09:20
+
+   Max standard deviation of split frequencies: 0.668885
+
+   370000 -- (-303418.184) [-302919.285] (-304123.695) (-303583.203) * (-303456.488) (-303036.037) (-303180.340) [-302951.104] -- 26:02:35
+
+   Max standard deviation of split frequencies: 0.669226
+
+
+   Max standard deviation of split frequencies: 0.669226
+
+   372500 -- (-303418.748) [-302926.219] (-304111.257) (-303603.266) * (-303429.420) (-303042.133) (-303199.986) [-302973.722] -- 25:55:50
+
+   Max standard deviation of split frequencies: 0.669561
+
+   375000 -- (-303423.325) [-302916.705] (-304132.674) (-303603.526) * (-303455.176) (-303046.563) (-303186.441) [-302953.015] -- 25:49:15
+
+   Max standard deviation of split frequencies: 0.669891
+
+   377500 -- (-303396.630) [-302911.398] (-304144.080) (-303584.318) * (-303443.048) (-303020.996) (-303176.911) [-302935.330] -- 25:42:43
+
+   Max standard deviation of split frequencies: 0.676093
+
+   380000 -- (-303386.157) [-302911.993] (-304152.781) (-303583.988) * (-303433.279) (-303018.275) (-303178.306) [-302914.825] -- 25:35:51
+
+   Max standard deviation of split frequencies: 0.676363
+
+
+   Max standard deviation of split frequencies: 0.676363
+
+   382500 -- (-303396.117) [-302916.515] (-304126.639) (-303574.457) * (-303446.125) (-302989.955) (-303201.414) [-302894.285] -- 25:29:11
+
+   Max standard deviation of split frequencies: 0.676628
+
+   385000 -- (-303397.803) [-302924.992] (-304110.631) (-303530.155) * (-303457.612) (-303005.938) (-303202.414) [-302911.923] -- 25:22:29
+
+   Max standard deviation of split frequencies: 0.676889
+
+   387500 -- (-303423.962) [-302912.237] (-304097.702) (-303536.228) * (-303452.778) (-302997.232) (-303203.216) [-302885.208] -- 25:15:45
+
+   Max standard deviation of split frequencies: 0.682932
+
+   390000 -- (-303419.203) [-302914.349] (-304102.332) (-303551.266) * (-303440.483) (-303024.294) (-303180.170) [-302907.599] -- 25:09:15
+
+   Max standard deviation of split frequencies: 0.683137
+
+
+   Max standard deviation of split frequencies: 0.683137
+
+   392500 -- (-303420.641) [-302917.362] (-304114.417) (-303548.706) * (-303449.619) (-303002.453) (-303208.486) [-302910.613] -- 25:02:48
+
+   Max standard deviation of split frequencies: 0.683338
+
+   395000 -- (-303412.907) [-302911.569] (-304082.205) (-303559.228) * (-303437.234) (-302986.202) (-303188.159) [-302915.662] -- 25:50:35
+
+   Max standard deviation of split frequencies: 0.683537
+
+   397500 -- (-303430.265) [-302906.079] (-304087.209) (-303559.984) * (-303420.463) (-302984.306) (-303202.179) [-302910.428] -- 25:43:36
+
+   Max standard deviation of split frequencies: 0.689429
+
+   400000 -- (-303426.244) [-302937.711] (-304078.235) (-303567.750) * (-303452.642) (-303039.853) (-303206.322) [-302925.826] -- 25:38:37
+
+   Max standard deviation of split frequencies: 0.689575
+
+
+   Max standard deviation of split frequencies: 0.689575
+
+   402500 -- (-303421.109) [-302920.132] (-304065.974) (-303537.017) * (-303451.481) (-302991.560) (-303190.738) [-302941.067] -- 25:31:58
+
+   Max standard deviation of split frequencies: 0.689719
+
+   405000 -- (-303420.437) [-302926.608] (-304084.400) (-303523.803) * (-303449.194) (-302976.637) (-303189.789) [-302921.326] -- 25:29:06
+
+   Max standard deviation of split frequencies: 0.689860
+
+   407500 -- (-303396.378) [-302933.074] (-304128.781) (-303513.560) * (-303427.050) (-303005.121) (-303181.459) [-302901.039] -- 25:21:47
+
+   Max standard deviation of split frequencies: 0.695609
+
+   410000 -- (-303400.981) [-302912.422] (-304116.923) (-303530.617) * (-303435.944) (-303002.262) (-303181.720) [-302899.668] -- 25:14:35
+
+   Max standard deviation of split frequencies: 0.695702
+
+
+   Max standard deviation of split frequencies: 0.695702
+
+   412500 -- (-303434.334) [-302904.801] (-304144.873) (-303549.635) * (-303420.350) (-302984.764) (-303191.260) [-302910.460] -- 25:07:27
+
+   Max standard deviation of split frequencies: 0.695793
+
+   415000 -- (-303425.958) [-302923.970] (-304093.711) (-303543.170) * (-303445.656) (-302981.081) (-303209.531) [-302913.741] -- 25:00:15
+
+   Max standard deviation of split frequencies: 0.695883
+
+   417500 -- (-303391.634) [-302915.276] (-304097.083) (-303532.913) * (-303442.484) (-302990.820) (-303230.536) [-302897.491] -- 24:53:05
+
+   Max standard deviation of split frequencies: 0.701495
+
+   420000 -- (-303408.908) [-302918.424] (-304112.221) (-303534.250) * (-303457.904) (-302983.912) (-303245.317) [-302896.258] -- 24:48:33
+
+   Max standard deviation of split frequencies: 0.701539
+
+
+   Max standard deviation of split frequencies: 0.701539
+
+   422500 -- (-303412.546) [-302936.802] (-304099.747) (-303558.323) * (-303481.375) (-303001.473) (-303219.180) [-302922.488] -- 24:42:10
+
+   Max standard deviation of split frequencies: 0.701583
+
+   425000 -- (-303410.925) [-302932.427] (-304125.617) (-303537.566) * (-303475.968) (-303005.200) (-303225.720) [-302912.858] -- 24:41:13
+
+   Max standard deviation of split frequencies: 0.701625
+
+   427500 -- (-303388.221) [-302941.928] (-304104.067) (-303547.241) * (-303456.213) (-302982.847) (-303203.667) [-302936.497] -- 24:34:02
+
+   Max standard deviation of split frequencies: 0.707107
+
+   430000 -- (-303379.934) [-302939.153] (-304149.143) (-303545.447) * (-303447.774) (-302999.000) (-303206.042) [-302905.416] -- 24:27:02
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   432500 -- (-303412.918) [-302932.200] (-304118.999) (-303518.228) * (-303459.211) (-302960.734) (-303204.032) [-302919.574] -- 24:19:54
+
+   Max standard deviation of split frequencies: 0.707107
+
+   435000 -- (-303443.410) [-302956.374] (-304111.963) (-303530.369) * (-303477.565) (-302968.625) (-303186.722) [-302910.355] -- 24:13:05
+
+   Max standard deviation of split frequencies: 0.707107
+
+   437500 -- (-303437.798) [-302959.400] (-304118.523) (-303547.480) * (-303451.235) (-302967.075) (-303203.598) [-302904.346] -- 24:05:56
+
+   Max standard deviation of split frequencies: 0.707107
+
+   440000 -- (-303457.286) [-302946.337] (-304113.250) (-303541.865) * (-303425.847) (-302947.737) (-303210.424) [-302926.936] -- 23:58:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   442500 -- (-303440.779) [-302935.864] (-304132.517) (-303505.385) * (-303448.673) (-302941.374) (-303184.592) [-302953.676] -- 23:52:01
+
+   Max standard deviation of split frequencies: 0.707107
+
+   445000 -- (-303429.289) [-302934.636] (-304110.949) (-303534.350) * (-303436.853) (-302921.784) (-303173.151) [-302945.393] -- 23:45:34
+
+   Max standard deviation of split frequencies: 0.707107
+
+   447500 -- (-303419.101) [-302914.901] (-304121.731) (-303543.018) * (-303437.939) (-302934.873) (-303177.589) [-302954.313] -- 23:38:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+   450000 -- (-303417.551) [-302946.244] (-304097.753) (-303542.391) * (-303425.805) [-302921.145] (-303175.368) (-302950.005) -- 23:31:38
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   452500 -- (-303413.532) [-302933.155] (-304089.868) (-303554.304) * (-303420.207) [-302919.173] (-303180.325) (-302959.685) -- 23:24:38
+
+   Max standard deviation of split frequencies: 0.707107
+
+   455000 -- (-303429.838) [-302930.134] (-304118.860) (-303559.780) * (-303410.258) (-302946.188) (-303177.391) [-302955.158] -- 23:17:34
+
+   Max standard deviation of split frequencies: 0.707107
+
+   457500 -- (-303421.857) [-302922.862] (-304117.663) (-303562.154) * (-303418.383) (-302956.138) (-303166.566) [-302947.610] -- 23:10:33
+
+   Max standard deviation of split frequencies: 0.707107
+
+   460000 -- (-303408.779) [-302949.623] (-304119.256) (-303575.332) * (-303408.451) (-302934.331) (-303209.950) [-302926.078] -- 23:03:47
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   462500 -- (-303394.702) [-302945.177] (-304114.805) (-303538.146) * (-303431.463) (-302940.422) (-303176.707) [-302925.338] -- 22:56:44
+
+   Max standard deviation of split frequencies: 0.707107
+
+   465000 -- (-303407.762) [-302945.042] (-304109.150) (-303548.899) * (-303438.836) (-302943.060) (-303186.035) [-302935.858] -- 22:49:55
+
+   Max standard deviation of split frequencies: 0.707107
+
+   467500 -- (-303409.965) [-302930.230] (-304087.723) (-303537.068) * (-303403.090) (-302951.239) (-303190.588) [-302923.678] -- 22:42:52
+
+   Max standard deviation of split frequencies: 0.707107
+
+   470000 -- (-303408.531) [-302931.245] (-304087.657) (-303527.617) * (-303410.666) (-302959.113) (-303189.094) [-302934.218] -- 22:36:01
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   472500 -- (-303405.266) [-302935.340] (-304051.962) (-303552.259) * (-303391.366) (-302960.968) (-303227.336) [-302945.534] -- 22:29:29
+
+   Max standard deviation of split frequencies: 0.707107
+
+   475000 -- (-303407.677) [-302922.597] (-304023.197) (-303572.916) * (-303408.521) [-302927.557] (-303229.440) (-302958.176) -- 22:22:50
+
+   Max standard deviation of split frequencies: 0.707107
+
+   477500 -- (-303419.217) [-302926.866] (-304045.571) (-303551.084) * (-303415.243) [-302932.058] (-303207.883) (-302972.964) -- 22:16:36
+
+   Max standard deviation of split frequencies: 0.707107
+
+   480000 -- (-303422.967) [-302925.703] (-304068.972) (-303563.540) * (-303409.810) [-302900.223] (-303200.269) (-302956.189) -- 22:09:56
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   482500 -- (-303402.312) [-302931.123] (-304063.777) (-303588.814) * (-303395.428) (-302920.988) (-303199.416) [-302938.693] -- 22:03:23
+
+   Max standard deviation of split frequencies: 0.707107
+
+   485000 -- (-303403.574) [-302903.715] (-304060.512) (-303562.760) * (-303409.442) [-302921.058] (-303215.942) (-302935.382) -- 21:56:57
+
+   Max standard deviation of split frequencies: 0.707107
+
+   487500 -- (-303406.041) [-302918.053] (-304099.342) (-303595.939) * (-303421.049) [-302886.027] (-303211.732) (-302921.477) -- 21:50:20
+
+   Max standard deviation of split frequencies: 0.707107
+
+   490000 -- (-303409.212) [-302912.966] (-304108.809) (-303609.608) * (-303410.612) [-302890.440] (-303198.013) (-302929.016) -- 21:43:35
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   492500 -- (-303421.985) [-302918.769] (-304074.774) (-303617.095) * (-303449.803) (-302902.545) (-303213.874) [-302904.643] -- 21:37:08
+
+   Max standard deviation of split frequencies: 0.707107
+
+   495000 -- (-303440.130) [-302917.935] (-304094.053) (-303625.335) * (-303454.178) (-302899.270) (-303231.322) [-302902.062] -- 21:30:26
+
+   Max standard deviation of split frequencies: 0.707107
+
+   497500 -- (-303414.059) [-302917.039] (-304100.309) (-303547.251) * (-303398.499) (-302913.923) (-303228.129) [-302918.788] -- 21:23:56
+
+   Max standard deviation of split frequencies: 0.707107
+
+   500000 -- (-303407.503) [-302905.467] (-304106.057) (-303576.414) * (-303419.045) [-302944.103] (-303201.723) (-302949.331) -- 21:17:28
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   502500 -- (-303376.098) [-302894.016] (-304098.998) (-303537.866) * (-303449.089) [-302935.172] (-303186.543) (-302954.758) -- 21:10:55
+
+   Max standard deviation of split frequencies: 0.707107
+
+   505000 -- (-303392.435) [-302914.854] (-304111.736) (-303556.991) * (-303434.740) [-302932.706] (-303213.916) (-302959.462) -- 21:04:24
+
+   Max standard deviation of split frequencies: 0.707107
+
+   507500 -- (-303385.937) [-302899.023] (-304083.329) (-303563.671) * (-303423.882) (-302920.355) (-303226.955) [-302957.228] -- 21:34:45
+
+   Max standard deviation of split frequencies: 0.707107
+
+   510000 -- (-303386.455) [-302924.106] (-304079.006) (-303585.338) * (-303404.221) (-302939.101) (-303214.976) [-302936.713] -- 21:27:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   512500 -- (-303402.957) [-302928.489] (-304090.369) (-303560.838) * (-303408.745) (-302955.953) (-303213.800) [-302925.631] -- 21:20:48
+
+   Max standard deviation of split frequencies: 0.707107
+
+   515000 -- (-303404.104) [-302923.769] (-304080.375) (-303563.574) * (-303423.139) [-302946.297] (-303230.630) (-302923.259) -- 21:13:44
+
+   Max standard deviation of split frequencies: 0.707107
+
+   517500 -- (-303389.185) [-302913.468] (-304109.985) (-303543.488) * (-303411.242) (-302945.548) (-303228.395) [-302930.790] -- 21:06:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+   520000 -- (-303409.070) [-302924.601] (-304105.022) (-303562.732) * (-303410.764) (-302959.503) (-303241.898) [-302921.788] -- 20:59:31
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   522500 -- (-303419.698) [-302916.264] (-304131.920) (-303515.315) * (-303390.260) (-302951.776) (-303258.590) [-302905.731] -- 20:52:19
+
+   Max standard deviation of split frequencies: 0.707107
+
+   525000 -- (-303455.971) [-302895.138] (-304091.770) (-303501.805) * (-303426.070) (-302948.775) (-303242.043) [-302901.271] -- 20:45:11
+
+   Max standard deviation of split frequencies: 0.707107
+
+   527500 -- (-303435.268) [-302882.061] (-304101.366) (-303514.817) * (-303466.295) (-302919.302) (-303228.198) [-302923.437] -- 20:38:13
+
+   Max standard deviation of split frequencies: 0.707107
+
+   530000 -- (-303427.973) [-302919.721] (-304084.503) (-303518.220) * (-303448.311) (-302939.053) (-303231.708) [-302924.236] -- 20:31:04
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   532500 -- (-303422.903) [-302920.924] (-304089.722) (-303525.271) * (-303446.490) [-302935.224] (-303238.293) (-302940.040) -- 20:23:53
+
+   Max standard deviation of split frequencies: 0.707107
+
+   535000 -- (-303437.861) [-302935.793] (-304052.186) (-303551.177) * (-303444.768) (-302967.554) (-303244.721) [-302946.617] -- 20:16:45
+
+   Max standard deviation of split frequencies: 0.707107
+
+   537500 -- (-303436.182) [-302924.028] (-304061.264) (-303539.907) * (-303466.441) (-302966.840) (-303266.200) [-302929.918] -- 20:09:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+   540000 -- (-303445.802) [-302932.842] (-304072.823) (-303541.785) * (-303449.033) (-302968.057) (-303242.547) [-302915.027] -- 20:02:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   542500 -- (-303419.529) [-302909.500] (-304056.399) (-303514.996) * (-303409.748) (-302944.555) (-303189.532) [-302930.360] -- 19:55:38
+
+   Max standard deviation of split frequencies: 0.707107
+
+   545000 -- (-303428.076) [-302950.235] (-304070.553) (-303512.518) * (-303406.347) (-302960.640) (-303200.954) [-302930.558] -- 19:48:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+   547500 -- (-303423.443) [-302955.064] (-304063.020) (-303550.097) * (-303414.476) (-302942.736) (-303224.663) [-302935.775] -- 19:41:43
+
+   Max standard deviation of split frequencies: 0.707107
+
+   550000 -- (-303375.018) [-302957.776] (-304067.713) (-303545.191) * (-303412.911) (-302959.000) (-303212.443) [-302920.389] -- 19:34:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   552500 -- (-303389.652) [-302923.334] (-304054.382) (-303533.705) * (-303404.000) (-302958.307) (-303204.361) [-302931.711] -- 19:27:45
+
+   Max standard deviation of split frequencies: 0.707107
+
+   555000 -- (-303395.275) [-302923.560] (-304074.730) (-303546.910) * (-303418.609) (-302968.106) (-303204.079) [-302937.069] -- 19:20:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+   557500 -- (-303388.262) [-302909.647] (-304088.677) (-303542.954) * (-303425.974) (-302934.722) (-303202.062) [-302905.469] -- 19:13:45
+
+   Max standard deviation of split frequencies: 0.707107
+
+   560000 -- (-303384.577) [-302916.759] (-304063.814) (-303573.257) * (-303435.712) [-302909.514] (-303225.822) (-302938.849) -- 19:06:50
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   562500 -- (-303399.330) [-302921.022] (-304069.235) (-303560.574) * (-303418.250) [-302911.310] (-303202.603) (-302937.894) -- 18:59:52
+
+   Max standard deviation of split frequencies: 0.707107
+
+   565000 -- (-303411.707) [-302893.595] (-304069.187) (-303541.565) * (-303385.512) [-302890.707] (-303178.489) (-302952.577) -- 18:52:56
+
+   Max standard deviation of split frequencies: 0.707107
+
+   567500 -- (-303382.750) [-302895.422] (-304101.194) (-303520.826) * (-303413.642) [-302891.854] (-303187.663) (-302931.198) -- 18:46:02
+
+   Max standard deviation of split frequencies: 0.707107
+
+   570000 -- (-303384.149) [-302890.260] (-304085.342) (-303531.061) * (-303405.882) [-302887.420] (-303192.031) (-302940.015) -- 18:39:04
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   572500 -- (-303371.924) [-302899.833] (-304065.946) (-303562.282) * (-303406.986) [-302902.180] (-303225.597) (-302907.625) -- 18:32:07
+
+   Max standard deviation of split frequencies: 0.707107
+
+   575000 -- (-303412.179) [-302907.293] (-304083.594) (-303549.376) * (-303406.834) (-302897.092) (-303210.139) [-302910.352] -- 18:25:13
+
+   Max standard deviation of split frequencies: 0.707107
+
+   577500 -- (-303398.761) [-302889.985] (-304103.271) (-303549.680) * (-303426.518) (-302908.161) (-303211.540) [-302892.674] -- 18:18:16
+
+   Max standard deviation of split frequencies: 0.707107
+
+   580000 -- (-303398.624) [-302912.946] (-304108.336) (-303540.159) * (-303432.198) (-302926.708) (-303206.856) [-302891.091] -- 18:11:21
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   582500 -- (-303399.426) [-302903.547] (-304123.590) (-303559.024) * (-303423.242) (-302924.663) (-303206.377) [-302907.261] -- 18:04:21
+
+   Max standard deviation of split frequencies: 0.707107
+
+   585000 -- (-303406.966) [-302919.910] (-304101.542) (-303559.215) * (-303405.306) (-302918.008) (-303185.353) [-302892.701] -- 17:57:31
+
+   Max standard deviation of split frequencies: 0.707107
+
+   587500 -- (-303418.464) [-302915.787] (-304088.620) (-303520.220) * (-303429.244) (-302934.798) (-303218.307) [-302903.629] -- 17:50:36
+
+   Max standard deviation of split frequencies: 0.707107
+
+   590000 -- (-303396.265) [-302901.703] (-304100.982) (-303534.309) * (-303421.884) (-302943.721) (-303212.040) [-302900.285] -- 17:43:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   592500 -- (-303390.947) [-302937.559] (-304046.778) (-303537.604) * (-303430.513) (-302925.826) (-303231.072) [-302877.885] -- 17:36:49
+
+   Max standard deviation of split frequencies: 0.707107
+
+   595000 -- (-303386.434) [-302919.541] (-304068.035) (-303549.939) * (-303461.957) (-302964.173) (-303219.483) [-302901.363] -- 17:29:54
+
+   Max standard deviation of split frequencies: 0.707107
+
+   597500 -- (-303400.366) [-302916.437] (-304053.768) (-303545.401) * (-303420.815) (-302951.539) (-303207.377) [-302904.109] -- 17:23:07
+
+   Max standard deviation of split frequencies: 0.707107
+
+   600000 -- (-303417.099) [-302912.508] (-304082.622) (-303542.729) * (-303442.700) (-302972.288) (-303202.024) [-302893.024] -- 17:16:15
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   602500 -- (-303416.586) [-302932.650] (-304074.470) (-303548.804) * (-303452.996) (-302943.493) (-303175.605) [-302898.495] -- 17:09:21
+
+   Max standard deviation of split frequencies: 0.707107
+
+   605000 -- (-303419.921) [-302918.264] (-304071.683) (-303521.192) * (-303457.188) (-302954.751) (-303217.193) [-302904.088] -- 17:02:38
+
+   Max standard deviation of split frequencies: 0.707107
+
+   607500 -- (-303415.240) [-302899.507] (-304097.555) (-303545.224) * (-303438.940) (-302935.915) (-303233.063) [-302889.902] -- 16:55:48
+
+   Max standard deviation of split frequencies: 0.707107
+
+   610000 -- (-303412.032) [-302930.982] (-304109.568) (-303522.967) * (-303433.848) (-302930.354) (-303225.023) [-302899.197] -- 16:48:51
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   612500 -- (-303423.808) [-302916.467] (-304073.350) (-303529.902) * (-303410.373) (-302929.587) (-303215.778) [-302910.585] -- 16:41:59
+
+   Max standard deviation of split frequencies: 0.707107
+
+   615000 -- (-303404.002) [-302892.368] (-304086.981) (-303522.632) * (-303409.621) [-302928.331] (-303186.711) (-302940.655) -- 16:35:10
+
+   Max standard deviation of split frequencies: 0.707107
+
+   617500 -- (-303389.124) [-302901.453] (-304041.938) (-303506.934) * (-303405.216) (-302947.801) (-303184.086) [-302902.321] -- 16:28:34
+
+   Max standard deviation of split frequencies: 0.707107
+
+   620000 -- (-303396.278) [-302900.012] (-304073.314) (-303516.941) * (-303414.652) (-302954.015) (-303211.519) [-302897.256] -- 16:21:43
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   622500 -- (-303422.354) [-302902.589] (-304052.708) (-303556.403) * (-303409.303) (-302967.527) (-303125.296) [-302891.045] -- 16:14:52
+
+   Max standard deviation of split frequencies: 0.707107
+
+   625000 -- (-303410.823) [-302896.645] (-304036.641) (-303537.984) * (-303399.042) (-302959.328) (-303129.015) [-302918.118] -- 16:08:03
+
+   Max standard deviation of split frequencies: 0.707107
+
+   627500 -- (-303407.471) [-302911.975] (-304059.915) (-303541.272) * (-303378.461) (-302958.555) (-302971.978) [-302887.774] -- 16:01:11
+
+   Max standard deviation of split frequencies: 0.707107
+
+   630000 -- (-303403.693) [-302935.194] (-304077.027) (-303534.123) * (-303370.102) (-302937.591) (-302972.933) [-302891.755] -- 15:54:20
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   632500 -- (-303417.459) [-302915.452] (-304096.211) (-303551.520) * (-303378.251) (-302964.979) (-302992.747) [-302914.293] -- 15:47:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+   635000 -- (-303407.454) [-302908.016] (-304075.879) (-303534.979) * (-303387.449) (-302952.443) (-302996.731) [-302890.864] -- 15:41:12
+
+   Max standard deviation of split frequencies: 0.707107
+
+   637500 -- (-303380.164) [-302881.524] (-304076.138) (-303536.581) * (-303416.158) (-302959.171) (-302976.800) [-302893.536] -- 15:34:37
+
+   Max standard deviation of split frequencies: 0.707107
+
+   640000 -- (-303365.082) [-302888.233] (-304091.164) (-303557.019) * (-303413.960) (-302939.628) (-302985.328) [-302913.723] -- 15:27:55
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   642500 -- (-303401.660) [-302914.887] (-304097.169) (-303566.500) * (-303437.583) (-302912.194) (-303003.133) [-302911.960] -- 15:21:17
+
+   Max standard deviation of split frequencies: 0.707107
+
+   645000 -- (-303401.073) [-302931.489] (-303707.186) (-303543.208) * (-303453.128) (-302901.137) (-303012.021) [-302907.162] -- 15:14:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+   647500 -- (-303425.493) [-302921.584] (-303564.316) (-303560.862) * (-303440.155) (-302906.103) (-303031.582) [-302918.367] -- 15:07:55
+
+   Max standard deviation of split frequencies: 0.707107
+
+   650000 -- (-303432.185) [-302908.373] (-303533.902) (-303544.751) * (-303457.346) (-302906.459) (-302996.162) [-302925.307] -- 15:01:05
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   652500 -- (-303430.139) [-302916.464] (-303450.604) (-303523.337) * (-303447.267) (-302915.770) (-302986.593) [-302930.432] -- 14:54:13
+
+   Max standard deviation of split frequencies: 0.707107
+
+   655000 -- (-303402.680) [-302911.270] (-303322.805) (-303525.243) * (-303402.455) [-302903.086] (-302986.626) (-302948.923) -- 14:47:20
+
+   Max standard deviation of split frequencies: 0.707107
+
+   657500 -- (-303420.349) [-302930.479] (-303284.913) (-303537.358) * (-303428.960) [-302896.741] (-303003.328) (-302961.915) -- 14:40:55
+
+   Max standard deviation of split frequencies: 0.707107
+
+   660000 -- (-303421.177) [-302931.299] (-303242.976) (-303515.708) * (-303418.514) [-302881.863] (-302987.280) (-302946.501) -- 14:34:22
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   662500 -- (-303441.201) [-302920.983] (-303224.622) (-303529.664) * (-303373.684) [-302889.241] (-303003.540) (-302973.306) -- 14:27:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+   665000 -- (-303411.047) [-302906.525] (-303224.578) (-303554.061) * (-303341.819) [-302933.332] (-302983.032) (-302961.680) -- 14:20:50
+
+   Max standard deviation of split frequencies: 0.707107
+
+   667500 -- (-303410.409) [-302951.241] (-303243.541) (-303547.733) * (-303293.490) [-302925.611] (-302957.258) (-302977.267) -- 14:14:08
+
+   Max standard deviation of split frequencies: 0.707107
+
+   670000 -- (-303429.714) [-302934.176] (-303251.305) (-303533.285) * (-303343.483) (-302934.376) [-302925.453] (-302996.143) -- 14:07:41
+
+   Max standard deviation of split frequencies: 0.703606
+
+
+   Max standard deviation of split frequencies: 0.703606
+
+   672500 -- (-303445.362) [-302885.974] (-303241.043) (-303563.014) * (-303306.360) [-302919.104] (-302948.622) (-302978.155) -- 14:01:00
+
+   Max standard deviation of split frequencies: 0.703623
+
+   675000 -- (-303437.010) [-302897.107] (-303240.147) (-303569.642) * (-303300.278) [-302913.842] (-302957.217) (-302978.449) -- 13:54:15
+
+   Max standard deviation of split frequencies: 0.703641
+
+   677500 -- (-303471.404) [-302903.586] (-303211.742) (-303557.243) * (-303266.563) [-302901.138] (-302983.606) (-302955.849) -- 13:47:30
+
+   Max standard deviation of split frequencies: 0.703641
+
+   680000 -- (-303501.399) [-302909.697] (-303241.365) (-303566.735) * (-303271.978) [-302905.757] (-302941.677) (-302949.896) -- 13:40:44
+
+   Max standard deviation of split frequencies: 0.703657
+
+
+   Max standard deviation of split frequencies: 0.703657
+
+   682500 -- (-303502.146) [-302928.343] (-303268.696) (-303562.109) * (-303255.545) [-302876.568] (-302972.247) (-302924.550) -- 13:34:00
+
+   Max standard deviation of split frequencies: 0.703674
+
+   685000 -- (-303493.432) [-302912.925] (-303264.052) (-303581.409) * (-303200.495) [-302908.404] (-302983.753) (-302925.667) -- 13:27:14
+
+   Max standard deviation of split frequencies: 0.703691
+
+   687500 -- (-303459.987) [-302906.769] (-303271.675) (-303572.054) * (-303105.728) [-302901.767] (-302995.826) (-302947.819) -- 13:20:42
+
+   Max standard deviation of split frequencies: 0.703691
+
+   690000 -- (-303449.856) [-302912.965] (-303257.781) (-303594.776) * (-303059.178) [-302914.224] (-302980.551) (-302954.722) -- 13:14:06
+
+   Max standard deviation of split frequencies: 0.703707
+
+
+   Max standard deviation of split frequencies: 0.703707
+
+   692500 -- (-303460.585) [-302901.513] (-303292.422) (-303558.529) * (-303063.471) [-302893.281] (-302986.583) (-302987.449) -- 13:07:27
+
+   Max standard deviation of split frequencies: 0.703723
+
+   695000 -- (-303442.942) [-302915.043] (-303263.689) (-303585.075) * (-303058.315) [-302881.061] (-302969.765) (-302954.365) -- 13:01:01
+
+   Max standard deviation of split frequencies: 0.703740
+
+   697500 -- (-303441.731) [-302931.201] (-303255.088) (-303605.862) * (-303078.207) [-302888.876] (-302974.832) (-302946.848) -- 12:54:22
+
+   Max standard deviation of split frequencies: 0.703740
+
+   700000 -- (-303443.220) [-302904.241] (-303247.340) (-303593.520) * (-303101.370) [-302894.303] (-302932.217) (-302950.487) -- 12:47:43
+
+   Max standard deviation of split frequencies: 0.703756
+
+
+   Max standard deviation of split frequencies: 0.703756
+
+   702500 -- (-303447.610) [-302887.327] (-303238.023) (-303579.467) * (-303094.092) [-302895.972] (-302961.189) (-302962.878) -- 12:41:07
+
+   Max standard deviation of split frequencies: 0.703771
+
+   705000 -- (-303444.512) [-302890.965] (-303242.986) (-303569.490) * (-303027.584) [-302887.744] (-302974.334) (-302957.458) -- 12:34:37
+
+   Max standard deviation of split frequencies: 0.703787
+
+   707500 -- (-303476.275) [-302882.743] (-303251.294) (-303580.055) * (-303009.467) (-302929.507) (-302994.002) [-302933.519] -- 12:27:55
+
+   Max standard deviation of split frequencies: 0.703787
+
+   710000 -- (-303436.453) [-302886.898] (-303251.128) (-303554.871) * (-303034.196) (-302934.858) (-303008.248) [-302923.359] -- 12:21:14
+
+   Max standard deviation of split frequencies: 0.703803
+
+
+   Max standard deviation of split frequencies: 0.703803
+
+   712500 -- (-303415.298) [-302885.303] (-303254.127) (-303535.437) * (-303013.130) (-302920.004) (-302972.838) [-302927.647] -- 12:14:35
+
+   Max standard deviation of split frequencies: 0.703818
+
+   715000 -- (-303427.223) [-302888.946] (-303254.778) (-303582.476) * (-303039.913) [-302905.406] (-302978.508) (-302955.544) -- 12:07:58
+
+   Max standard deviation of split frequencies: 0.703833
+
+   717500 -- (-303430.225) [-302871.941] (-303266.445) (-303573.496) * (-303042.081) [-302907.985] (-302993.230) (-302933.117) -- 12:01:18
+
+   Max standard deviation of split frequencies: 0.707107
+
+   720000 -- (-303428.713) [-302894.400] (-303268.792) (-303531.283) * (-303022.409) [-302914.004] (-302986.997) (-302926.141) -- 11:54:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   722500 -- (-303413.890) [-302912.599] (-303265.374) (-303534.350) * (-303036.015) [-302901.017] (-302978.092) (-302924.432) -- 11:48:02
+
+   Max standard deviation of split frequencies: 0.707107
+
+   725000 -- (-303432.586) [-302902.351] (-303244.791) (-303543.629) * (-302999.323) [-302909.195] (-302942.657) (-302940.589) -- 11:41:24
+
+   Max standard deviation of split frequencies: 0.707107
+
+   727500 -- (-303410.918) [-302883.441] (-303234.157) (-303565.558) * (-303012.253) [-302908.062] (-302957.629) (-302952.912) -- 11:34:44
+
+   Max standard deviation of split frequencies: 0.707107
+
+   730000 -- (-303424.748) [-302889.693] (-303227.825) (-303572.917) * (-303033.835) [-302921.090] (-302935.605) (-302968.272) -- 11:28:04
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   732500 -- (-303413.609) [-302907.173] (-303240.474) (-303544.286) * (-303034.427) [-302893.137] (-302910.447) (-302961.443) -- 11:21:27
+
+   Max standard deviation of split frequencies: 0.707107
+
+   735000 -- (-303401.213) [-302912.689] (-303223.192) (-303542.147) * (-303021.878) [-302927.189] (-302911.120) (-302946.576) -- 11:14:51
+
+   Max standard deviation of split frequencies: 0.707107
+
+   737500 -- (-303394.281) [-302908.958] (-303243.241) (-303561.019) * (-303041.898) (-302925.503) (-302936.593) [-302929.379] -- 11:08:15
+
+   Max standard deviation of split frequencies: 0.707107
+
+   740000 -- (-303371.843) [-302918.444] (-303258.471) (-303540.370) * (-303025.167) [-302920.637] (-302930.708) (-302940.559) -- 11:01:39
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   742500 -- (-303415.850) [-302935.672] (-303257.000) (-303553.020) * (-303024.863) [-302919.313] (-302929.612) (-302955.930) -- 13:50:13
+
+   Max standard deviation of split frequencies: 0.707107
+
+   745000 -- (-303397.977) [-302958.139] (-303263.856) (-303580.233) * (-303012.081) [-302911.821] (-302909.010) (-302991.338) -- 13:41:25
+
+   Max standard deviation of split frequencies: 0.707107
+
+   747500 -- (-303436.254) [-302933.627] (-303232.220) (-303557.479) * (-303014.831) (-302913.739) [-302907.323] (-302986.921) -- 13:32:46
+
+   Max standard deviation of split frequencies: 0.707107
+
+   750000 -- (-303463.274) [-302940.303] (-303235.985) (-303567.438) * (-302993.039) [-302925.732] (-302905.049) (-302989.371) -- 13:24:02
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   752500 -- (-303465.459) [-302935.066] (-303234.576) (-303610.527) * (-302983.205) [-302909.559] (-302902.631) (-302994.292) -- 13:15:20
+
+   Max standard deviation of split frequencies: 0.707107
+
+   755000 -- (-303449.151) [-302939.668] (-303224.255) (-303579.578) * (-303003.391) [-302913.620] (-302919.034) (-302981.736) -- 13:06:33
+
+   Max standard deviation of split frequencies: 0.707107
+
+   757500 -- (-303400.345) [-302934.798] (-303244.470) (-303597.432) * (-303000.698) [-302900.919] (-302915.180) (-302999.014) -- 12:57:50
+
+   Max standard deviation of split frequencies: 0.707107
+
+   760000 -- (-303414.059) [-302905.183] (-303251.498) (-303560.665) * (-303004.446) [-302911.180] (-302922.679) (-302971.141) -- 12:49:10
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   762500 -- (-303417.516) [-302911.459] (-303245.053) (-303578.951) * (-302998.901) [-302922.074] (-302935.290) (-302955.366) -- 12:40:30
+
+   Max standard deviation of split frequencies: 0.707107
+
+   765000 -- (-303400.460) [-302916.382] (-303240.302) (-303586.577) * (-303014.581) [-302920.064] (-302926.901) (-302956.580) -- 12:31:51
+
+   Max standard deviation of split frequencies: 0.707107
+
+   767500 -- (-303426.369) [-302912.495] (-303247.993) (-303579.476) * (-303037.154) [-302909.156] (-302898.204) (-302977.607) -- 12:23:12
+
+   Max standard deviation of split frequencies: 0.707107
+
+   770000 -- (-303404.794) [-302899.155] (-303260.817) (-303568.366) * (-303048.192) [-302928.121] (-302921.202) (-303000.950) -- 12:14:34
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   772500 -- (-303379.034) [-302895.849] (-303239.069) (-303588.422) * (-303041.200) [-302915.201] (-302946.273) (-302970.791) -- 12:05:59
+
+   Max standard deviation of split frequencies: 0.707107
+
+   775000 -- (-303393.980) [-302891.616] (-303229.523) (-303564.520) * (-303044.547) [-302902.610] (-302938.474) (-302959.232) -- 11:57:24
+
+   Max standard deviation of split frequencies: 0.707107
+
+   777500 -- (-303405.744) [-302895.438] (-303232.504) (-303579.315) * (-303039.275) [-302904.065] (-302958.218) (-302943.291) -- 11:48:50
+
+   Max standard deviation of split frequencies: 0.707107
+
+   780000 -- (-303407.935) [-302887.696] (-303249.542) (-303592.277) * (-303046.982) [-302919.927] (-302980.666) (-302957.510) -- 11:40:15
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   782500 -- (-303397.680) [-302888.212] (-303244.193) (-303574.510) * (-302998.135) [-302919.399] (-302974.830) (-302943.767) -- 11:31:42
+
+   Max standard deviation of split frequencies: 0.707107
+
+   785000 -- (-303418.136) [-302868.951] (-303240.109) (-303610.582) * (-303004.041) [-302913.022] (-302988.794) (-302925.719) -- 11:23:11
+
+   Max standard deviation of split frequencies: 0.707107
+
+   787500 -- (-303445.011) [-302881.558] (-303259.640) (-303584.891) * (-302975.833) [-302911.868] (-302966.415) (-302929.328) -- 11:14:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+   790000 -- (-303429.430) [-302880.826] (-303236.224) (-303577.565) * (-302970.040) (-302943.021) (-302970.382) [-302913.258] -- 11:06:19
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   792500 -- (-303398.132) [-302896.135] (-303240.703) (-303556.950) * (-303019.252) [-302961.338] (-302982.987) (-302940.317) -- 10:58:06
+
+   Max standard deviation of split frequencies: 0.707107
+
+   795000 -- (-303410.917) [-302895.897] (-303243.792) (-303589.648) * (-303026.091) [-302981.423] (-302966.226) (-302940.989) -- 10:58:05
+
+   Max standard deviation of split frequencies: 0.707107
+

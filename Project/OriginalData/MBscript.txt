@@ -1,0 +1,56 @@
+Project Script: Mr Bayes
+
+module load mrbayes 
+salloc -N 1 -n 4 -t 24:00:00 
+mpirun -np 4 mb
+log start filename=ProjMB.txt
+execute Diurnality_6gene_data.nxs
+outgroup Gallus
+charset  nDNA = 1-2692;
+charset  ND2cod1_2_tRNA = 2693-3694\3 2694-3694\3 3695-4106;
+charset  ND2cod3 = 2695-3694\3;
+charset nDNA.cod1 = 1-2692\3;
+charset nDNA.cod2 = 2-2692\3;
+charset nDNA.cod3 = 3-2692\3;
+charset RAG2 = 1-366;
+charset cmos = 367-750;
+charset ACM4 = 751-1228;
+charset RAG1 = 1229-2295;
+charset PDC = 2296-2692;
+charset mtDNA = 2693-4106;
+charset ND2 = 2693-3694;
+charset tRNA = 3695-4106;
+charset RAG2.1 = 1-366\3;
+charset RAG2.2 = 2-366\3;
+charset RAG2.3 = 3-366\3;
+charset cmos.1 = 367-750\3;
+charset cmos.2 = 368-750\3;
+charset cmos.3 = 369-750\3;
+charset ACM4.1 = 751-1228\3;
+charset ACM4.2 = 752-1228\3;
+charset ACM4.3 = 753-1228\3;
+charset RAG1.1 = 1229-2295\3;
+charset RAG1.2 = 1230-2295\3;
+charset RAG1.3 = 1231-2295\3;
+charset PDC.1 = 2296-2692\3;
+charset PDC.2 = 2297-2692\3;
+charset PDC.3 = 2298-2692\3;
+charset ND2.cod1 = 2693-3694\3;
+charset ND2.cod2 = 2694-3694\3;
+charset ND2.cod3 = 2695-3694\3;
+partition sat-partition = 3: nDNA, ND2cod1_2_tRNA, ND2cod3
+set partition= sat-partition
+lset applyto=(all) nst=6 rates=gamma
+prset revm=dir(1,1,1,1,1,1) statef=dir(1,1,1,1,) shape=expon(0.05)
+unlink revmat=(all) statef=(all) shapeape=(all)
+prset applytp=(all) ratepr=variable
+mcmcp ng=1000000 printf=2500 samp=2500 diagnf=2000 diagnst=maxstddev
+mcmcp nch=4 savebr=year filename=MB-1mil-partn
+mcmc
+ss ng=1000000 diagnfr=2000 filename=MB-1mil-partn-ss   #record the mean marg likelihood
+sump filename=MB-1mil-partn
+sump filename=MB-1mil-partn-ss  #record the margial likelihood est by harmonic mean
+sumt filename=MB-1mil-partn
+sumt filename=MB-1mil-partn-ss
+#use figtree to analysize summary trees
+
