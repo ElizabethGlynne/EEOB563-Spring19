@@ -1,0 +1,12 @@
+TnT Script
+Using TnT v 1.5
+Convert nxs file to TNT using Mesquite
+Set outgroup to Gallus
+Default parameters
+> Switch Algorithms:				Search	Minimum length	Best_Score	Tree(s)	Time	Arrangements	Notes
+	- Search and Tree fusing	:		5		5 times														Consensus sectorial search (S) and Alternate equal weights (R)
+	- Search and Ratchet		:	
+	- Search and Drift			:
+	- Ratchet and Drift			:
+    - Ratchet and Tree fusing 	:
+    - Drift and Tree fusing		:

@@ -2586,3 +2586,862 @@ MrBayes >
 
    Max standard deviation of split frequencies: 0.707107
 
+
+   Max standard deviation of split frequencies: 0.707107
+
+   842500 -- (-303424.069) [-302903.317] (-303201.337) (-303605.275) * (-302948.888) (-303021.047) [-302881.822] (-303014.759) -- 8:20:18
+
+   Max standard deviation of split frequencies: 0.707107
+
+   845000 -- (-303439.922) [-302908.167] (-303219.124) (-303576.310) * (-302916.536) (-303007.183) [-302903.260] (-303011.293) -- 8:12:24
+
+   Max standard deviation of split frequencies: 0.707107
+
+   847500 -- (-303418.055) [-302933.187] (-303214.694) (-303572.534) * (-302932.351) (-302985.683) [-302885.150] (-303044.543) -- 8:04:12
+
+   Max standard deviation of split frequencies: 0.707107
+
+   850000 -- (-303401.813) [-302933.745] (-303208.071) (-303555.101) * (-302952.034) (-303000.165) [-302876.082] (-303059.178) -- 7:55:58
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   852500 -- (-303415.371) [-302934.207] (-303201.144) (-303549.241) * (-302930.213) (-302992.347) [-302893.751] (-303020.761) -- 7:47:43
+
+   Max standard deviation of split frequencies: 0.707107
+
+   855000 -- (-303458.373) [-302915.350] (-303205.981) (-303536.705) * (-302953.452) (-302991.281) [-302894.784] (-303047.177) -- 7:39:26
+
+   Max standard deviation of split frequencies: 0.707107
+
+   857500 -- (-303440.785) [-302928.344] (-303234.623) (-303570.478) * (-302946.061) (-302978.482) [-302915.253] (-303045.966) -- 7:31:11
+
+   Max standard deviation of split frequencies: 0.707107
+
+   860000 -- (-303410.798) [-302916.296] (-303222.236) (-303524.152) * (-302947.953) (-302983.867) [-302899.493] (-303034.889) -- 7:22:57
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   862500 -- (-303421.835) [-302913.644] (-303215.309) (-303549.912) * (-302946.474) (-302992.475) [-302899.876] (-303039.021) -- 7:14:43
+
+   Max standard deviation of split frequencies: 0.707107
+
+   865000 -- (-303415.566) [-302919.848] (-303227.449) (-303533.135) * (-302963.223) (-302973.684) [-302891.990] (-303037.594) -- 7:06:30
+
+   Max standard deviation of split frequencies: 0.707107
+
+   867500 -- (-303440.432) [-302908.445] (-303223.978) (-303545.448) * (-303002.440) (-302965.143) [-302894.205] (-303002.405) -- 6:58:23
+
+   Max standard deviation of split frequencies: 0.707107
+
+   870000 -- (-303407.014) [-302903.570] (-303233.010) (-303538.472) * (-302993.368) (-302971.721) [-302919.000] (-303018.834) -- 6:50:14
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   872500 -- (-303407.472) [-302903.065] (-303226.039) (-303586.183) * (-302975.553) (-302959.034) [-302921.907] (-303033.958) -- 6:42:03
+
+   Max standard deviation of split frequencies: 0.707107
+
+   875000 -- (-303425.829) [-302896.461] (-303234.200) (-303550.681) * (-302993.614) (-302939.913) [-302919.552] (-302998.786) -- 6:33:53
+
+   Max standard deviation of split frequencies: 0.707107
+
+   877500 -- (-303421.256) [-302902.302] (-303249.386) (-303543.779) * (-302989.565) (-302971.534) [-302905.574] (-303011.511) -- 6:25:43
+
+   Max standard deviation of split frequencies: 0.707107
+
+   880000 -- (-303399.782) [-302910.341] (-303270.326) (-303564.449) * (-302944.507) (-302957.159) [-302935.415] (-303015.008) -- 6:17:40
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   882500 -- (-303437.794) [-302915.689] (-303248.625) (-303564.207) * (-302960.010) (-302941.493) [-302897.640] (-303008.196) -- 6:09:33
+
+   Max standard deviation of split frequencies: 0.707107
+
+   885000 -- (-303460.839) [-302922.515] (-303246.093) (-303555.716) * (-302988.422) (-302955.614) [-302897.770] (-303010.194) -- 6:01:34
+
+   Max standard deviation of split frequencies: 0.707107
+
+   887500 -- (-303456.492) [-302932.469] (-303279.549) (-303563.444) * (-302984.697) (-302972.212) [-302892.284] (-302967.908) -- 5:53:36
+
+   Max standard deviation of split frequencies: 0.707107
+
+   890000 -- (-303444.495) [-302912.950] (-303275.014) (-303580.573) * (-302962.142) (-302952.207) [-302910.613] (-302979.851) -- 5:45:37
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   892500 -- (-303439.902) [-302910.661] (-303245.647) (-303612.621) * (-302967.022) (-302945.287) [-302899.529] (-302997.796) -- 5:37:42
+
+   Max standard deviation of split frequencies: 0.707107
+
+   895000 -- (-303448.138) [-302927.305] (-303264.547) (-303593.378) * (-302987.501) (-302938.413) [-302893.117] (-302976.590) -- 5:29:47
+
+   Max standard deviation of split frequencies: 0.707107
+
+   897500 -- (-303463.586) [-302935.139] (-303263.616) (-303577.438) * (-303032.486) (-302949.470) [-302916.721] (-302952.059) -- 5:21:52
+
+   Max standard deviation of split frequencies: 0.707107
+
+   900000 -- (-303468.608) [-302928.668] (-303253.274) (-303598.390) * (-303020.321) (-302965.759) [-302904.865] (-302943.675) -- 5:14:04
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   902500 -- (-303462.095) [-302933.128] (-303256.884) (-303585.133) * (-302993.570) (-302962.533) [-302923.143] (-302961.231) -- 5:06:13
+
+   Max standard deviation of split frequencies: 0.707107
+
+   905000 -- (-303510.154) [-302910.529] (-303253.348) (-303569.188) * (-303038.609) (-302979.287) [-302920.160] (-302955.693) -- 5:00:58
+
+   Max standard deviation of split frequencies: 0.707107
+
+   907500 -- (-303450.654) [-302911.315] (-303243.819) (-303576.696) * (-303021.259) (-303002.279) [-302911.018] (-302939.314) -- 4:52:54
+
+   Max standard deviation of split frequencies: 0.707107
+
+   910000 -- (-303452.292) [-302900.269] (-303239.552) (-303560.433) * (-303030.084) (-302986.062) [-302920.784] (-302930.066) -- 4:44:48
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   912500 -- (-303466.263) [-302923.519] (-303233.891) (-303560.180) * (-302997.553) (-302983.944) [-302952.268] (-302954.200) -- 4:36:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+   915000 -- (-303452.316) [-302917.025] (-303259.594) (-303567.051) * (-302983.698) (-303001.025) [-302943.986] (-302943.549) -- 4:28:36
+
+   Max standard deviation of split frequencies: 0.707107
+
+   917500 -- (-303447.554) [-302930.085] (-303266.049) (-303576.126) * (-303000.180) (-303020.657) [-302921.453] (-302941.985) -- 4:20:30
+
+   Max standard deviation of split frequencies: 0.707107
+
+   920000 -- (-303463.744) [-302908.975] (-303240.412) (-303556.291) * (-303021.426) (-302992.865) [-302924.988] (-302950.944) -- 4:12:27
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   922500 -- (-303472.601) [-302892.360] (-303231.214) (-303606.889) * (-302999.978) (-302987.624) [-302923.355] (-302946.553) -- 4:04:23
+
+   Max standard deviation of split frequencies: 0.707107
+
+   925000 -- (-303433.861) [-302891.927] (-303225.377) (-303561.178) * (-303018.606) (-302974.645) [-302912.222] (-302957.873) -- 3:56:21
+
+   Max standard deviation of split frequencies: 0.707107
+
+   927500 -- (-303427.362) [-302917.349] (-303223.098) (-303574.582) * (-303007.388) (-302972.425) [-302905.610] (-302955.515) -- 3:48:19
+
+   Max standard deviation of split frequencies: 0.707107
+
+   930000 -- (-303431.544) [-302900.996] (-303257.896) (-303551.480) * (-302991.508) (-302986.628) [-302870.987] (-302959.519) -- 3:40:18
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   932500 -- (-303433.208) [-302891.852] (-303247.992) (-303584.587) * (-302973.708) (-302973.455) [-302891.318] (-302933.493) -- 3:32:17
+
+   Max standard deviation of split frequencies: 0.707107
+
+   935000 -- (-303434.631) [-302899.408] (-303270.997) (-303580.690) * (-302957.787) (-302982.232) [-302930.580] (-302961.728) -- 3:24:17
+
+   Max standard deviation of split frequencies: 0.707107
+
+   937500 -- (-303438.741) [-302884.967] (-303257.026) (-303579.603) * (-302955.616) (-302994.006) [-302920.764] (-302941.102) -- 3:16:18
+
+   Max standard deviation of split frequencies: 0.707107
+
+   940000 -- (-303422.230) [-302897.278] (-303246.270) (-303551.592) * (-302936.960) (-302977.670) [-302916.891] (-302921.110) -- 3:08:19
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   942500 -- (-303444.694) [-302923.886] (-303244.547) (-303556.590) * (-302947.925) (-303012.746) [-302900.446] (-302936.667) -- 3:00:22
+
+   Max standard deviation of split frequencies: 0.707107
+
+   945000 -- (-303443.136) [-302922.362] (-303236.055) (-303549.549) * (-302928.810) (-303021.507) [-302928.688] (-302925.096) -- 2:52:24
+
+   Max standard deviation of split frequencies: 0.707107
+
+   947500 -- (-303423.294) [-302919.418] (-303239.050) (-303565.182) * (-302948.775) (-303042.867) [-302934.715] (-302910.298) -- 2:44:27
+
+   Max standard deviation of split frequencies: 0.707107
+
+   950000 -- (-303443.277) [-302925.476] (-303216.217) (-303558.356) * (-302979.493) (-303047.663) (-302959.379) [-302890.802] -- 2:36:31
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   952500 -- (-303424.908) [-302926.175] (-303222.772) (-303541.221) * (-302960.993) (-302979.009) (-302950.442) [-302875.738] -- 2:28:35
+
+   Max standard deviation of split frequencies: 0.707107
+
+   955000 -- (-303394.779) [-302902.515] (-303215.673) (-303551.522) * (-302958.334) (-303000.392) (-302964.310) [-302897.056] -- 2:20:41
+
+   Max standard deviation of split frequencies: 0.707107
+
+   957500 -- (-303396.791) [-302890.804] (-303200.963) (-303570.125) * (-302950.830) (-303035.604) (-302960.709) [-302918.127] -- 2:12:47
+
+   Max standard deviation of split frequencies: 0.707107
+
+   960000 -- (-303378.790) [-302919.273] (-303224.040) (-303576.905) * (-302948.573) (-303049.827) (-302979.639) [-302893.800] -- 2:04:53
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   962500 -- (-303384.587) [-302920.463] (-303215.999) (-303573.832) * (-302943.515) (-303031.029) (-302986.042) [-302889.848] -- 1:57:01
+
+   Max standard deviation of split frequencies: 0.707107
+
+   965000 -- (-303381.688) [-302908.598] (-303201.749) (-303596.441) * (-302943.474) (-303018.340) (-302989.527) [-302904.542] -- 1:49:09
+
+   Max standard deviation of split frequencies: 0.707107
+
+   967500 -- (-303412.628) [-302910.605] (-303212.641) (-303566.365) * (-302934.583) (-303044.700) (-303014.177) [-302914.154] -- 1:41:17
+
+   Max standard deviation of split frequencies: 0.707107
+
+   970000 -- (-303415.094) [-302917.063] (-303185.190) (-303583.801) * [-302965.396] (-302994.032) (-302997.488) (-302933.052) -- 1:33:26
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   972500 -- (-303410.489) [-302900.467] (-303210.356) (-303573.393) * (-302964.292) (-303009.955) (-303006.994) [-302928.032] -- 1:25:35
+
+   Max standard deviation of split frequencies: 0.707107
+
+   975000 -- (-303395.468) [-302913.563] (-303210.952) (-303556.715) * (-302930.285) (-303016.628) (-302991.469) [-302916.126] -- 1:17:45
+
+   Max standard deviation of split frequencies: 0.707107
+
+   977500 -- (-303412.032) [-302908.335] (-303226.514) (-303525.824) * (-302924.383) (-302971.103) (-302981.576) [-302922.271] -- 1:09:56
+
+   Max standard deviation of split frequencies: 0.707107
+
+   980000 -- (-303395.383) [-302934.550] (-303209.913) (-303558.920) * (-302926.891) (-303006.983) (-302999.280) [-302925.793] -- 1:02:08
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   982500 -- (-303427.106) [-302924.418] (-303215.200) (-303534.174) * [-302924.885] (-303022.307) (-302993.548) (-302928.625) -- 0:54:19
+
+   Max standard deviation of split frequencies: 0.707107
+
+   985000 -- (-303427.484) [-302906.497] (-303222.930) (-303535.619) * (-302925.420) (-303012.996) (-302976.369) [-302911.768] -- 0:46:32
+
+   Max standard deviation of split frequencies: 0.707107
+
+   987500 -- (-303416.087) [-302913.358] (-303219.459) (-303545.611) * (-302917.117) (-303020.848) (-302986.759) [-302927.414] -- 0:38:45
+
+   Max standard deviation of split frequencies: 0.707107
+
+   990000 -- (-303422.515) [-302926.500] (-303223.344) (-303561.163) * (-302913.998) (-303051.732) (-302967.995) [-302916.725] -- 0:30:59
+
+   Max standard deviation of split frequencies: 0.707107
+
+
+   Max standard deviation of split frequencies: 0.707107
+
+   992500 -- (-303407.885) [-302926.845] (-303203.232) (-303548.390) * [-302920.556] (-303043.179) (-302980.650) (-302938.834) -- 0:23:13
+
+   Max standard deviation of split frequencies: 0.707107
+
+   995000 -- (-303414.885) [-302925.461] (-303212.860) (-303535.570) * (-302906.264) (-302997.990) (-302996.225) [-302931.850] -- 0:15:28
+
+   Max standard deviation of split frequencies: 0.707107
+
+   997500 -- (-303414.758) [-302887.489] (-303197.157) (-303544.769) * [-302887.112] (-303028.259) (-303003.751) (-302937.093) -- 0:07:44
+
+   Max standard deviation of split frequencies: 0.707107
+   1000000 -- (-303405.976) [-302877.258] (-303226.291) (-303571.831) * [-302896.339] (-303000.254) (-303022.221) (-302938.926) -- 0:00:00
+
+   Max standard deviation of split frequencies: 0.707107
+
+   Continue with analysis? (yes/no): 
+   Analysis completed in 51 hours 31 mins 37 seconds
+   Analysis used 185497.64 seconds of CPU time
+   Likelihood of best state for "cold" chain of run 1 was -302865.19
+   Likelihood of best state for "cold" chain of run 2 was -303180.31
+
+   Acceptance rates for the moves in the "cold" chain of run 1:
+      With prob.   (last 100)   chain accepted proposals by move
+          0.4 %     (  0 %)     Dirichlet(Revmat{all})
+         16.2 %     ( 24 %)     Slider(Revmat{all})
+          0.3 %     (  1 %)     Dirichlet(Pi{all})
+          6.0 %     ( 10 %)     Slider(Pi{all})
+          6.9 %     ( 19 %)     Multiplier(Alpha{all})
+          3.5 %     (  3 %)     ExtSPR(Tau{all},V{all})
+          3.1 %     (  1 %)     ExtTBR(Tau{all},V{all})
+          5.7 %     (  6 %)     NNI(Tau{all},V{all})
+          0.2 %     (  1 %)     ParsSPR(Tau{all},V{all})
+         25.8 %     ( 23 %)     Multiplier(V{all})
+         18.2 %     ( 16 %)     Nodeslider(V{all})
+         18.5 %     ( 25 %)     TLMultiplier(V{all})
+
+   Acceptance rates for the moves in the "cold" chain of run 2:
+      With prob.   (last 100)   chain accepted proposals by move
+          0.4 %     (  1 %)     Dirichlet(Revmat{all})
+         15.6 %     ( 20 %)     Slider(Revmat{all})
+          0.4 %     (  0 %)     Dirichlet(Pi{all})
+          5.8 %     (  8 %)     Slider(Pi{all})
+          7.4 %     ( 16 %)     Multiplier(Alpha{all})
+          3.4 %     (  3 %)     ExtSPR(Tau{all},V{all})
+          3.0 %     (  3 %)     ExtTBR(Tau{all},V{all})
+          5.4 %     (  3 %)     NNI(Tau{all},V{all})
+          0.3 %     (  0 %)     ParsSPR(Tau{all},V{all})
+         25.8 %     ( 28 %)     Multiplier(V{all})
+         18.3 %     ( 23 %)     Nodeslider(V{all})
+         18.5 %     ( 29 %)     TLMultiplier(V{all})
+
+   Chain swap information for run 1:
+
+                1       2       3       4 
+        ----------------------------------
+      1 |            0.00    0.00    0.00 
+      2 |  166291            0.01    0.00 
+      3 |  166639  166659            0.00 
+      4 |  166322  167344  166745         
+
+   Chain swap information for run 2:
+
+                1       2       3       4 
+        ----------------------------------
+      1 |            0.10    0.00    0.00 
+      2 |  166668            0.08    0.00 
+      3 |  167245  166392            0.08 
+      4 |  166506  166671  166518         
+
+   Upper diagonal: Proportion of successful state exchanges between chains
+   Lower diagonal: Number of attempted state exchanges between chains
+
+   Chain information:
+
+     ID -- Heat 
+    -----------
+      1 -- 1.00  (cold chain)
+      2 -- 0.91 
+      3 -- 0.83 
+      4 -- 0.77 
+
+   Heat = 1 / (1 + T * (ID - 1))
+      (where T = 0.10 is the temperature and ID is the chain number)
+
+
+MrBayes > 
+   Setting number of generations to 1000
+   Setting diagnosing frequency to 2000
+   Setting chain output file names to "MB-1mil-partn-ss.run<i>.<p/t>"
+   Running Markov chain
+   MCMC stamp = 0976180452
+   Seed = 1414724898
+   Swapseed = 698258928
+   Model settings:
+
+      Settings for partition 1 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 2 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 3 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+   Active parameters: 
+
+                          Partition(s)
+      Parameters          1  2  3
+      ---------------------------
+      Revmat              1  1  1
+      Statefreq           2  2  2
+      Shape               3  3  3
+      Ratemultiplier      4  4  4
+      Topology            5  5  5
+      Brlens              6  6  6
+      ---------------------------
+
+      Parameters can be linked or unlinked across partitions using 'link' and 'unlink'
+
+      1 --  Parameter  = Revmat{all}
+            Type       = Rates of reversible rate matrix
+            Prior      = Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00)
+            Partitions = All
+
+      2 --  Parameter  = Pi{all}
+            Type       = Stationary state frequencies
+            Prior      = Dirichlet
+            Partitions = All
+
+      3 --  Parameter  = Alpha{all}
+            Type       = Shape of scaled gamma distribution of site rates
+            Prior      = Exponential(1.00)
+            Partitions = All
+
+      4 --  Parameter  = Ratemultiplier{all}
+            Type       = Partition-specific rate multiplier
+            Prior      = Fixed(1.0)
+            Partitions = All
+
+      5 --  Parameter  = Tau{all}
+            Type       = Topology
+            Prior      = All topologies equally probable a priori
+            Partitions = All
+            Subparam.  = V{all}
+
+      6 --  Parameter  = V{all}
+            Type       = Branch lengths
+            Prior      = Unconstrained:GammaDir(1.0,0.1000,1.0,1.0)
+            Partitions = All
+
+
+
+   The MCMC sampler will use the following moves:
+      With prob.  Chain will use move
+         0.94 %   Dirichlet(Revmat{all})
+         0.94 %   Slider(Revmat{all})
+         0.94 %   Dirichlet(Pi{all})
+         0.94 %   Slider(Pi{all})
+         1.89 %   Multiplier(Alpha{all})
+         9.43 %   ExtSPR(Tau{all},V{all})
+         9.43 %   ExtTBR(Tau{all},V{all})
+         9.43 %   NNI(Tau{all},V{all})
+         9.43 %   ParsSPR(Tau{all},V{all})
+        37.74 %   Multiplier(V{all})
+        13.21 %   Nodeslider(V{all})
+         5.66 %   TLMultiplier(V{all})
+
+   Division 1 has 2251 unique site patterns
+   Division 2 has 1056 unique site patterns
+   Division 3 has 334 unique site patterns
+   Initializing conditional likelihoods
+   Using standard non-SSE likelihood calculator for division 1 (single-precision)
+   Using standard non-SSE likelihood calculator for division 2 (single-precision)
+   Using standard non-SSE likelihood calculator for division 3 (single-precision)
+
+   Initial log likelihoods and log prior probs for run 1:
+      Chain 1 -- -302877.257522 -- -921.293472
+      Chain 2 -- -303226.271887 -- -935.026636
+      Chain 3 -- -303405.953135 -- -949.741133
+      Chain 4 -- -303571.833130 -- -943.858146
+
+   Initial log likelihoods and log prior probs for run 2:
+      Chain 1 -- -302896.353893 -- -903.725777
+      Chain 2 -- -302938.925104 -- -922.864318
+      Chain 3 -- -303000.252418 -- -929.978867
+      Chain 4 -- -303022.237128 -- -945.618838
+
+
+   Starting stepping-stone sampling to estimate marginal likelihood.         
+   50 steps will be used with 0 generations (0 samples) within each step.  
+   Total of 0 generations (0 samples) will be collected while first        
+   0 generations (0 samples) will be discarded as initial burnin.          
+   Additionally at the beginning of each step 0 generations (0 samples)     
+   will be discarded as burnin.  
+   Sampling from posterior to prior, i.e. first step samples from close to 
+   posterior.                                                              
+   NOTE: Number of generation of each step is reduced to the closest multi-
+   ple of sampling frequency. That is why, in total it will be taken 0    
+   generations instead of requested 1000.                                    
+
+   There is less then one sample in each step of stepping-stone sampling.  
+   Please adjust burnin, nuber of generations, sampling frequency or       
+   numnber of step in order to allow at least one sample per step.         
+   Error in command "Ss"
+
+MrBayes > 
+   Unknown character "" (ASCII code 27)
+   Unknown character in command string
+
+MrBayes > 
+   Unknown character "" (ASCII code 27)
+   Unknown character in command string
+
+MrBayes > 
+   Setting number of generations to 1000
+   Setting diagnosing frequency to 2000
+   Setting chain output file names to "MB-1mil-partn-ss.run<i>.<p/t>"
+   Running Markov chain
+   MCMC stamp = 6419618666
+   Seed = 1414724898
+   Swapseed = 698258928
+   Model settings:
+
+      Settings for partition 1 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 2 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 3 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+   Active parameters: 
+
+                          Partition(s)
+      Parameters          1  2  3
+      ---------------------------
+      Revmat              1  1  1
+      Statefreq           2  2  2
+      Shape               3  3  3
+      Ratemultiplier      4  4  4
+      Topology            5  5  5
+      Brlens              6  6  6
+      ---------------------------
+
+      Parameters can be linked or unlinked across partitions using 'link' and 'unlink'
+
+      1 --  Parameter  = Revmat{all}
+            Type       = Rates of reversible rate matrix
+            Prior      = Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00)
+            Partitions = All
+
+      2 --  Parameter  = Pi{all}
+            Type       = Stationary state frequencies
+            Prior      = Dirichlet
+            Partitions = All
+
+      3 --  Parameter  = Alpha{all}
+            Type       = Shape of scaled gamma distribution of site rates
+            Prior      = Exponential(1.00)
+            Partitions = All
+
+      4 --  Parameter  = Ratemultiplier{all}
+            Type       = Partition-specific rate multiplier
+            Prior      = Fixed(1.0)
+            Partitions = All
+
+      5 --  Parameter  = Tau{all}
+            Type       = Topology
+            Prior      = All topologies equally probable a priori
+            Partitions = All
+            Subparam.  = V{all}
+
+      6 --  Parameter  = V{all}
+            Type       = Branch lengths
+            Prior      = Unconstrained:GammaDir(1.0,0.1000,1.0,1.0)
+            Partitions = All
+
+
+
+   The MCMC sampler will use the following moves:
+      With prob.  Chain will use move
+         0.94 %   Dirichlet(Revmat{all})
+         0.94 %   Slider(Revmat{all})
+         0.94 %   Dirichlet(Pi{all})
+         0.94 %   Slider(Pi{all})
+         1.89 %   Multiplier(Alpha{all})
+         9.43 %   ExtSPR(Tau{all},V{all})
+         9.43 %   ExtTBR(Tau{all},V{all})
+         9.43 %   NNI(Tau{all},V{all})
+         9.43 %   ParsSPR(Tau{all},V{all})
+        37.74 %   Multiplier(V{all})
+        13.21 %   Nodeslider(V{all})
+         5.66 %   TLMultiplier(V{all})
+
+   Division 1 has 2251 unique site patterns
+   Division 2 has 1056 unique site patterns
+   Division 3 has 334 unique site patterns
+   Initializing conditional likelihoods
+   Using standard non-SSE likelihood calculator for division 1 (single-precision)
+   Using standard non-SSE likelihood calculator for division 2 (single-precision)
+   Using standard non-SSE likelihood calculator for division 3 (single-precision)
+
+   Initial log likelihoods and log prior probs for run 1:
+      Chain 1 -- -302877.257522 -- -921.293472
+      Chain 2 -- -303226.271887 -- -935.026636
+      Chain 3 -- -303405.953135 -- -949.741133
+      Chain 4 -- -303571.833130 -- -943.858146
+
+   Initial log likelihoods and log prior probs for run 2:
+      Chain 1 -- -302896.353893 -- -903.725777
+      Chain 2 -- -302938.925104 -- -922.864318
+      Chain 3 -- -303000.252418 -- -929.978867
+      Chain 4 -- -303022.237128 -- -945.618838
+
+
+   Starting stepping-stone sampling to estimate marginal likelihood.         
+   50 steps will be used with 0 generations (0 samples) within each step.  
+   Total of 0 generations (0 samples) will be collected while first        
+   0 generations (0 samples) will be discarded as initial burnin.          
+   Additionally at the beginning of each step 0 generations (0 samples)     
+   will be discarded as burnin.  
+   Sampling from posterior to prior, i.e. first step samples from close to 
+   posterior.                                                              
+   NOTE: Number of generation of each step is reduced to the closest multi-
+   ple of sampling frequency. That is why, in total it will be taken 0    
+   generations instead of requested 1000.                                    
+
+   There is less then one sample in each step of stepping-stone sampling.  
+   Please adjust burnin, nuber of generations, sampling frequency or       
+   numnber of step in order to allow at least one sample per step.         
+   Error in command "Ss"
+
+MrBayes > 
+   Setting number of generations to 1000000
+   Setting diagnosing frequency to 2000
+   Setting chain output file names to "MB-1mil-partn-ss.run<i>.<p/t>"
+   Running Markov chain
+   MCMC stamp = 6117570129
+   Seed = 1414724898
+   Swapseed = 698258928
+   Model settings:
+
+      Settings for partition 1 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 2 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 3 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+   Active parameters: 
+
+                          Partition(s)
+      Parameters          1  2  3
+      ---------------------------
+      Revmat              1  1  1
+      Statefreq           2  2  2
+      Shape               3  3  3
+      Ratemultiplier      4  4  4
+      Topology            5  5  5
+      Brlens              6  6  6
+      ---------------------------
+
+      Parameters can be linked or unlinked across partitions using 'link' and 'unlink'
+
+      1 --  Parameter  = Revmat{all}
+            Type       = Rates of reversible rate matrix
+            Prior      = Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00)
+            Partitions = All
+
+      2 --  Parameter  = Pi{all}
+            Type       = Stationary state frequencies
+            Prior      = Dirichlet
+            Partitions = All
+
+      3 --  Parameter  = Alpha{all}
+            Type       = Shape of scaled gamma distribution of site rates
+            Prior      = Exponential(1.00)
+            Partitions = All
+
+      4 --  Parameter  = Ratemultiplier{all}
+            Type       = Partition-specific rate multiplier
+            Prior      = Fixed(1.0)
+            Partitions = All
+
+      5 --  Parameter  = Tau{all}
+            Type       = Topology
+            Prior      = All topologies equally probable a priori
+            Partitions = All
+            Subparam.  = V{all}
+
+      6 --  Parameter  = V{all}
+            Type       = Branch lengths
+            Prior      = Unconstrained:GammaDir(1.0,0.1000,1.0,1.0)
+            Partitions = All
+
+
+
+   The MCMC sampler will use the following moves:
+      With prob.  Chain will use move
+         0.94 %   Dirichlet(Revmat{all})
+         0.94 %   Slider(Revmat{all})
+         0.94 %   Dirichlet(Pi{all})
+         0.94 %   Slider(Pi{all})
+         1.89 %   Multiplier(Alpha{all})
+         9.43 %   ExtSPR(Tau{all},V{all})
+         9.43 %   ExtTBR(Tau{all},V{all})
+         9.43 %   NNI(Tau{all},V{all})
+         9.43 %   ParsSPR(Tau{all},V{all})
+        37.74 %   Multiplier(V{all})
+        13.21 %   Nodeslider(V{all})
+         5.66 %   TLMultiplier(V{all})
+
+   Division 1 has 2251 unique site patterns
+   Division 2 has 1056 unique site patterns
+   Division 3 has 334 unique site patterns
+   Initializing conditional likelihoods
+   Using standard non-SSE likelihood calculator for division 1 (single-precision)
+   Using standard non-SSE likelihood calculator for division 2 (single-precision)
+   Using standard non-SSE likelihood calculator for division 3 (single-precision)
+
+   Initial log likelihoods and log prior probs for run 1:
+      Chain 1 -- -302877.257522 -- -921.293472
+      Chain 2 -- -303226.271887 -- -935.026636
+      Chain 3 -- -303405.953135 -- -949.741133
+      Chain 4 -- -303571.833130 -- -943.858146
+
+   Initial log likelihoods and log prior probs for run 2:
+      Chain 1 -- -302896.353893 -- -903.725777
+      Chain 2 -- -302938.925104 -- -922.864318
+      Chain 3 -- -303000.252418 -- -929.978867
+      Chain 4 -- -303022.237128 -- -945.618838
+
+
+   Starting stepping-stone sampling to estimate marginal likelihood.         
+   50 steps will be used with 17500 generations (7 samples) within each step.  
+   Total of 892500 generations (357 samples) will be collected while first        
+   17500 generations (7 samples) will be discarded as initial burnin.          
+   Additionally at the beginning of each step 2500 generations (1 samples)     
+   will be discarded as burnin.  
+   Sampling from posterior to prior, i.e. first step samples from close to 
+   posterior.                                                              
+   NOTE: Number of generation of each step is reduced to the closest multi-
+   ple of sampling frequency. That is why, in total it will be taken 892500    
+   generations instead of requested 1000000.                                    
+
+
+   Chain results (892500 generations requested):
+
+       0 -- [-302877.258] (-303226.272) (-303405.953) (-303571.833) * [-302896.354] (-302938.925) (-303000.252) (-303022.237) 
+    2500 -- [-302874.971] (-303231.343) (-303418.472) (-303537.893) * [-302890.153] (-302963.947) (-303009.051) (-303020.185) -- 35:59:44
+    5000 -- [-302864.494] (-303228.200) (-303410.358) (-303591.359) * [-302883.788] (-302933.110) (-303005.645) (-303025.656) -- 37:07:37

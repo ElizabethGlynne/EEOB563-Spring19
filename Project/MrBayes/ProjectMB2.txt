@@ -1,0 +1,1092 @@
+   Logging screen output to file "ProjectMB2.txt"
+
+MrBayes > 
+   Executing file "Diurnality_6gene_data.nxs"
+   DOS line termination
+   Longest line length = 301548
+   Parsing file
+   Expecting NEXUS formatted file
+   Reading data block
+      Allocated taxon set
+      Allocated matrix
+      Defining new matrix with 280 taxa and 4106 characters
+      Data is Dna
+      Missing data coded as ?
+      Gaps coded as -
+      Taxon   1 -> Aeluroscalabotes.felinus.JB16
+      Taxon   2 -> Afroedura.karroica.PEM1112
+      Taxon   3 -> Afroedura.loveridgei.GVH3969
+      Taxon   4 -> Kolekanos.plumicaudus.WDH1
+      Taxon   5 -> Afrogecko.porphyreus.CAS206995
+      Taxon   6 -> Ramigekko.swartbergensis.JB47
+      Taxon   7 -> Agamura.persica.FMNH247474
+      Taxon   8 -> Ailuronyx.tachyscopaeus.MCZF38717
+      Taxon   9 -> Ailuronyx.trachygaster.AMB8160
+      Taxon  10 -> Alsophylax.pipiens.CAS238805
+      Taxon  11 -> Aprasia.inaurita
+      Taxon  12 -> Aprasia.parapulchella.MVD66569
+      Taxon  13 -> Aristelliger.georgeensis.JB101
+      Taxon  14 -> Aristelliger.lar.JB01
+      Taxon  15 -> Aristelliger.praesignis.USNM337563
+      Taxon  16 -> Asaccus.platyrhynchus.CAS227605
+      Taxon  17 -> Asaccus.sp.JB15
+      Taxon  18 -> Bavayia.cyclura.AMB7683
+      Taxon  19 -> Bavayia.geitaina.AMB7229
+      Taxon  20 -> Paniegekko.madjo.AMSR149329
+      Taxon  21 -> Blaesodactylus.antongilensis.ZSM410.2005
+      Taxon  22 -> Bunopus.tuberculatus.CAS228737
+      Taxon  23 -> Calodactylodes.illingworthorum.AMB7415
+      Taxon  24 -> Carphodactylus.laevis.AMS143258
+      Taxon  25 -> Chatogekko.amazonicus.LSUMZ14050
+      Taxon  26 -> Chatogekko.amazonicus.LSUMZ14233
+      Taxon  27 -> Chatogekko.amazonicus.LSUMZ16400
+      Taxon  28 -> Chondrodactylus.angulifer.MCZF38623
+      Taxon  29 -> Chondrodactylus.fitzsimonsi.CAS193884
+      Taxon  30 -> Christinus.marmoratus.AMS135330
+      Taxon  31 -> Cnemaspis.africana.FMNH251355
+      Taxon  32 -> Cnemaspis.dickersonae.MTSN8604
+      Taxon  33 -> Cnemaspis.kandiana.AMB7508
+      Taxon  34 -> Cnemaspis.kendalii.LSHC6562
+      Taxon  35 -> Cnemaspis.limi.LSHC6267
+      Taxon  36 -> Cnemaspis.podihuna.AMB7449
+      Taxon  37 -> Cnemaspis.uzungwe.MTSN5603
+      Taxon  38 -> Coleodactylus.brachystoma.MZUSP92569
+      Taxon  39 -> Coleodactylus.cf.brachystoma.CHUNB43901
+      Taxon  40 -> Coleodactylus.septentrionalis.LSUMZ12351
+      Taxon  41 -> Coleonyx.brevis.TG00194
+      Taxon  42 -> Coleonyx.mitratus.TG00075
+      Taxon  43 -> Coleonyx.variegatus.CAS205334
+      Taxon  44 -> Colopus.kochi.CAS214308
+      Taxon  45 -> Colopus.wahlbergii.NMZ16974
+      Taxon  46 -> Crenadactylus.ocellatus.AMSR162089
+      Taxon  47 -> Crossobamon.orientalis.ID7618
+      Taxon  48 -> Cryptactites.peringueyi.CAS186374
+      Taxon  49 -> Cyrtodactylus.angularis.FMNH265815
+      Taxon  50 -> Cyrtodactylus.ayeyarwardyensis.CAS216446
+      Taxon  51 -> Cyrtodactylus.novaeguineae.FK11689
+      Taxon  52 -> Cyrtodactylus.philippinicus.FMNH236073
+      Taxon  53 -> Cyrtopodion.scabrum.TG00109
+      Taxon  54 -> Delma.butleri.SAMR36144
+      Taxon  55 -> Delma.tincta.AMS151607
+      Taxon  56 -> Dierogekko.insularis.AMSR161069
+      Taxon  57 -> Diplodactylus.conspicillatus.AMS158426
+      Taxon  58 -> Diplodactylus.tesselatus.AMS143855
+      Taxon  59 -> Dixonius.siamensis.LSHC7328
+      Taxon  60 -> Dixonius.vietnamensis.FMNH263003
+      Taxon  61 -> Ebenavia.inunguis.ZCMV2099
+      Taxon  62 -> Elasmodactylus.tetensis.PEM5551
+      Taxon  63 -> Eublepharis.macularius.TG00081
+      Taxon  64 -> Euleptes.europaea.NoID
+      Taxon  65 -> Eurydactylodes.agricolae.AMSR149366
+      Taxon  66 -> Gonatodes.antillensis.YPM17583
+      Taxon  67 -> Garthia.gaudichaudii.SC1
+      Taxon  68 -> Geckoella.triedra.35A
+      Taxon  69 -> Geckolepis.maculata.FGZC463
+      Taxon  70 -> Gehyra.australis.AMS139934
+      Taxon  71 -> Gehyra.dubia.AMS152245
+      Taxon  72 -> Gehyra.mutilata.JFBM15819
+      Taxon  73 -> Gehyra.nana.AMS140070
+      Taxon  74 -> Gehyra.cf.oceanica.FK11878
+      Taxon  75 -> Gehyra.variegata.AMS140478
+      Taxon  76 -> Gekko.badenii.TG00095
+      Taxon  77 -> Gekko.chinensis.LSHC4209
+      Taxon  78 -> Gekko.gecko.TG00079
+      Taxon  79 -> Gekko.cf.grossmani.NoID
+      Taxon  80 -> Gekko.mindoroensis.KU303912
+      Taxon  81 -> Gekko.monarchus.PEMR5412
+      Taxon  82 -> Gekko.subpalmatus.AMB5567
+      Taxon  83 -> Gekko.vittatus.BPBM19780
+      Taxon  84 -> Goggia.lineata.AMB4762
+      Taxon  85 -> Gonatodes.albogularis.MVZ204073
+      Taxon  86 -> Gonatodes.alexandermendesi.BPN1303
+      Taxon  87 -> Gonatodes.annularis.NoID
+      Taxon  88 -> Gonatodes.caudiscutatus.KU218359
+      Taxon  89 -> Gonatodes.ceciliae.TG00039
+      Taxon  90 -> Gonatodes.concinnatus.LSUMZ12688
+      Taxon  91 -> Gonatodes.daudini.JB38
+      Taxon  92 -> Gonatodes.humeralis.MF19492
+      Taxon  93 -> Gonatodes.ocellatus.TG00038
+      Taxon  94 -> Gonatodes.vittatus.TG00040
+      Taxon  95 -> Goniurosaurus.araneus.JFBM15830
+      Taxon  96 -> Goniurosaurus.luii.TG00795
+      Taxon  97 -> Gymnodactylus.amarali.CHUNB38646
+      Taxon  98 -> Haemodracon.riebeckii.JB11
+      Taxon  99 -> Hemidactylus.brasilianus.MZUSP92493
+      Taxon 100 -> Hemidactylus.fasciatus.ROM
+      Taxon 101 -> Hemidactylus.flavivirdis.FMNH245515
+      Taxon 102 -> Hemidactylus.frenatus.TG00088
+      Taxon 103 -> Hemidactylus.greeffi.CAS219044
+      Taxon 104 -> Hemidactylus.imbricatus.TG00568
+      Taxon 105 -> Hemidactylus.mabouia.JEM1864
+      Taxon 106 -> Hemidactylus.macropholis.CAS227520
+      Taxon 107 -> Hemidactylus.palaichthus.LSUMZ12421
+      Taxon 108 -> Hemidactylus.platyurus.JFBM15815
+      Taxon 109 -> Hemidactylus.robustus.FMNH245519
+      Taxon 110 -> Hemidactylus.turcicus.TG00567
+      Taxon 111 -> Hemiphyllodactylus.titiwangsaensis.LSHC7208
+      Taxon 112 -> Hemiphyllodactylus.yunnanensis.FMNH258695
+      Taxon 113 -> Hemitheconyx.caudicinctus.TG00180
+      Taxon 114 -> Hemitheconyx.taylori.JB12
+      Taxon 115 -> Heteronotia.binoei.AMS151170
+      Taxon 116 -> Heteronotia.planiceps.AMS140331
+      Taxon 117 -> Holodactylus.africanus.CAS198845
+      Taxon 118 -> Homonota.darwinii.LJAMM4601
+      Taxon 119 -> Homonota.fasciata.TG00085
+      Taxon 120 -> Homopholis.fasciatus.TG00191
+      Taxon 121 -> Lepidoblepharis.festae.LSUMZ12704
+      Taxon 122 -> Lepidoblepharis.sp.KU218367
+      Taxon 123 -> Lepidoblepharis.xanthostigma.MVZ171438
+      Taxon 124 -> Lepidodactylus.lugubris.AMB4111
+      Taxon 125 -> Lepidodactylus.novaeguineae.BPBM15842
+      Taxon 126 -> Lialis.burtonis.TG00078
+      Taxon 127 -> Lucasium.damaeum.AMB54
+      Taxon 128 -> Lucasium.stenodactylum.AMS139897
+      Taxon 129 -> Luperosaurus.cumingii.RMB3546
+      Taxon 130 -> Lygodactylus.bivittis.FGMV2001.A21
+      Taxon 131 -> Lygodactylus.bradfieldi.AMB7628
+      Taxon 132 -> Lygodactylus.klugei
+      Taxon 133 -> Lygodactylus.miops.ZSM116.2004
+      Taxon 134 -> Lygodactylus.miribilis.FGMV2000.B3
+      Taxon 135 -> Lygodactylus.tolampyae.FGMV2001.C4
+      Taxon 136 -> Matoatoa.brevipes.FGMV2002.2237
+      Taxon 137 -> Mediodactylus.russowii.AMB8701
+      Taxon 138 -> Mediodactylus.spinicauda.CAS228709
+      Taxon 139 -> Microgecko.persicus.JB27
+      Taxon 140 -> Nactus.pelagicus.CAS229289
+      Taxon 141 -> Nactus.vankampeni.FK11384
+      Taxon 142 -> Narudasia.festiva.AMB3243
+      Taxon 143 -> Naultinus.elegans.Whangarei
+      Taxon 144 -> Naultinus.gemmeus.RAH464
+      Taxon 145 -> Naultinus.rudis.RAH388
+      Taxon 146 -> Nephrurus.levis.AMS140561
+      Taxon 147 -> Oedodera.marmorata.CAS230936
+      Taxon 148 -> Nebulifera.robusta.ABTC3938
+      Taxon 149 -> Hesperoedura.reticulata.SAMAR23035
+      Taxon 150 -> Oedura.marmorata.AMS143861
+      Taxon 151 -> Amalosia.rhombifer.AMS136216
+      Taxon 152 -> Ophidiocephalus.taeniatus.SAMR44653
+      Taxon 153 -> Orraya.occultus.QMA002513
+      Taxon 154 -> Phyllopezus.periosus.MTR887022
+      Taxon 155 -> Pachydactylus.gaiasensis.AMB7596
+      Taxon 156 -> Pachydactylus.kladaroderma.PEM1253
+      Taxon 157 -> Pachydactylus.punctatus.MCZR184457
+      Taxon 158 -> Pachydactylus.rugosus.CAS201905
+      Taxon 159 -> Pachydactylus.vanzlyi.jvv1761
+      Taxon 160 -> Paradelma.orientalis.QMJ56089
+      Taxon 161 -> Paragehyra.gabriellae.FGZC2366
+      Taxon 162 -> Paroedura.masobe.JFBM15832
+      Taxon 163 -> Paroedura.picta.FGMV2001.B1
+      Taxon 164 -> Perochirus.ateles.DBDmale
+      Taxon 165 -> Phelsuma.borbonica.JB95
+      Taxon 166 -> Phelsuma.guentheri
+      Taxon 167 -> Phelsuma.laticauda.TG00232
+      Taxon 168 -> Phelsuma.madagascariensis.FGMV2002.797
+      Taxon 169 -> Phelsuma.modesta.ZSM35.2004
+      Taxon 170 -> Rhoptropella.ocellata.CAS186351
+      Taxon 171 -> Phelsuma.rosagularis.JB109
+      Taxon 172 -> Phyllodactylus.reissii.JB39
+      Taxon 173 -> Phyllodactylus.tuberculosus.KU289758
+      Taxon 174 -> Phyllodactylus.unctus.ROM39002
+      Taxon 175 -> Phyllodactylus.wirshingi.TG00722
+      Taxon 176 -> Phyllodactylus.xanti.ROM38490
+      Taxon 177 -> Phyllopezus.lutzae.CHUNB50462
+      Taxon 178 -> Phyllopezus.maranjonensis.ZFMK84996
+      Taxon 179 -> Phyllopezus.pollicaris.CHUNB43850
+      Taxon 180 -> Phyllopezus.pollicaris.JFBM
+      Taxon 181 -> Phyllopezus.pollicaris.MZUSP92491
+      Taxon 182 -> Phyllurus.platurus.AMB42
+      Taxon 183 -> Pletholax.gracilis.WBJ2483
+      Taxon 184 -> Pristurus.carteri.TG00083
+      Taxon 185 -> Pseudogekko.smaragdina.KU303995
+      Taxon 186 -> Pseudogonatodes.guianensis.AMCC106916
+      Taxon 187 -> Pseudogonatodes.guianensis.KU222142
+      Taxon 188 -> Pseudogonatodes.guianensis.LSUMZ13583
+      Taxon 189 -> Pseudothecadactylus.lindneri.MVZ99544
+      Taxon 190 -> Ptenopus.carpi.CAS214534
+      Taxon 191 -> Ptychozoon.kuhli.RMB1134
+      Taxon 192 -> Ptychozoon.lionatum.CAS221163
+      Taxon 193 -> Ptyodactylus.guttatus.TG00072
+      Taxon 194 -> Pygopus.lepidopodus.WBJ1206
+      Taxon 195 -> Pygopus.nigriceps.MVZ197233
+      Taxon 196 -> Quedenfeldtia.moerens.JB77
+      Taxon 197 -> Quedenfeldtia.trachyblepharus.MVZ178121
+      Taxon 198 -> Correlophus.ciliatus.AMS146595
+      Taxon 199 -> Rhacodactylus.leachianus.AMB7189
+      Taxon 200 -> Rhoptropus.afer.MCZR183711
+      Taxon 201 -> Rhoptropus.boultoni.CAS214713
+      Taxon 202 -> Rhoptropus.diporus.MCZR183737
+      Taxon 203 -> Rhynchoedura.ornata.AMS155371
+      Taxon 204 -> Saltuarius.swaini.AMS143262
+      Taxon 205 -> Saurodactylus.brosseti.TG00082
+      Taxon 206 -> Saurodactylus.fasciatus.DJHM616
+      Taxon 207 -> Saurodactylus.mauritainicus.DGHSm61
+      Taxon 208 -> Sphaerodactylus.leucaster.Glor5269
+      Taxon 209 -> Sphaerodactylus.argus.TG00125
+      Taxon 210 -> Sphaerodactylus.elegans.YPM14795
+      Taxon 211 -> Sphaerodactylus.glaucus.JAC24229
+      Taxon 212 -> Sphaerodactylus.grandisquamis.TG00099
+      Taxon 213 -> Sphaerodactylus.nicholsi.TG00211
+      Taxon 214 -> Sphaerodactylus.nigropunctatus.FLMNH144010
+      Taxon 215 -> Sphaerodactylus.notatus.FLMNH132440
+      Taxon 216 -> Sphaerodactylus.roosevelti.TG691
+      Taxon 217 -> Sphaerodactylus.torrei.JB34
+      Taxon 218 -> Sphaerodactylus.townsendi.TG00210
+      Taxon 219 -> Stenodactylus.sthenodactylus.MVZ235804
+      Taxon 220 -> Strophurus.aberrans.AMS136023
+      Taxon 221 -> Strophurus.elderi.AMS130987
+      Taxon 222 -> Strophurus.strophurus.AMS140536
+      Taxon 223 -> Tarentola.americana.MVZ241223
+      Taxon 224 -> Tarentola.chazaliae.TG00130
+      Taxon 225 -> Tarentola.delalandii.JB43
+      Taxon 226 -> Tarentola.deserti.JB44
+      Taxon 227 -> Tarentola.fascicularus.JB29
+      Taxon 228 -> Tarentola.mauritanica.TG00129
+      Taxon 229 -> Tenuidactylus.caspius.CAS228602
+      Taxon 230 -> Tenuidactylus.longipes.CAS226830
+      Taxon 231 -> Teratoscincus.keyserlingii.CAS228808
+      Taxon 232 -> Teratoscincus.microlepis.TG00074
+      Taxon 233 -> Teratoscincus.przewalskii.TG00233
+      Taxon 234 -> Teratoscincus.roborowskii.JFBM
+      Taxon 235 -> Teratoscincus.scincus.JFBM14252
+      Taxon 236 -> Thecadactylus.rapicauda.ENS7108
+      Taxon 237 -> Thecadactylus.rapicauda.USNM561446
+      Taxon 238 -> Thecadactylus.solimoensis.KU214929
+      Taxon 239 -> Toropuku.stephensi.RAH554
+      Taxon 240 -> Tropiocolotes.tripolitanus.FMNH262276
+      Taxon 241 -> Tukutuku.rakiurae.RAH238
+      Taxon 242 -> Underwoodisaurus.milii.AMB499
+      Taxon 243 -> Urocotyledon.inexpectatus.MCZF38723
+      Taxon 244 -> Uroplatus.giganteus.ZCMV864
+      Taxon 245 -> Uroplatus.guentheri.FGMV2001.C21
+      Taxon 246 -> Uroplatus.henkeli.FGMV2000.C1
+      Taxon 247 -> Uroplatus.phantasticus.FGMV2002.640
+      Taxon 248 -> Uvidicolus.sphyrurus.AMS152397
+      Taxon 249 -> Woodworthia.maculata.RAH292
+      Taxon 250 -> Hoplodactylus.duvaucelii.FT277
+      Taxon 251 -> Dactylocnemis.pacificus.CD859
+      Taxon 252 -> Mokopirirakau.granulatus.RAH340
+      Taxon 253 -> Mniarogekko.jalu.AMSR161238
+      Taxon 254 -> Altigekko.stoliczkai.PMNH2323
+      Taxon 255 -> Asiocolotes.levitoni.PMNH2431
+      Taxon 256 -> Tenuidactylus.elongatus.JB127
+      Taxon 257 -> Tenuidactylus.fedtschenkoi.JEM346
+      Taxon 258 -> Cyrtopodion.kohsulaimanai.PMH2388
+      Taxon 259 -> Indogekko.rohtasfortai.PMNH2391
+      Taxon 260 -> Mediodactylus.brachykolon.PMNH2165
+      Taxon 261 -> Siwaligekko.battalensis.PMNH2301
+      Taxon 262 -> Stenodactylus.doriae.JB20
+      Taxon 263 -> Lepidodactylus.orientalis.BPBM19794
+      Taxon 264 -> Pristurus.sp.UAE
+      Taxon 265 -> Amphisbaena
+      Taxon 266 -> Anolis.carolinensis.JBLSC1
+      Taxon 267 -> Aspidoscelis.tigris.TG0069
+      Taxon 268 -> Dibamus.bouretti
+      Taxon 269 -> Elagaria.kingii.TG000656
+      Taxon 270 -> Eumeces.inexpectatus
+      Taxon 271 -> Heloderma.suspectum
+      Taxon 272 -> Podarcis.sicula
+      Taxon 273 -> Ramphotyphlops.braminus.JFBM
+      Taxon 274 -> Rhineura.floridana
+      Taxon 275 -> Sphenodon.punctatus
+      Taxon 276 -> Trachydosaurus.rugosus.JFBM
+      Taxon 277 -> Xantusia.vigilis
+      Taxon 278 -> Trioceros.jacksonii
+      Taxon 279 -> Python.molurus
+      Taxon 280 -> Gallus
+      Successfully read matrix
+      Setting default partition (does not divide up characters)
+      Setting model defaults
+      Seed (for generating default start values) = 1555552753
+      Setting output file names to "Diurnality_6gene_data.nxs.run<i>.<p|t>"
+   Exiting data block
+   Skipping "sets" block
+   Reading trees block
+      Expecting ': or , or )'
+      Instead found '[' in command 'Tree'
+      The error occurred when reading char. 2216-2216 on line 2019
+         in the file 'Diurnality_6gene_data.nxs'
+
+   Returning execution to command line ...
+
+   Error in command "Execute"
+
+MrBayes > 
+   Could not find taxon Gallusexecute in list of taxa
+
+MrBayes > 
+   Unknown character "" (ASCII code 27)
+   Unknown character in command string
+
+MrBayes > 
+   ---------------------------------------------------------------------------   
+   Commands that are available from the command                                  
+   line or from a MrBayes block include:                                         
+                                                                                 
+   About            -- Describes the program
+   Acknowledgments  -- Shows program acknowledgments
+   Calibrate        -- Assigns dates to terminals or interior nodes
+   Charset          -- Assigns a group of sites to a set
+   Charstat         -- Shows status of characters
+   Citations        -- Citation of program, models, and methods
+   Comparetree      -- Compares the trees from two tree files
+   Constraint       -- Defines a constraint on tree topology
+   Ctype            -- Assigns ordering for the characters
+   Databreaks       -- Defines data breaks for autodiscrete gamma model
+   Delete           -- Deletes taxa from the analysis
+   Disclaimer       -- Describes program disclaimer
+   Exclude          -- Excludes sites from the analysis
+   Execute          -- Executes a file
+   Help             -- Provides detailed description of commands
+   Include          -- Includes sites
+   Link             -- Links parameters across character partitions
+   Log              -- Logs screen output to a file
+   Lset             -- Sets the parameters of the likelihood model
+   Manual           -- Prints a command reference to a text file
+   Mcmc             -- Starts Markov chain Monte Carlo analysis
+   Mcmcp            -- Sets parameters of a chain (without starting analysis)
+   Outgroup         -- Changes outgroup taxon
+   Pairs            -- Defines nucleotide pairs (doublets) for stem models
+   Partition        -- Assigns a character partition
+   Plot             -- Plots parameters from MCMC analysis
+   Prset            -- Sets the priors for the parameters
+   Propset          -- Sets proposal probabilities and tuning parameters
+   Quit             -- Quits the program
+   Report           -- Controls how model parameters are reported
+   Restore          -- Restores taxa
+   Set              -- Sets run conditions and defines active data partition
+   Showbeagle       -- Show available BEAGLE resources
+   Showmatrix       -- Shows current character matrix
+   Showmcmctrees    -- Shows trees used in mcmc analysis
+   Showmodel        -- Shows model settings
+   Showmoves        -- Shows moves for current model
+   Showparams       -- Shows parameters in current model
+   Showusertrees    -- Shows user-defined trees
+   Speciespartition -- Defines a partition of tips into species
+   Ss               -- Starts stepping-stone sampling
+   Ssp              -- Sets parameters of stepping-stone analysis (without starting)
+   Startvals        -- Sets starting values of parameters
+   Sump             -- Summarizes parameters from MCMC analysis
+   Sumss            -- Summarizes parameters from stepping-stone analysis
+   Sumt             -- Summarizes trees from MCMC analysis
+   Taxastat         -- Shows status of taxa
+   Taxset           -- Assigns a group of taxa to a set
+   Unlink           -- Unlinks parameters across character partitions
+   Version          -- Shows program version
+                                                                                 
+   Commands that should be in a NEXUS file (data                                 
+   block, trees block or taxa block) include:                                                
+                                                                                 
+   Begin            -- Denotes beginning of block in file
+   Dimensions       -- Defines size of character matrix
+   End              -- Denotes end of a block in file
+   Endblock         -- Alternative way of denoting end of a block
+   Format           -- Defines character format in data block
+   Matrix           -- Defines matrix of characters in data block
+   Taxlabels        -- Defines taxon labels
+   Translate        -- Defines alternative names for taxa
+   Tree             -- Defines a tree
+                                                                                 
+   Note that this program supports the use of the shortest unambiguous           
+   spelling of the above commands (e.g., "exe" instead of "execute").        
+   ---------------------------------------------------------------------------   
+
+MrBayes > 
+   Executing file "Dirunality_6gene_data.nxs"
+   Could not open file "Dirunality_6gene_data.nxs"
+
+   Returning execution to command line ...
+
+   Error in command "Execute"
+
+MrBayes > 
+   Executing file "Diurnality_6gene_edit.nxs"
+   DOS line termination
+   Longest line length = 1460
+   Parsing file
+   Expecting NEXUS formatted file
+   Deleting previously defined characters
+   Deleting previously defined taxa
+   Reading data block
+      Allocated taxon set
+      Allocated matrix
+      Defining new matrix with 280 taxa and 4106 characters
+      Data is Dna
+      Missing data coded as ?
+      Gaps coded as -
+      Taxon   1 -> Aeluroscalabotes.felinus.JB16
+      Taxon   2 -> Afroedura.karroica.PEM1112
+      Taxon   3 -> Afroedura.loveridgei.GVH3969
+      Taxon   4 -> Kolekanos.plumicaudus.WDH1
+      Taxon   5 -> Afrogecko.porphyreus.CAS206995
+      Taxon   6 -> Ramigekko.swartbergensis.JB47
+      Taxon   7 -> Agamura.persica.FMNH247474
+      Taxon   8 -> Ailuronyx.tachyscopaeus.MCZF38717
+      Taxon   9 -> Ailuronyx.trachygaster.AMB8160
+      Taxon  10 -> Alsophylax.pipiens.CAS238805
+      Taxon  11 -> Aprasia.inaurita
+      Taxon  12 -> Aprasia.parapulchella.MVD66569
+      Taxon  13 -> Aristelliger.georgeensis.JB101
+      Taxon  14 -> Aristelliger.lar.JB01
+      Taxon  15 -> Aristelliger.praesignis.USNM337563
+      Taxon  16 -> Asaccus.platyrhynchus.CAS227605
+      Taxon  17 -> Asaccus.sp.JB15
+      Taxon  18 -> Bavayia.cyclura.AMB7683
+      Taxon  19 -> Bavayia.geitaina.AMB7229
+      Taxon  20 -> Paniegekko.madjo.AMSR149329
+      Taxon  21 -> Blaesodactylus.antongilensis.ZSM410.2005
+      Taxon  22 -> Bunopus.tuberculatus.CAS228737
+      Taxon  23 -> Calodactylodes.illingworthorum.AMB7415
+      Taxon  24 -> Carphodactylus.laevis.AMS143258
+      Taxon  25 -> Chatogekko.amazonicus.LSUMZ14050
+      Taxon  26 -> Chatogekko.amazonicus.LSUMZ14233
+      Taxon  27 -> Chatogekko.amazonicus.LSUMZ16400
+      Taxon  28 -> Chondrodactylus.angulifer.MCZF38623
+      Taxon  29 -> Chondrodactylus.fitzsimonsi.CAS193884
+      Taxon  30 -> Christinus.marmoratus.AMS135330
+      Taxon  31 -> Cnemaspis.africana.FMNH251355
+      Taxon  32 -> Cnemaspis.dickersonae.MTSN8604
+      Taxon  33 -> Cnemaspis.kandiana.AMB7508
+      Taxon  34 -> Cnemaspis.kendalii.LSHC6562
+      Taxon  35 -> Cnemaspis.limi.LSHC6267
+      Taxon  36 -> Cnemaspis.podihuna.AMB7449
+      Taxon  37 -> Cnemaspis.uzungwe.MTSN5603
+      Taxon  38 -> Coleodactylus.brachystoma.MZUSP92569
+      Taxon  39 -> Coleodactylus.cf.brachystoma.CHUNB43901
+      Taxon  40 -> Coleodactylus.septentrionalis.LSUMZ12351
+      Taxon  41 -> Coleonyx.brevis.TG00194
+      Taxon  42 -> Coleonyx.mitratus.TG00075
+      Taxon  43 -> Coleonyx.variegatus.CAS205334
+      Taxon  44 -> Colopus.kochi.CAS214308
+      Taxon  45 -> Colopus.wahlbergii.NMZ16974
+      Taxon  46 -> Crenadactylus.ocellatus.AMSR162089
+      Taxon  47 -> Crossobamon.orientalis.ID7618
+      Taxon  48 -> Cryptactites.peringueyi.CAS186374
+      Taxon  49 -> Cyrtodactylus.angularis.FMNH265815
+      Taxon  50 -> Cyrtodactylus.ayeyarwardyensis.CAS216446
+      Taxon  51 -> Cyrtodactylus.novaeguineae.FK11689
+      Taxon  52 -> Cyrtodactylus.philippinicus.FMNH236073
+      Taxon  53 -> Cyrtopodion.scabrum.TG00109
+      Taxon  54 -> Delma.butleri.SAMR36144
+      Taxon  55 -> Delma.tincta.AMS151607
+      Taxon  56 -> Dierogekko.insularis.AMSR161069
+      Taxon  57 -> Diplodactylus.conspicillatus.AMS158426
+      Taxon  58 -> Diplodactylus.tesselatus.AMS143855
+      Taxon  59 -> Dixonius.siamensis.LSHC7328
+      Taxon  60 -> Dixonius.vietnamensis.FMNH263003
+      Taxon  61 -> Ebenavia.inunguis.ZCMV2099
+      Taxon  62 -> Elasmodactylus.tetensis.PEM5551
+      Taxon  63 -> Eublepharis.macularius.TG00081
+      Taxon  64 -> Euleptes.europaea.NoID
+      Taxon  65 -> Eurydactylodes.agricolae.AMSR149366
+      Taxon  66 -> Gonatodes.antillensis.YPM17583
+      Taxon  67 -> Garthia.gaudichaudii.SC1
+      Taxon  68 -> Geckoella.triedra.35A
+      Taxon  69 -> Geckolepis.maculata.FGZC463
+      Taxon  70 -> Gehyra.australis.AMS139934
+      Taxon  71 -> Gehyra.dubia.AMS152245
+      Taxon  72 -> Gehyra.mutilata.JFBM15819
+      Taxon  73 -> Gehyra.nana.AMS140070
+      Taxon  74 -> Gehyra.cf.oceanica.FK11878
+      Taxon  75 -> Gehyra.variegata.AMS140478
+      Taxon  76 -> Gekko.badenii.TG00095
+      Taxon  77 -> Gekko.chinensis.LSHC4209
+      Taxon  78 -> Gekko.gecko.TG00079
+      Taxon  79 -> Gekko.cf.grossmani.NoID
+      Taxon  80 -> Gekko.mindoroensis.KU303912
+      Taxon  81 -> Gekko.monarchus.PEMR5412
+      Taxon  82 -> Gekko.subpalmatus.AMB5567
+      Taxon  83 -> Gekko.vittatus.BPBM19780
+      Taxon  84 -> Goggia.lineata.AMB4762
+      Taxon  85 -> Gonatodes.albogularis.MVZ204073
+      Taxon  86 -> Gonatodes.alexandermendesi.BPN1303
+      Taxon  87 -> Gonatodes.annularis.NoID
+      Taxon  88 -> Gonatodes.caudiscutatus.KU218359
+      Taxon  89 -> Gonatodes.ceciliae.TG00039
+      Taxon  90 -> Gonatodes.concinnatus.LSUMZ12688
+      Taxon  91 -> Gonatodes.daudini.JB38
+      Taxon  92 -> Gonatodes.humeralis.MF19492
+      Taxon  93 -> Gonatodes.ocellatus.TG00038
+      Taxon  94 -> Gonatodes.vittatus.TG00040
+      Taxon  95 -> Goniurosaurus.araneus.JFBM15830
+      Taxon  96 -> Goniurosaurus.luii.TG00795
+      Taxon  97 -> Gymnodactylus.amarali.CHUNB38646
+      Taxon  98 -> Haemodracon.riebeckii.JB11
+      Taxon  99 -> Hemidactylus.brasilianus.MZUSP92493
+      Taxon 100 -> Hemidactylus.fasciatus.ROM
+      Taxon 101 -> Hemidactylus.flavivirdis.FMNH245515
+      Taxon 102 -> Hemidactylus.frenatus.TG00088
+      Taxon 103 -> Hemidactylus.greeffi.CAS219044
+      Taxon 104 -> Hemidactylus.imbricatus.TG00568
+      Taxon 105 -> Hemidactylus.mabouia.JEM1864
+      Taxon 106 -> Hemidactylus.macropholis.CAS227520
+      Taxon 107 -> Hemidactylus.palaichthus.LSUMZ12421
+      Taxon 108 -> Hemidactylus.platyurus.JFBM15815
+      Taxon 109 -> Hemidactylus.robustus.FMNH245519
+      Taxon 110 -> Hemidactylus.turcicus.TG00567
+      Taxon 111 -> Hemiphyllodactylus.titiwangsaensis.LSHC7208
+      Taxon 112 -> Hemiphyllodactylus.yunnanensis.FMNH258695
+      Taxon 113 -> Hemitheconyx.caudicinctus.TG00180
+      Taxon 114 -> Hemitheconyx.taylori.JB12
+      Taxon 115 -> Heteronotia.binoei.AMS151170
+      Taxon 116 -> Heteronotia.planiceps.AMS140331
+      Taxon 117 -> Holodactylus.africanus.CAS198845
+      Taxon 118 -> Homonota.darwinii.LJAMM4601
+      Taxon 119 -> Homonota.fasciata.TG00085
+      Taxon 120 -> Homopholis.fasciatus.TG00191
+      Taxon 121 -> Lepidoblepharis.festae.LSUMZ12704
+      Taxon 122 -> Lepidoblepharis.sp.KU218367
+      Taxon 123 -> Lepidoblepharis.xanthostigma.MVZ171438
+      Taxon 124 -> Lepidodactylus.lugubris.AMB4111
+      Taxon 125 -> Lepidodactylus.novaeguineae.BPBM15842
+      Taxon 126 -> Lialis.burtonis.TG00078
+      Taxon 127 -> Lucasium.damaeum.AMB54
+      Taxon 128 -> Lucasium.stenodactylum.AMS139897
+      Taxon 129 -> Luperosaurus.cumingii.RMB3546
+      Taxon 130 -> Lygodactylus.bivittis.FGMV2001.A21
+      Taxon 131 -> Lygodactylus.bradfieldi.AMB7628
+      Taxon 132 -> Lygodactylus.klugei
+      Taxon 133 -> Lygodactylus.miops.ZSM116.2004
+      Taxon 134 -> Lygodactylus.miribilis.FGMV2000.B3
+      Taxon 135 -> Lygodactylus.tolampyae.FGMV2001.C4
+      Taxon 136 -> Matoatoa.brevipes.FGMV2002.2237
+      Taxon 137 -> Mediodactylus.russowii.AMB8701
+      Taxon 138 -> Mediodactylus.spinicauda.CAS228709
+      Taxon 139 -> Microgecko.persicus.JB27
+      Taxon 140 -> Nactus.pelagicus.CAS229289
+      Taxon 141 -> Nactus.vankampeni.FK11384
+      Taxon 142 -> Narudasia.festiva.AMB3243
+      Taxon 143 -> Naultinus.elegans.Whangarei
+      Taxon 144 -> Naultinus.gemmeus.RAH464
+      Taxon 145 -> Naultinus.rudis.RAH388
+      Taxon 146 -> Nephrurus.levis.AMS140561
+      Taxon 147 -> Oedodera.marmorata.CAS230936
+      Taxon 148 -> Nebulifera.robusta.ABTC3938
+      Taxon 149 -> Hesperoedura.reticulata.SAMAR23035
+      Taxon 150 -> Oedura.marmorata.AMS143861
+      Taxon 151 -> Amalosia.rhombifer.AMS136216
+      Taxon 152 -> Ophidiocephalus.taeniatus.SAMR44653
+      Taxon 153 -> Orraya.occultus.QMA002513
+      Taxon 154 -> Phyllopezus.periosus.MTR887022
+      Taxon 155 -> Pachydactylus.gaiasensis.AMB7596
+      Taxon 156 -> Pachydactylus.kladaroderma.PEM1253
+      Taxon 157 -> Pachydactylus.punctatus.MCZR184457
+      Taxon 158 -> Pachydactylus.rugosus.CAS201905
+      Taxon 159 -> Pachydactylus.vanzlyi.jvv1761
+      Taxon 160 -> Paradelma.orientalis.QMJ56089
+      Taxon 161 -> Paragehyra.gabriellae.FGZC2366
+      Taxon 162 -> Paroedura.masobe.JFBM15832
+      Taxon 163 -> Paroedura.picta.FGMV2001.B1
+      Taxon 164 -> Perochirus.ateles.DBDmale
+      Taxon 165 -> Phelsuma.borbonica.JB95
+      Taxon 166 -> Phelsuma.guentheri
+      Taxon 167 -> Phelsuma.laticauda.TG00232
+      Taxon 168 -> Phelsuma.madagascariensis.FGMV2002.797
+      Taxon 169 -> Phelsuma.modesta.ZSM35.2004
+      Taxon 170 -> Rhoptropella.ocellata.CAS186351
+      Taxon 171 -> Phelsuma.rosagularis.JB109
+      Taxon 172 -> Phyllodactylus.reissii.JB39
+      Taxon 173 -> Phyllodactylus.tuberculosus.KU289758
+      Taxon 174 -> Phyllodactylus.unctus.ROM39002
+      Taxon 175 -> Phyllodactylus.wirshingi.TG00722
+      Taxon 176 -> Phyllodactylus.xanti.ROM38490
+      Taxon 177 -> Phyllopezus.lutzae.CHUNB50462
+      Taxon 178 -> Phyllopezus.maranjonensis.ZFMK84996
+      Taxon 179 -> Phyllopezus.pollicaris.CHUNB43850
+      Taxon 180 -> Phyllopezus.pollicaris.JFBM
+      Taxon 181 -> Phyllopezus.pollicaris.MZUSP92491
+      Taxon 182 -> Phyllurus.platurus.AMB42
+      Taxon 183 -> Pletholax.gracilis.WBJ2483
+      Taxon 184 -> Pristurus.carteri.TG00083
+      Taxon 185 -> Pseudogekko.smaragdina.KU303995
+      Taxon 186 -> Pseudogonatodes.guianensis.AMCC106916
+      Taxon 187 -> Pseudogonatodes.guianensis.KU222142
+      Taxon 188 -> Pseudogonatodes.guianensis.LSUMZ13583
+      Taxon 189 -> Pseudothecadactylus.lindneri.MVZ99544
+      Taxon 190 -> Ptenopus.carpi.CAS214534
+      Taxon 191 -> Ptychozoon.kuhli.RMB1134
+      Taxon 192 -> Ptychozoon.lionatum.CAS221163
+      Taxon 193 -> Ptyodactylus.guttatus.TG00072
+      Taxon 194 -> Pygopus.lepidopodus.WBJ1206
+      Taxon 195 -> Pygopus.nigriceps.MVZ197233
+      Taxon 196 -> Quedenfeldtia.moerens.JB77
+      Taxon 197 -> Quedenfeldtia.trachyblepharus.MVZ178121
+      Taxon 198 -> Correlophus.ciliatus.AMS146595
+      Taxon 199 -> Rhacodactylus.leachianus.AMB7189
+      Taxon 200 -> Rhoptropus.afer.MCZR183711
+      Taxon 201 -> Rhoptropus.boultoni.CAS214713
+      Taxon 202 -> Rhoptropus.diporus.MCZR183737
+      Taxon 203 -> Rhynchoedura.ornata.AMS155371
+      Taxon 204 -> Saltuarius.swaini.AMS143262
+      Taxon 205 -> Saurodactylus.brosseti.TG00082
+      Taxon 206 -> Saurodactylus.fasciatus.DJHM616
+      Taxon 207 -> Saurodactylus.mauritainicus.DGHSm61
+      Taxon 208 -> Sphaerodactylus.leucaster.Glor5269
+      Taxon 209 -> Sphaerodactylus.argus.TG00125
+      Taxon 210 -> Sphaerodactylus.elegans.YPM14795
+      Taxon 211 -> Sphaerodactylus.glaucus.JAC24229
+      Taxon 212 -> Sphaerodactylus.grandisquamis.TG00099
+      Taxon 213 -> Sphaerodactylus.nicholsi.TG00211
+      Taxon 214 -> Sphaerodactylus.nigropunctatus.FLMNH144010
+      Taxon 215 -> Sphaerodactylus.notatus.FLMNH132440
+      Taxon 216 -> Sphaerodactylus.roosevelti.TG691
+      Taxon 217 -> Sphaerodactylus.torrei.JB34
+      Taxon 218 -> Sphaerodactylus.townsendi.TG00210
+      Taxon 219 -> Stenodactylus.sthenodactylus.MVZ235804
+      Taxon 220 -> Strophurus.aberrans.AMS136023
+      Taxon 221 -> Strophurus.elderi.AMS130987
+      Taxon 222 -> Strophurus.strophurus.AMS140536
+      Taxon 223 -> Tarentola.americana.MVZ241223
+      Taxon 224 -> Tarentola.chazaliae.TG00130
+      Taxon 225 -> Tarentola.delalandii.JB43
+      Taxon 226 -> Tarentola.deserti.JB44
+      Taxon 227 -> Tarentola.fascicularus.JB29
+      Taxon 228 -> Tarentola.mauritanica.TG00129
+      Taxon 229 -> Tenuidactylus.caspius.CAS228602
+      Taxon 230 -> Tenuidactylus.longipes.CAS226830
+      Taxon 231 -> Teratoscincus.keyserlingii.CAS228808
+      Taxon 232 -> Teratoscincus.microlepis.TG00074
+      Taxon 233 -> Teratoscincus.przewalskii.TG00233
+      Taxon 234 -> Teratoscincus.roborowskii.JFBM
+      Taxon 235 -> Teratoscincus.scincus.JFBM14252
+      Taxon 236 -> Thecadactylus.rapicauda.ENS7108
+      Taxon 237 -> Thecadactylus.rapicauda.USNM561446
+      Taxon 238 -> Thecadactylus.solimoensis.KU214929
+      Taxon 239 -> Toropuku.stephensi.RAH554
+      Taxon 240 -> Tropiocolotes.tripolitanus.FMNH262276
+      Taxon 241 -> Tukutuku.rakiurae.RAH238
+      Taxon 242 -> Underwoodisaurus.milii.AMB499
+      Taxon 243 -> Urocotyledon.inexpectatus.MCZF38723
+      Taxon 244 -> Uroplatus.giganteus.ZCMV864
+      Taxon 245 -> Uroplatus.guentheri.FGMV2001.C21
+      Taxon 246 -> Uroplatus.henkeli.FGMV2000.C1
+      Taxon 247 -> Uroplatus.phantasticus.FGMV2002.640
+      Taxon 248 -> Uvidicolus.sphyrurus.AMS152397
+      Taxon 249 -> Woodworthia.maculata.RAH292
+      Taxon 250 -> Hoplodactylus.duvaucelii.FT277
+      Taxon 251 -> Dactylocnemis.pacificus.CD859
+      Taxon 252 -> Mokopirirakau.granulatus.RAH340
+      Taxon 253 -> Mniarogekko.jalu.AMSR161238
+      Taxon 254 -> Altigekko.stoliczkai.PMNH2323
+      Taxon 255 -> Asiocolotes.levitoni.PMNH2431
+      Taxon 256 -> Tenuidactylus.elongatus.JB127
+      Taxon 257 -> Tenuidactylus.fedtschenkoi.JEM346
+      Taxon 258 -> Cyrtopodion.kohsulaimanai.PMH2388
+      Taxon 259 -> Indogekko.rohtasfortai.PMNH2391
+      Taxon 260 -> Mediodactylus.brachykolon.PMNH2165
+      Taxon 261 -> Siwaligekko.battalensis.PMNH2301
+      Taxon 262 -> Stenodactylus.doriae.JB20
+      Taxon 263 -> Lepidodactylus.orientalis.BPBM19794
+      Taxon 264 -> Pristurus.sp.UAE
+      Taxon 265 -> Amphisbaena
+      Taxon 266 -> Anolis.carolinensis.JBLSC1
+      Taxon 267 -> Aspidoscelis.tigris.TG0069
+      Taxon 268 -> Dibamus.bouretti
+      Taxon 269 -> Elagaria.kingii.TG000656
+      Taxon 270 -> Eumeces.inexpectatus
+      Taxon 271 -> Heloderma.suspectum
+      Taxon 272 -> Podarcis.sicula
+      Taxon 273 -> Ramphotyphlops.braminus.JFBM
+      Taxon 274 -> Rhineura.floridana
+      Taxon 275 -> Sphenodon.punctatus
+      Taxon 276 -> Trachydosaurus.rugosus.JFBM
+      Taxon 277 -> Xantusia.vigilis
+      Taxon 278 -> Trioceros.jacksonii
+      Taxon 279 -> Python.molurus
+      Taxon 280 -> Gallus
+      Successfully read matrix
+      Setting default partition (does not divide up characters)
+      Setting model defaults
+      Seed (for generating default start values) = 1644132846
+      Setting output file names to "Diurnality_6gene_edit.nxs.run<i>.<p|t>"
+   Exiting data block
+   Reached end of file
+
+MrBayes > 
+   Setting outgroup to taxon "Gallus"
+
+MrBayes > 
+   Defining charset called 'nDNA'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2cod1_2_tRNA'
+   Expecting  command
+
+MrBayes > 
+   Defining charset called 'ND2cod3'
+   Expecting  command
+
+MrBayes > 
+   Defining partition called 'sat-partition'
+
+MrBayes > 
+   Setting sat-partition as the partition, dividing characters into 3 parts.
+   Setting model defaults
+   Seed (for generating default start values) = 1535402488
+
+MrBayes > 
+   Setting Nst to 6 for partition 1
+   Setting Nst to 6 for partition 2
+   Setting Nst to 6 for partition 3
+   Setting Rates to Gamma for partition 1
+   Setting Rates to Gamma for partition 2
+   Setting Rates to Gamma for partition 3
+   Successfully set likelihood model parameters to all
+      applicable data partitions 
+
+MrBayes > 
+   Setting Revmatpr to Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00) for partition 1
+   Setting Revmatpr to Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00) for partition 2
+   Setting Revmatpr to Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00) for partition 3
+   Expecting '<number>'
+   Instead found ')' in command 'Prset' at position 48
+
+MrBayes > 
+   Could not find parameter "shapeape"
+
+MrBayes > 
+   Setting number of generations to 1000000
+   Setting print frequency to 2500
+   Setting sample frequency to 2500
+   Setting diagnosing frequency to 2000
+   Setting diagnostics statistic to Maxstddev
+   Successfully set chain parameters
+
+MrBayes > 
+   Setting number of chains to 4
+   Setting chain output file names to "MB-1mil-partn.run<i>.<p/t>"
+   Successfully set chain parameters
+
+MrBayes > 
+   Setting number of generations to 1000000
+   Setting diagnosing frequency to 2000
+   Setting chain output file names to "MB-1mil-partn-ss.run<i>.<p/t>"
+   Running Markov chain
+   MCMC stamp = 3413802224
+   Seed = 1796560710
+   Swapseed = 1555552753
+   Model settings:
+
+      Settings for partition 1 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 2 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 3 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+   Active parameters: 
+
+                          Partition(s)
+      Parameters          1  2  3
+      ---------------------------
+      Revmat              1  1  1
+      Statefreq           2  2  2
+      Shape               3  3  3
+      Ratemultiplier      4  4  4
+      Topology            5  5  5
+      Brlens              6  6  6
+      ---------------------------
+
+      Parameters can be linked or unlinked across partitions using 'link' and 'unlink'
+
+      1 --  Parameter  = Revmat{all}
+            Type       = Rates of reversible rate matrix
+            Prior      = Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00)
+            Partitions = All
+
+      2 --  Parameter  = Pi{all}
+            Type       = Stationary state frequencies
+            Prior      = Dirichlet
+            Partitions = All
+
+      3 --  Parameter  = Alpha{all}
+            Type       = Shape of scaled gamma distribution of site rates
+            Prior      = Exponential(1.00)
+            Partitions = All
+
+      4 --  Parameter  = Ratemultiplier{all}
+            Type       = Partition-specific rate multiplier
+            Prior      = Fixed(1.0)
+            Partitions = All
+
+      5 --  Parameter  = Tau{all}
+            Type       = Topology
+            Prior      = All topologies equally probable a priori
+            Partitions = All
+            Subparam.  = V{all}
+
+      6 --  Parameter  = V{all}
+            Type       = Branch lengths
+            Prior      = Unconstrained:GammaDir(1.0,0.1000,1.0,1.0)
+            Partitions = All
+
+
+
+   The MCMC sampler will use the following moves:
+      With prob.  Chain will use move
+         0.94 %   Dirichlet(Revmat{all})
+         0.94 %   Slider(Revmat{all})
+         0.94 %   Dirichlet(Pi{all})
+         0.94 %   Slider(Pi{all})
+         1.89 %   Multiplier(Alpha{all})
+         9.43 %   ExtSPR(Tau{all},V{all})
+         9.43 %   ExtTBR(Tau{all},V{all})
+         9.43 %   NNI(Tau{all},V{all})
+         9.43 %   ParsSPR(Tau{all},V{all})
+        37.74 %   Multiplier(V{all})
+        13.21 %   Nodeslider(V{all})
+         5.66 %   TLMultiplier(V{all})
+
+   Division 1 has 2251 unique site patterns
+   Division 2 has 1056 unique site patterns
+   Division 3 has 334 unique site patterns
+   Initializing conditional likelihoods
+   Using standard non-SSE likelihood calculator for division 1 (single-precision)
+   Using standard non-SSE likelihood calculator for division 2 (single-precision)
+   Using standard non-SSE likelihood calculator for division 3 (single-precision)
+
+   Initial log likelihoods and log prior probs for run 1:
+      Chain 1 -- -542352.696221 -- 144.807818
+      Chain 2 -- -546138.341340 -- 144.807818
+      Chain 3 -- -543025.802984 -- 144.807818
+      Chain 4 -- -542734.736892 -- 144.807818
+
+   Initial log likelihoods and log prior probs for run 2:
+      Chain 1 -- -543501.903983 -- 144.807818
+      Chain 2 -- -543649.124968 -- 144.807818
+      Chain 3 -- -541674.982823 -- 144.807818
+      Chain 4 -- -543799.865945 -- 144.807818
+
+
+   Starting stepping-stone sampling to estimate marginal likelihood.         
+   50 steps will be used with 17500 generations (7 samples) within each step.  
+   Total of 892500 generations (357 samples) will be collected while first        
+   17500 generations (7 samples) will be discarded as initial burnin.          
+   Additionally at the beginning of each step 2500 generations (1 samples)     
+   will be discarded as burnin.  
+   Sampling from posterior to prior, i.e. first step samples from close to 
+   posterior.                                                              
+   NOTE: Number of generation of each step is reduced to the closest multi-
+   ple of sampling frequency. That is why, in total it will be taken 892500    
+   generations instead of requested 1000000.                                    
+
+
+   There are results from a previous run saved using the same filename(s).
+   Do you want to overwrite these results? (yes/no): 
+   Please specify a different file name before running the mcmc analysis.
+      You can do that using 'mcmc filename=<name>'. You can also move or
+      rename the old result files.
+   Error preparing print files
+   Error in command "Ss"
+
+MrBayes > 
+   Setting number of generations to 1000000
+   Setting diagnosing frequency to 2000
+   Setting chain output file names to "MB-1mil-partn-ss2.run<i>.<p/t>"
+   Running Markov chain
+   MCMC stamp = 4577500705
+   Seed = 1796560710
+   Swapseed = 1555552753
+   Model settings:
+
+      Settings for partition 1 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 2 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+      Settings for partition 3 --
+         Datatype  = DNA
+         Nucmodel  = 4by4
+         Nst       = 6
+                     Substitution rates, expressed as proportions
+                     of the rate sum, have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00,1.00,1.00)
+         Covarion  = No
+         # States  = 4
+                     State frequencies have a Dirichlet prior
+                     (1.00,1.00,1.00,1.00)
+         Rates     = Gamma
+                     The distribution is approximated using 4 categories.
+                     Shape parameter is exponentially
+                     distributed with parameter (1.00).
+
+   Active parameters: 
+
+                          Partition(s)
+      Parameters          1  2  3
+      ---------------------------
+      Revmat              1  1  1
+      Statefreq           2  2  2
+      Shape               3  3  3
+      Ratemultiplier      4  4  4
+      Topology            5  5  5
+      Brlens              6  6  6
+      ---------------------------
+
+      Parameters can be linked or unlinked across partitions using 'link' and 'unlink'
+
+      1 --  Parameter  = Revmat{all}
+            Type       = Rates of reversible rate matrix
+            Prior      = Dirichlet(1.00,1.00,1.00,1.00,1.00,1.00)
+            Partitions = All
+
+      2 --  Parameter  = Pi{all}
+            Type       = Stationary state frequencies
+            Prior      = Dirichlet
+            Partitions = All
+
+      3 --  Parameter  = Alpha{all}
+            Type       = Shape of scaled gamma distribution of site rates
+            Prior      = Exponential(1.00)
+            Partitions = All
+
+      4 --  Parameter  = Ratemultiplier{all}
+            Type       = Partition-specific rate multiplier
+            Prior      = Fixed(1.0)
+            Partitions = All
+
+      5 --  Parameter  = Tau{all}
+            Type       = Topology
+            Prior      = All topologies equally probable a priori
+            Partitions = All
+            Subparam.  = V{all}
+
+      6 --  Parameter  = V{all}
+            Type       = Branch lengths
+            Prior      = Unconstrained:GammaDir(1.0,0.1000,1.0,1.0)
+            Partitions = All
+
+
+
+   The MCMC sampler will use the following moves:
+      With prob.  Chain will use move
+         0.94 %   Dirichlet(Revmat{all})
+         0.94 %   Slider(Revmat{all})
+         0.94 %   Dirichlet(Pi{all})
+         0.94 %   Slider(Pi{all})
+         1.89 %   Multiplier(Alpha{all})
+         9.43 %   ExtSPR(Tau{all},V{all})
+         9.43 %   ExtTBR(Tau{all},V{all})
+         9.43 %   NNI(Tau{all},V{all})
+         9.43 %   ParsSPR(Tau{all},V{all})
+        37.74 %   Multiplier(V{all})
+        13.21 %   Nodeslider(V{all})
+         5.66 %   TLMultiplier(V{all})
+
+   Division 1 has 2251 unique site patterns
+   Division 2 has 1056 unique site patterns
+   Division 3 has 334 unique site patterns
+   Initializing conditional likelihoods
+   Using standard non-SSE likelihood calculator for division 1 (single-precision)
+   Using standard non-SSE likelihood calculator for division 2 (single-precision)
+   Using standard non-SSE likelihood calculator for division 3 (single-precision)
+
+   Initial log likelihoods and log prior probs for run 1:
+      Chain 1 -- -542352.696221 -- 144.807818
+      Chain 2 -- -546138.341340 -- 144.807818
+      Chain 3 -- -543025.802984 -- 144.807818
+      Chain 4 -- -542734.736892 -- 144.807818
+
+   Initial log likelihoods and log prior probs for run 2:
+      Chain 1 -- -543501.903983 -- 144.807818
+      Chain 2 -- -543649.124968 -- 144.807818
+      Chain 3 -- -541674.982823 -- 144.807818
+      Chain 4 -- -543799.865945 -- 144.807818
+
+
+   Starting stepping-stone sampling to estimate marginal likelihood.         
+   50 steps will be used with 17500 generations (7 samples) within each step.  
+   Total of 892500 generations (357 samples) will be collected while first        
+   17500 generations (7 samples) will be discarded as initial burnin.          
+   Additionally at the beginning of each step 2500 generations (1 samples)     
+   will be discarded as burnin.  
+   Sampling from posterior to prior, i.e. first step samples from close to 
+   posterior.                                                              
+   NOTE: Number of generation of each step is reduced to the closest multi-
+   ple of sampling frequency. That is why, in total it will be taken 892500    
+   generations instead of requested 1000000.                                    
+
+
+   Chain results (892500 generations requested):
+
+       0 -- [-542352.696] (-546138.341) (-543025.803) (-542734.737) * [-543501.904] (-543649.125) (-541674.983) (-543799.866) 
+    2500 -- (-429939.724) (-424196.250) (-426901.235) [-423926.583] * (-427287.384) (-429091.308) (-423480.980) [-420173.071] -- 56:16:04
+    5000 -- (-403862.899) (-403596.801) (-405036.915) [-398091.861] * (-407817.228) (-404931.551) (-401892.964) [-399362.571] -- 52:04:00
+    7500 -- (-388505.224) (-391913.839) (-392070.498) [-383175.528] * (-393721.528) (-388850.705) (-388826.952) [-387225.064] -- 50:10:58
+   10000 -- (-376656.309) (-382780.185) (-380249.102) [-373383.114] * (-384854.762) (-382567.981) (-379543.713) [-376559.357] -- 50:04:54
+   12500 -- (-369119.113) (-375837.866) (-372009.741) [-366649.907] * (-377441.096) (-375000.220) (-372558.622) [-367761.732] -- 50:21:20
+   15000 -- (-363993.925) (-370185.632) (-364110.424) [-358689.256] * (-371453.481) (-369047.966) (-366819.675) [-360471.088] -- 50:10:48
+   17500 -- (-359735.182) (-364430.767) (-359128.387) [-352630.361] * (-365966.858) (-362481.050) (-361624.237) [-355301.289] -- 49:50:50
+
+   Sampling step 1 out of 50 steps...
+
+   20000 -- (-355673.869) (-359917.117) (-353731.265) [-348702.357] * (-360852.417) (-356768.019) (-358262.968) [-349689.679] -- 49:44:40
+
