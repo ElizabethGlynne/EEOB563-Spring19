@@ -1,0 +1,33 @@
+Reading from C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\Diurnality_6gene_data.nxs.tnt 
+Matrices will be read as DNA data 
+Matrix space: allocate for up to 8 states 
+Matrix (4106x280, 8 states). Memory required for data:   2.94 Mbytes 
+ 
+WARNING: 
+Taxon names over 32 letters will be truncated 
+ 
+1 trees read (trees 0-0) 
+Outgroup is taxon 279  -  Gallus 
+Random seed is 12819 
+0 trees in memory 
+
+
+No space to store more trees! Increase max.trees and retry.
+
+ 
+Search was interrupted... 
+Total rearrangements examined: 0. 
+Target score (none) hit 0 times.
+Best score: (none).  0 trees retained. 
+Time 0.14 secs. 
+Random seed is 12819 
+0 trees in memory 
+
+
+No space to store more trees! Increase max.trees and retry.
+
+ 
+Search was interrupted... 
+Total rearrangements examined: 1,617,689,781. 
+No target score defined.  Best score hit 0 times.
+Best score: 80339.  11 trees retained. 

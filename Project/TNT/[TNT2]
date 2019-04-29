@@ -1,0 +1,75 @@
+Reading from C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\Diurnality_6gene_data.nxs.tnt 
+Matrices will be read as DNA data 
+Matrix space: allocate for up to 8 states 
+Matrix (4106x280, 8 states). Memory required for data:   2.94 Mbytes 
+ 
+WARNING: 
+Gaps will be read as an additional state
+To read gaps as missing entries, change data format 
+ 
+ 
+WARNING: 
+Taxon names over 32 letters will be truncated 
+ 
+1 trees read (trees 0-0) 
+Outgroup is taxon 279  -  Gallus 
+Space for 10000 trees in memory 
+Constraints is OFF 
+Random seed is 13 
+0 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+
+
+No space to store more trees! Increase max.trees and retry.
+
+10000 SECT   10000           ------      80339        7:44:29    164,459,984,504 
+ 
+Search was interrupted... 
+Total rearrangements examined: 164,459,984,504. 
+No target score defined.  Best score hit 0 times.
+Best score: 80339.  24 trees retained. 
+Time 27869.69 secs. 
+Tree file: C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre 
+24 trees saved to C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre           
+Time 0.05 secs. 
+Collapsing trees temporarily for consensus calculation 
+Collapsing trees with TBR 
+Constraints is OFF 
+ 
+User interrupt... 
+1 trees saved to C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre           
+Time 0.03 secs. 
+Closing C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre (with 25 trees saved)
+Time 0.00 secs. 
+Unknown command: consensus 
+ 
+Unknown command: consens 
+ 
+Unknown command: consen 
+ 
+Tree lengths 
+       ÚÄÄÄÄÄÄ¿
+       ³    +0³
+ÚÄÄÄÄÄÄÅÄÄÄÄÄÄ´
+³     0³ 84840³
+ÀÄÄÄÄÄÄÁÄÄÄÄÄÄÙ 
+Time 0.09 secs. 
+Reading from C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre 
+Reading file C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre as NEXUS 
+  ... Skipping taxa block ... 
+Read 0 trees (1-0) from NEXUS file 
+Closing NEXUS file 
+Reading from C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre 
+Reading file C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.10000Rep.803339_24trees.tre as NEXUS 
+  ... Skipping taxa block ... 
+Read 0 trees (1-0) from NEXUS file 
+Closing NEXUS file 
+Reading from C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\2.TNT.1000Rep.803339_21trees.tre 
+'tree(s) from TNT, for data in C:\Users\Elizabeth\Documents\GitHub\EEOB563-Spring19\Project\TNT\Diurnality_6gene_data.nxs.tnt'
+21 trees read (trees 1-21) 
+Time 0.13 secs. 
+Collapsing trees temporarily for consensus calculation 
+Collapsing trees with TBR 
+Constraints is OFF 
+ 
+User interrupt... 

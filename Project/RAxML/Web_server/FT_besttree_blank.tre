@@ -1,0 +1,382 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=280;
+	taxlabels
+	'Aeluroscalabotes.felinus.JB16'
+	'Afroedura.karroica.PEM1112'
+	'Afroedura.loveridgei.GVH3969'
+	'Afrogecko.porphyreus.CAS206995'
+	'Agamura.persica.FMNH247474'
+	'Ailuronyx.tachyscopaeus.MCZF38717'
+	'Ailuronyx.trachygaster.AMB8160'
+	'Alsophylax.pipiens.CAS238805'
+	'Altigekko.stoliczkai.PMNH2323'
+	'Amalosia.rhombifer.AMS136216'
+	Amphisbaena
+	'Anolis.carolinensis.JBLSC1'
+	'Aprasia.inaurita'
+	'Aprasia.parapulchella.MVD66569'
+	'Aristelliger.georgeensis.JB101'
+	'Aristelliger.lar.JB01'
+	'Aristelliger.praesignis.USNM337563'
+	'Asaccus.platyrhynchus.CAS227605'
+	'Asaccus.sp.JB15'
+	'Asiocolotes.levitoni.PMNH2431'
+	'Aspidoscelis.tigris.TG0069'
+	'Bavayia.cyclura.AMB7683'
+	'Bavayia.geitaina.AMB7229'
+	'Blaesodactylus.antongilensis.ZSM410.2005'
+	'Bunopus.tuberculatus.CAS228737'
+	'Calodactylodes.illingworthorum.AMB7415'
+	'Carphodactylus.laevis.AMS143258'
+	'Chatogekko.amazonicus.LSUMZ14050'
+	'Chatogekko.amazonicus.LSUMZ14233'
+	'Chatogekko.amazonicus.LSUMZ16400'
+	'Chondrodactylus.angulifer.MCZF38623'
+	'Chondrodactylus.fitzsimonsi.CAS193884'
+	'Christinus.marmoratus.AMS135330'
+	'Cnemaspis.africana.FMNH251355'
+	'Cnemaspis.dickersonae.MTSN8604'
+	'Cnemaspis.kandiana.AMB7508'
+	'Cnemaspis.kendalii.LSHC6562'
+	'Cnemaspis.limi.LSHC6267'
+	'Cnemaspis.podihuna.AMB7449'
+	'Cnemaspis.uzungwe.MTSN5603'
+	'Coleodactylus.brachystoma.MZUSP92569'
+	'Coleodactylus.cf.brachystoma.CHUNB43901'
+	'Coleodactylus.septentrionalis.LSUMZ12351'
+	'Coleonyx.brevis.TG00194'
+	'Coleonyx.mitratus.TG00075'
+	'Coleonyx.variegatus.CAS205334'
+	'Colopus.kochi.CAS214308'
+	'Colopus.wahlbergii.NMZ16974'
+	'Correlophus.ciliatus.AMS146595'
+	'Crenadactylus.ocellatus.AMSR162089'
+	'Crossobamon.orientalis.ID7618'
+	'Cryptactites.peringueyi.CAS186374'
+	'Cyrtodactylus.angularis.FMNH265815'
+	'Cyrtodactylus.ayeyarwardyensis.CAS216446'
+	'Cyrtodactylus.novaeguineae.FK11689'
+	'Cyrtodactylus.philippinicus.FMNH236073'
+	'Cyrtopodion.kohsulaimanai.PMH2388'
+	'Cyrtopodion.scabrum.TG00109'
+	'Dactylocnemis.pacificus.CD859'
+	'Delma.butleri.SAMR36144'
+	'Delma.tincta.AMS151607'
+	'Dibamus.bouretti'
+	'Dierogekko.insularis.AMSR161069'
+	'Diplodactylus.conspicillatus.AMS158426'
+	'Diplodactylus.tesselatus.AMS143855'
+	'Dixonius.siamensis.LSHC7328'
+	'Dixonius.vietnamensis.FMNH263003'
+	'Ebenavia.inunguis.ZCMV2099'
+	'Elagaria.kingii.TG000656'
+	'Elasmodactylus.tetensis.PEM5551'
+	'Eublepharis.macularius.TG00081'
+	'Euleptes.europaea.NoID'
+	'Eumeces.inexpectatus'
+	'Eurydactylodes.agricolae.AMSR149366'
+	Gallus
+	'Garthia.gaudichaudii.SC1'
+	'Geckoella.triedra.35A'
+	'Geckolepis.maculata.FGZC463'
+	'Gehyra.australis.AMS139934'
+	'Gehyra.cf.oceanica.FK11878'
+	'Gehyra.dubia.AMS152245'
+	'Gehyra.mutilata.JFBM15819'
+	'Gehyra.nana.AMS140070'
+	'Gehyra.variegata.AMS140478'
+	'Gekko.badenii.TG00095'
+	'Gekko.cf.grossmani.NoID'
+	'Gekko.chinensis.LSHC4209'
+	'Gekko.gecko.TG00079'
+	'Gekko.mindoroensis.KU303912'
+	'Gekko.monarchus.PEMR5412'
+	'Gekko.subpalmatus.AMB5567'
+	'Gekko.vittatus.BPBM19780'
+	'Goggia.lineata.AMB4762'
+	'Gonatodes.albogularis.MVZ204073'
+	'Gonatodes.alexandermendesi.BPN1303'
+	'Gonatodes.annularis.NoID'
+	'Gonatodes.antillensis.YPM17583'
+	'Gonatodes.caudiscutatus.KU218359'
+	'Gonatodes.ceciliae.TG00039'
+	'Gonatodes.concinnatus.LSUMZ12688'
+	'Gonatodes.daudini.JB38'
+	'Gonatodes.humeralis.MF19492'
+	'Gonatodes.ocellatus.TG00038'
+	'Gonatodes.vittatus.TG00040'
+	'Goniurosaurus.araneus.JFBM15830'
+	'Goniurosaurus.luii.TG00795'
+	'Gymnodactylus.amarali.CHUNB38646'
+	'Haemodracon.riebeckii.JB11'
+	'Heloderma.suspectum'
+	'Hemidactylus.brasilianus.MZUSP92493'
+	'Hemidactylus.fasciatus.ROM'
+	'Hemidactylus.flavivirdis.FMNH245515'
+	'Hemidactylus.frenatus.TG00088'
+	'Hemidactylus.greeffi.CAS219044'
+	'Hemidactylus.imbricatus.TG00568'
+	'Hemidactylus.mabouia.JEM1864'
+	'Hemidactylus.macropholis.CAS227520'
+	'Hemidactylus.palaichthus.LSUMZ12421'
+	'Hemidactylus.platyurus.JFBM15815'
+	'Hemidactylus.robustus.FMNH245519'
+	'Hemidactylus.turcicus.TG00567'
+	'Hemiphyllodactylus.titiwangsaensis.LSHC7208'
+	'Hemiphyllodactylus.yunnanensis.FMNH258695'
+	'Hemitheconyx.caudicinctus.TG00180'
+	'Hemitheconyx.taylori.JB12'
+	'Hesperoedura.reticulata.SAMAR23035'
+	'Heteronotia.binoei.AMS151170'
+	'Heteronotia.planiceps.AMS140331'
+	'Holodactylus.africanus.CAS198845'
+	'Homonota.darwinii.LJAMM4601'
+	'Homonota.fasciata.TG00085'
+	'Homopholis.fasciatus.TG00191'
+	'Hoplodactylus.duvaucelii.FT277'
+	'Indogekko.rohtasfortai.PMNH2391'
+	'Kolekanos.plumicaudus.WDH1'
+	'Lepidoblepharis.festae.LSUMZ12704'
+	'Lepidoblepharis.sp.KU218367'
+	'Lepidoblepharis.xanthostigma.MVZ171438'
+	'Lepidodactylus.lugubris.AMB4111'
+	'Lepidodactylus.novaeguineae.BPBM15842'
+	'Lepidodactylus.orientalis.BPBM19794'
+	'Lialis.burtonis.TG00078'
+	'Lucasium.damaeum.AMB54'
+	'Lucasium.stenodactylum.AMS139897'
+	'Luperosaurus.cumingii.RMB3546'
+	'Lygodactylus.bivittis.FGMV2001.A21'
+	'Lygodactylus.bradfieldi.AMB7628'
+	'Lygodactylus.klugei'
+	'Lygodactylus.miops.ZSM116.2004'
+	'Lygodactylus.miribilis.FGMV2000.B3'
+	'Lygodactylus.tolampyae.FGMV2001.C4'
+	'Matoatoa.brevipes.FGMV2002.2237'
+	'Mediodactylus.brachykolon.PMNH2165'
+	'Mediodactylus.russowii.AMB8701'
+	'Mediodactylus.spinicauda.CAS228709'
+	'Microgecko.persicus.JB27'
+	'Mniarogekko.jalu.AMSR161238'
+	'Mokopirirakau.granulatus.RAH340'
+	'Nactus.pelagicus.CAS229289'
+	'Nactus.vankampeni.FK11384'
+	'Narudasia.festiva.AMB3243'
+	'Naultinus.elegans.Whangarei'
+	'Naultinus.gemmeus.RAH464'
+	'Naultinus.rudis.RAH388'
+	'Nebulifera.robusta.ABTC3938'
+	'Nephrurus.levis.AMS140561'
+	'Oedodera.marmorata.CAS230936'
+	'Oedura.marmorata.AMS143861'
+	'Ophidiocephalus.taeniatus.SAMR44653'
+	'Orraya.occultus.QMA002513'
+	'Pachydactylus.gaiasensis.AMB7596'
+	'Pachydactylus.kladaroderma.PEM1253'
+	'Pachydactylus.punctatus.MCZR184457'
+	'Pachydactylus.rugosus.CAS201905'
+	'Pachydactylus.vanzlyi.jvv1761'
+	'Paniegekko.madjo.AMSR149329'
+	'Paradelma.orientalis.QMJ56089'
+	'Paragehyra.gabriellae.FGZC2366'
+	'Paroedura.masobe.JFBM15832'
+	'Paroedura.picta.FGMV2001.B1'
+	'Perochirus.ateles.DBDmale'
+	'Phelsuma.borbonica.JB95'
+	'Phelsuma.guentheri'
+	'Phelsuma.laticauda.TG00232'
+	'Phelsuma.madagascariensis.FGMV2002.797'
+	'Phelsuma.modesta.ZSM35.2004'
+	'Phelsuma.rosagularis.JB109'
+	'Phyllodactylus.reissii.JB39'
+	'Phyllodactylus.tuberculosus.KU289758'
+	'Phyllodactylus.unctus.ROM39002'
+	'Phyllodactylus.wirshingi.TG00722'
+	'Phyllodactylus.xanti.ROM38490'
+	'Phyllopezus.lutzae.CHUNB50462'
+	'Phyllopezus.maranjonensis.ZFMK84996'
+	'Phyllopezus.periosus.MTR887022'
+	'Phyllopezus.pollicaris.CHUNB43850'
+	'Phyllopezus.pollicaris.JFBM'
+	'Phyllopezus.pollicaris.MZUSP92491'
+	'Phyllurus.platurus.AMB42'
+	'Pletholax.gracilis.WBJ2483'
+	'Podarcis.sicula'
+	'Pristurus.carteri.TG00083'
+	'Pristurus.sp.UAE'
+	'Pseudogekko.smaragdina.KU303995'
+	'Pseudogonatodes.guianensis.AMCC106916'
+	'Pseudogonatodes.guianensis.KU222142'
+	'Pseudogonatodes.guianensis.LSUMZ13583'
+	'Pseudothecadactylus.lindneri.MVZ99544'
+	'Ptenopus.carpi.CAS214534'
+	'Ptychozoon.kuhli.RMB1134'
+	'Ptychozoon.lionatum.CAS221163'
+	'Ptyodactylus.guttatus.TG00072'
+	'Pygopus.lepidopodus.WBJ1206'
+	'Pygopus.nigriceps.MVZ197233'
+	'Python.molurus'
+	'Quedenfeldtia.moerens.JB77'
+	'Quedenfeldtia.trachyblepharus.MVZ178121'
+	'Ramigekko.swartbergensis.JB47'
+	'Ramphotyphlops.braminus.JFBM'
+	'Rhacodactylus.leachianus.AMB7189'
+	'Rhineura.floridana'
+	'Rhoptropella.ocellata.CAS186351'
+	'Rhoptropus.afer.MCZR183711'
+	'Rhoptropus.boultoni.CAS214713'
+	'Rhoptropus.diporus.MCZR183737'
+	'Rhynchoedura.ornata.AMS155371'
+	'Saltuarius.swaini.AMS143262'
+	'Saurodactylus.brosseti.TG00082'
+	'Saurodactylus.fasciatus.DJHM616'
+	'Saurodactylus.mauritainicus.DGHSm61'
+	'Siwaligekko.battalensis.PMNH2301'
+	'Sphaerodactylus.argus.TG00125'
+	'Sphaerodactylus.elegans.YPM14795'
+	'Sphaerodactylus.glaucus.JAC24229'
+	'Sphaerodactylus.grandisquamis.TG00099'
+	'Sphaerodactylus.leucaster.Glor5269'
+	'Sphaerodactylus.nicholsi.TG00211'
+	'Sphaerodactylus.nigropunctatus.FLMNH144010'
+	'Sphaerodactylus.notatus.FLMNH132440'
+	'Sphaerodactylus.roosevelti.TG691'
+	'Sphaerodactylus.torrei.JB34'
+	'Sphaerodactylus.townsendi.TG00210'
+	'Sphenodon.punctatus'
+	'Stenodactylus.doriae.JB20'
+	'Stenodactylus.sthenodactylus.MVZ235804'
+	'Strophurus.aberrans.AMS136023'
+	'Strophurus.elderi.AMS130987'
+	'Strophurus.strophurus.AMS140536'
+	'Tarentola.americana.MVZ241223'
+	'Tarentola.chazaliae.TG00130'
+	'Tarentola.delalandii.JB43'
+	'Tarentola.deserti.JB44'
+	'Tarentola.fascicularus.JB29'
+	'Tarentola.mauritanica.TG00129'
+	'Tenuidactylus.caspius.CAS228602'
+	'Tenuidactylus.elongatus.JB127'
+	'Tenuidactylus.fedtschenkoi.JEM346'
+	'Tenuidactylus.longipes.CAS226830'
+	'Teratoscincus.keyserlingii.CAS228808'
+	'Teratoscincus.microlepis.TG00074'
+	'Teratoscincus.przewalskii.TG00233'
+	'Teratoscincus.roborowskii.JFBM'
+	'Teratoscincus.scincus.JFBM14252'
+	'Thecadactylus.rapicauda.ENS7108'
+	'Thecadactylus.rapicauda.USNM561446'
+	'Thecadactylus.solimoensis.KU214929'
+	'Toropuku.stephensi.RAH554'
+	'Trachydosaurus.rugosus.JFBM'
+	'Trioceros.jacksonii'
+	'Tropiocolotes.tripolitanus.FMNH262276'
+	'Tukutuku.rakiurae.RAH238'
+	'Underwoodisaurus.milii.AMB499'
+	'Urocotyledon.inexpectatus.MCZF38723'
+	'Uroplatus.giganteus.ZCMV864'
+	'Uroplatus.guentheri.FGMV2001.C21'
+	'Uroplatus.henkeli.FGMV2000.C1'
+	'Uroplatus.phantasticus.FGMV2002.640'
+	'Uvidicolus.sphyrurus.AMS152397'
+	'Woodworthia.maculata.RAH292'
+	'Xantusia.vigilis'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((('Anolis.carolinensis.JBLSC1':0.744636,'Trioceros.jacksonii':1.051869):0.084447,('Elagaria.kingii.TG000656':0.376077,'Heloderma.suspectum':0.433096):0.23797):0.020008,(('Aspidoscelis.tigris.TG0069':1.112495,((Amphisbaena:0.912644,'Rhineura.floridana':0.360384):0.079798,'Podarcis.sicula':0.652034):0.090745):0.049328,(('Xantusia.vigilis':0.715005,('Eumeces.inexpectatus':0.247154,'Trachydosaurus.rugosus.JFBM':0.354749):0.265004):0.078524,((((('Orraya.occultus.QMA002513':0.138991,(('Carphodactylus.laevis.AMS143258':0.19815,('Uvidicolus.sphyrurus.AMS152397':0.118035,('Nephrurus.levis.AMS140561':0.187896,'Underwoodisaurus.milii.AMB499':0.112818):0.059489):0.029892):0.015784,('Saltuarius.swaini.AMS143262':0.157702,'Phyllurus.platurus.AMB42':0.124731):0.0296):0.021784):0.124309,(('Delma.tincta.AMS151607':0.090856,'Delma.butleri.SAMR36144':0.093236):0.06879,(((('Aprasia.parapulchella.MVD66569':0.059514,'Aprasia.inaurita':0.041687):0.04773,((('Pygopus.lepidopodus.WBJ1206':0.066889,'Pygopus.nigriceps.MVZ197233':0.116136):0.027242,'Paradelma.orientalis.QMJ56089':0.064908):0.036814,'Lialis.burtonis.TG00078':0.162867):0.008996):0.008352,'Pletholax.gracilis.WBJ2483':0.102435):0.004229,'Ophidiocephalus.taeniatus.SAMR44653':0.104267):0.019822):0.167763):0.020085,(('Pseudothecadactylus.lindneri.MVZ99544':0.263497,((('Dierogekko.insularis.AMSR161069':0.089746,'Correlophus.ciliatus.AMS146595':0.090355):0.0098,('Oedodera.marmorata.CAS230936':0.093457,(('Bavayia.geitaina.AMB7229':0.111419,'Bavayia.cyclura.AMB7683':0.11355):0.020596,(('Eurydactylodes.agricolae.AMSR149366':0.073781,'Mniarogekko.jalu.AMSR161238':0.090952):0.013608,'Rhacodactylus.leachianus.AMB7189':0.069493):0.013236):0.010685):0.00597):0.012878,'Paniegekko.madjo.AMSR149329':0.085195):0.098549):0.019519,((((('Tukutuku.rakiurae.RAH238':0.08762,('Toropuku.stephensi.RAH554':0.077059,(('Naultinus.elegans.Whangarei':0.027657,'Naultinus.rudis.RAH388':0.041967):0.014374,'Naultinus.gemmeus.RAH464':0.04265):0.083107):0.015842):0.012679,('Mokopirirakau.granulatus.RAH340':0.057473,'Dactylocnemis.pacificus.CD859':0.110695):0.018692):0.026337,('Woodworthia.maculata.RAH292':0.092202,'Hoplodactylus.duvaucelii.FT277':0.109948):0.039157):0.07168,(('Hesperoedura.reticulata.SAMAR23035':0.104102,(('Nebulifera.robusta.ABTC3938':0.108751,'Amalosia.rhombifer.AMS136216':0.154907):0.014613,'Oedura.marmorata.AMS143861':0.153768):0.011601):0.015195,(('Strophurus.elderi.AMS130987':0.097003,('Strophurus.aberrans.AMS136023':0.121345,'Strophurus.strophurus.AMS140536':0.091745):0.033246):0.069579,(('Rhynchoedura.ornata.AMS155371':0.181258,('Lucasium.damaeum.AMB54':0.013085,'Lucasium.stenodactylum.AMS139897':0.005836):0.131912):0.039695,('Diplodactylus.conspicillatus.AMS158426':0.148212,'Diplodactylus.tesselatus.AMS143855':0.113803):0.078971):0.021109):0.013544):0.103994):0.01677,'Crenadactylus.ocellatus.AMSR162089':0.324254):0.02273):0.074737):0.240925,(((('Coleonyx.mitratus.TG00075':0.263504,('Coleonyx.variegatus.CAS205334':0.086811,'Coleonyx.brevis.TG00194':0.102579):0.121035):0.098511,'Aeluroscalabotes.felinus.JB16':0.470967):0.017008,(((('Hemitheconyx.taylori.JB12':0.211766,'Hemitheconyx.caudicinctus.TG00180':0.302017):0.084797,'Holodactylus.africanus.CAS198845':0.281772):0.075256,'Eublepharis.macularius.TG00081':0.171199):0.063174,('Goniurosaurus.luii.TG00795':0.089412,'Goniurosaurus.araneus.JFBM15830':0.037054):0.200699):0.07861):0.154587,(((('Saurodactylus.mauritainicus.DGHSm61':0.155323,'Saurodactylus.brosseti.TG00082':0.146011):0.192238,(('Chatogekko.amazonicus.LSUMZ14233':0.133363,('Chatogekko.amazonicus.LSUMZ14050':0.051488,'Chatogekko.amazonicus.LSUMZ16400':0.068453):0.074513):0.463264,(((('Lepidoblepharis.festae.LSUMZ12704':0.158101,'Lepidoblepharis.sp.KU218367':0.174947):0.086288,'Lepidoblepharis.xanthostigma.MVZ171438':0.23503):0.146852,((((('Gonatodes.vittatus.TG00040':0.122407,'Gonatodes.albogularis.MVZ204073':0.18973):0.120677,'Gonatodes.daudini.JB38':0.151781):0.027577,('Gonatodes.annularis.NoID':0.172485,'Gonatodes.alexandermendesi.BPN1303':0.102536):0.070153):0.007966,(('Gonatodes.ocellatus.TG00038':0.057829,'Gonatodes.ceciliae.TG00039':0.050555):0.105474,(('Gonatodes.antillensis.YPM17583':0.241205,'Gonatodes.concinnatus.LSUMZ12688':0.177297):0.029792,'Gonatodes.humeralis.MF19492':0.279535):0.067656):0.051744):0.027605,'Gonatodes.caudiscutatus.KU218359':0.249682):0.15294):0.032842,((('Pseudogonatodes.guianensis.AMCC106916':0.173225,('Pseudogonatodes.guianensis.LSUMZ13583':0.124245,'Pseudogonatodes.guianensis.KU222142':0.1168):0.018692):0.322432,((('Sphaerodactylus.torrei.JB34':0.098487,'Sphaerodactylus.nigropunctatus.FLMNH144010':0.108877):0.146015,('Sphaerodactylus.elegans.YPM14795':0.169023,(('Sphaerodactylus.notatus.FLMNH132440':0.065055,((('Sphaerodactylus.roosevelti.TG691':0.098316,'Sphaerodactylus.grandisquamis.TG00099':0.092325):0.031346,('Sphaerodactylus.townsendi.TG00210':0.027428,'Sphaerodactylus.nicholsi.TG00211':0.062887):0.040684):0.009987,'Sphaerodactylus.argus.TG00125':0.094843):0.022067):0.016115,'Sphaerodactylus.leucaster.Glor5269':0.20005):0.021157):0.026762):0.025767,'Sphaerodactylus.glaucus.JAC24229':0.303616):0.143001):0.022606,(('Coleodactylus.cf.brachystoma.CHUNB43901':0.25962,'Coleodactylus.brachystoma.MZUSP92569':0.179692):0.161043,'Coleodactylus.septentrionalis.LSUMZ12351':0.220919):0.185994):0.017642):0.006078):0.071932):0.008356,(('Pristurus.carteri.TG00083':0.417557,'Pristurus.sp.UAE':0.281748):0.32264,((('Teratoscincus.microlepis.TG00074':0.096162,(('Teratoscincus.przewalskii.TG00233':0.029924,'Teratoscincus.roborowskii.JFBM':0.036818):0.030843,('Teratoscincus.scincus.JFBM14252':0.017154,'Teratoscincus.keyserlingii.CAS228808':0.024921):0.058786):0.044067):0.21989,('Saurodactylus.fasciatus.DJHM616':0.248247,'Euleptes.europaea.NoID':0.29771):0.014883):0.014249,(('Quedenfeldtia.moerens.JB77':0.110341,'Quedenfeldtia.trachyblepharus.MVZ178121':0.067336):0.305536,('Aristelliger.lar.JB01':0.071244,('Aristelliger.georgeensis.JB101':0.076177,'Aristelliger.praesignis.USNM337563':0.051057):0.030999):0.226816):0.085037):0.012098):1.0E-6):0.044999,(((((('Garthia.gaudichaudii.SC1':0.229907,(((('Phyllodactylus.xanti.ROM38490':0.075764,'Phyllodactylus.unctus.ROM39002':0.114229):0.101753,'Phyllodactylus.tuberculosus.KU289758':0.160501):0.057057,('Phyllodactylus.reissii.JB39':0.188486,'Phyllodactylus.wirshingi.TG00722':0.203146):0.018475):0.142034,('Homonota.fasciata.TG00085':0.154973,'Homonota.darwinii.LJAMM4601':0.133757):0.208226):0.059904):0.018235,(((('Phyllopezus.maranjonensis.ZFMK84996':0.215376,'Phyllopezus.lutzae.CHUNB50462':0.139729):0.035164,(('Phyllopezus.pollicaris.CHUNB43850':0.091561,'Phyllopezus.pollicaris.MZUSP92491':0.083338):0.060667,'Phyllopezus.pollicaris.JFBM':0.109322):0.056683):0.031187,'Phyllopezus.periosus.MTR887022':0.110723):0.05271,'Gymnodactylus.amarali.CHUNB38646':0.352476):0.073762):0.011059,('Tarentola.americana.MVZ241223':0.10258,((('Tarentola.fascicularus.JB29':0.054188,'Tarentola.deserti.JB44':0.074443):0.015228,'Tarentola.mauritanica.TG00129':0.081328):0.062634,('Tarentola.chazaliae.TG00130':0.059988,'Tarentola.delalandii.JB43':0.02755):0.051571):0.040044):0.221113):0.014237,((('Thecadactylus.rapicauda.USNM561446':0.07531,'Thecadactylus.rapicauda.ENS7108':0.096428):0.133092,'Thecadactylus.solimoensis.KU214929':0.156228):0.133766,'Ptyodactylus.guttatus.TG00072':0.456144):0.029673):0.011247,('Haemodracon.riebeckii.JB11':0.345677,('Asaccus.platyrhynchus.CAS227605':0.18564,'Asaccus.sp.JB15':0.157089):0.180781):0.071082):0.039071,(('Microgecko.persicus.JB27':0.337768,'Alsophylax.pipiens.CAS238805':0.260579):0.022614,((('Urocotyledon.inexpectatus.MCZF38723':0.368971,('Ailuronyx.trachygaster.AMB8160':0.065811,'Ailuronyx.tachyscopaeus.MCZF38717':0.09561):0.21386):0.007384,((('Matoatoa.brevipes.FGMV2002.2237':0.215636,('Kolekanos.plumicaudus.WDH1':0.422884,(('Christinus.marmoratus.AMS135330':0.144807,'Afrogecko.porphyreus.CAS206995':0.187531):0.012917,('Ramigekko.swartbergensis.JB47':0.151023,'Cryptactites.peringueyi.CAS186374':0.16541):0.129599):0.02941):0.015053):0.066827,(('Paragehyra.gabriellae.FGZC2366':0.217437,('Ebenavia.inunguis.ZCMV2099':0.298789,('Paroedura.picta.FGMV2001.B1':0.266362,'Paroedura.masobe.JFBM15832':0.220037):0.223664):0.047073):0.009064,((('Blaesodactylus.antongilensis.ZSM410.2005':0.158799,'Homopholis.fasciatus.TG00191':0.247089):0.033799,'Geckolepis.maculata.FGZC463':0.221738):0.022518,(('Afroedura.loveridgei.GVH3969':0.191384,'Afroedura.karroica.PEM1112':0.120786):0.123441,(((('Rhoptropus.diporus.MCZR183737':0.122911,'Rhoptropus.afer.MCZR183711':0.189932):0.018033,'Rhoptropus.boultoni.CAS214713':0.135534):0.229582,(((('Pachydactylus.punctatus.MCZR184457':0.233097,'Pachydactylus.gaiasensis.AMB7596':0.160299):0.076694,('Pachydactylus.kladaroderma.PEM1253':0.141485,(('Colopus.wahlbergii.NMZ16974':0.249055,'Colopus.kochi.CAS214308':0.306864):0.024772,('Pachydactylus.vanzlyi.jvv1761':0.336108,'Pachydactylus.rugosus.CAS201905':0.19982):0.036745):0.018332):0.009668):0.039866,('Chondrodactylus.angulifer.MCZF38623':0.271402,'Chondrodactylus.fitzsimonsi.CAS193884':0.137847):0.102771):0.070929,'Elasmodactylus.tetensis.PEM5551':0.2069):0.040339):0.052012,'Goggia.lineata.AMB4762':0.267463):0.050117):0.007686):0.033126):0.004016):0.022119,(('Narudasia.festiva.AMB3243':0.360966,'Calodactylodes.illingworthorum.AMB7415':0.440663):0.027638,(('Cnemaspis.kandiana.AMB7508':0.19472,'Cnemaspis.podihuna.AMB7449':0.184674):0.216094,(('Lygodactylus.miops.ZSM116.2004':0.256989,(((('Lygodactylus.bradfieldi.AMB7628':0.192212,'Lygodactylus.klugei':0.192183):0.024636,'Lygodactylus.bivittis.FGMV2001.A21':0.21998):0.011286,'Lygodactylus.miribilis.FGMV2000.B3':0.222729):0.021354,'Lygodactylus.tolampyae.FGMV2001.C4':0.308909):0.080379):0.153417,((((('Phelsuma.guentheri':0.041029,'Phelsuma.rosagularis.JB109':0.0069):0.07877,'Phelsuma.borbonica.JB95':0.077379):0.074592,'Phelsuma.madagascariensis.FGMV2002.797':0.168827):0.024464,('Phelsuma.modesta.ZSM35.2004':0.179248,'Phelsuma.laticauda.TG00232':0.132308):0.041974):0.167525,'Rhoptropella.ocellata.CAS186351':0.278859):0.032225):0.084615):0.014411):0.007968):0.006576):0.010173,((('Nactus.pelagicus.CAS229289':0.113,'Nactus.vankampeni.FK11384':0.125348):0.25447,(('Heteronotia.binoei.AMS151170':0.069653,'Heteronotia.planiceps.AMS140331':0.087159):0.115309,('Dixonius.siamensis.LSHC7328':0.066012,'Dixonius.vietnamensis.FMNH263003':0.104195):0.200553):0.107531):0.082557,((('Perochirus.ateles.DBDmale':0.39662,((('Gehyra.cf.oceanica.FK11878':0.223596,(('Gehyra.australis.AMS139934':0.107231,'Gehyra.dubia.AMS152245':0.121564):0.058737,('Gehyra.variegata.AMS140478':0.131346,'Gehyra.nana.AMS140070':0.145944):0.043537):0.029981):0.02703,'Gehyra.mutilata.JFBM15819':0.258513):0.060297,('Hemiphyllodactylus.titiwangsaensis.LSHC7208':0.181024,'Hemiphyllodactylus.yunnanensis.FMNH258695':0.294114):0.178692):0.034997):0.02595,(((((('Pseudogekko.smaragdina.KU303995':0.196851,'Lepidodactylus.lugubris.AMB4111':0.231913):0.022825,'Lepidodactylus.novaeguineae.BPBM15842':0.237234):0.014089,'Luperosaurus.cumingii.RMB3546':0.29593):0.026489,'Lepidodactylus.orientalis.BPBM19794':0.217817):0.056681,(((('Gekko.vittatus.BPBM19780':0.190301,('Gekko.badenii.TG00095':0.157411,'Gekko.cf.grossmani.NoID':0.245166):0.056335):0.023704,('Ptychozoon.lionatum.CAS221163':0.209232,'Ptychozoon.kuhli.RMB1134':0.144141):0.093379):0.045992,('Gekko.gecko.TG00079':0.271121,('Gekko.chinensis.LSHC4209':0.159893,'Gekko.subpalmatus.AMB5567':0.218957):0.048031):0.015862):0.015838,('Gekko.mindoroensis.KU303912':0.091975,'Gekko.monarchus.PEMR5412':0.055852):0.168952):0.079706):0.068535,(((((('Indogekko.rohtasfortai.PMNH2391':0.147384,'Cyrtopodion.scabrum.TG00109':0.147509):0.050708,('Tenuidactylus.elongatus.JB127':0.153982,(('Tenuidactylus.caspius.CAS228602':0.061282,('Tenuidactylus.longipes.CAS226830':0.087573,'Tenuidactylus.fedtschenkoi.JEM346':0.114951):0.035707):0.030715,'Bunopus.tuberculatus.CAS228737':0.131892):0.059764):0.015871):0.009991,('Cyrtopodion.kohsulaimanai.PMH2388':0.18735,'Crossobamon.orientalis.ID7618':0.18427):0.02651):0.019349,'Agamura.persica.FMNH247474':0.143044):0.07826,(('Asiocolotes.levitoni.PMNH2431':0.146844,'Altigekko.stoliczkai.PMNH2323':0.12055):0.053363,(('Tropiocolotes.tripolitanus.FMNH262276':0.24538,('Stenodactylus.sthenodactylus.MVZ235804':0.212558,'Stenodactylus.doriae.JB20':0.179747):0.085243):0.144116,('Mediodactylus.brachykolon.PMNH2165':0.180107,('Mediodactylus.spinicauda.CAS228709':0.120408,'Mediodactylus.russowii.AMB8701':0.179997):0.070308):0.060686):0.017381):0.008527):0.063728,((('Hemidactylus.platyurus.JFBM15815':0.317468,('Hemidactylus.flavivirdis.FMNH245515':0.231756,('Hemidactylus.frenatus.TG00088':0.142676,'Hemidactylus.imbricatus.TG00568':0.238687):0.051726):0.046577):0.018332,((('Hemidactylus.turcicus.TG00567':0.108555,'Hemidactylus.macropholis.CAS227520':0.114949):0.027727,'Hemidactylus.robustus.FMNH245519':0.148023):0.10511,('Hemidactylus.fasciatus.ROM':0.282197,((('Hemidactylus.brasilianus.MZUSP92493':0.159136,'Hemidactylus.greeffi.CAS219044':0.097103):0.038387,'Hemidactylus.palaichthus.LSUMZ12421':0.177061):0.053377,'Hemidactylus.mabouia.JEM1864':0.200515):0.060616):0.008313):0.015303):0.134637,('Siwaligekko.battalensis.PMNH2301':0.226914,(((('Geckoella.triedra.35A':0.14635,'Cyrtodactylus.philippinicus.FMNH236073':0.219267):0.011184,'Cyrtodactylus.novaeguineae.FK11689':0.15725):0.01392,'Cyrtodactylus.angularis.FMNH265815':0.184671):0.042191,'Cyrtodactylus.ayeyarwardyensis.CAS216446':0.211802):0.050381):0.051288):0.024868):0.052464):0.005073):0.004511,(('Cnemaspis.kendalii.LSHC6562':0.226479,'Cnemaspis.limi.LSHC6267':0.189282):0.275005,(((('Cnemaspis.uzungwe.MTSN5603':0.202609,'Cnemaspis.dickersonae.MTSN8604':0.185618):0.040767,'Cnemaspis.africana.FMNH251355':0.150932):0.281271,('Uroplatus.guentheri.FGMV2001.C21':0.277248,(('Uroplatus.henkeli.FGMV2000.C1':0.190291,'Uroplatus.giganteus.ZCMV864':0.120669):0.093761,'Uroplatus.phantasticus.FGMV2002.640':0.314466):0.026243):0.219033):0.02044,'Ptenopus.carpi.CAS214534':0.593179):0.015493):0.016513):0.008738):0.005264):0.007261):0.027287):0.071531):0.095087):0.025689):0.370591,('Dibamus.bouretti':0.608087,('Sphenodon.punctatus':0.764236,Gallus[&!rotate=false]:1.55711):0.744362)[&!rotate=false]:0.072042)[&!cartoon={13,0.0}]:0.02866):0.096132):0.044582):0.54181,'Ramphotyphlops.braminus.JFBM':0.836927,'Python.molurus':0.71315)[&!rotate=true];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=430;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.4;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=14;
+	set tipLabels.fontStyle=2;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
