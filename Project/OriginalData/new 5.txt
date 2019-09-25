@@ -1,0 +1,40 @@
+Project Script: RAxML-NG
+HPC Class
+salloc -N 4 -n 16 -t 5:00:00  -Nnodes -ncores
+raxml-ng -v  $check for version 0.8.0
+-msa Diurnality_6gene_edit.nxs -> convert to fasta
+-msa --format
+--model GTR+G
+--prefix raxml
+
+raxml-ng --check --msa <DATAFILE> --model <MODEL> --prefix T1
+raxml-ng --parse --msa <DATAFILE> --model <MODEL> --prefix T2  --parse to check large alignments
+raxml-ng --msa <DATAFILE> --model <MODEL> --prefix T3 --threads 2 --seed <N>  #heuristic search
+ raxml-ng --msa <DATAFILE> --model GTR+G --prefix T4 --threads 2 --seed 2 --tree pars{25},rand{25}
+ raxml-ng --search1 --msa <DATAFILE> --model GTR+G --prefix T5 --threads 2 --seed 2  #quick and dirty search
+ raxml-ng --bootstrap --msa <DATAFILE> --model GTR+G --prefix T7 --seed 2 --threads 2 #nonparametric bootstraps
+ raxml-ng --bsconverge --bs-trees <BOOTSTRAPS> --prefix T9 --seed 2 --threads 2 --bs-cutoff 0.01  #check convergence 
+ raxml-ng --support --tree T3.raxml.bestTree --bs-trees allbootstraps --prefix T13 --threads 2  #maps boostrap values on tree
+ 
+Running ML search and bootstrap analysis in one step:
+	raxml-ng --all --msa <DATFILE> --model <MODEL> --prefix T15 --seed 2 --threads 2 --bs-metric fbp
+Tree likelihood evaluation:
+	raxml-ng --evaluate --msa <ALIGNMNET> --threads <N> --model <MODEL> --tree <TREE TO EVALUATE> --prefix <PREFIX>
+
+Partitioned Analysis:
+--model<file_name>
+
+charset  nDNA = 1-2692;
+charset  ND2cod1_2_tRNA = 2693-3694\3 2694-3694\3 3695-4106;
+charset  ND2cod3 = 2695-3694\3;
+	
+GTR+G, nDNA = 1-2692;
+GTR+G, ND2cod1_2_tRNA = 2693-3694\3 2694-3694\3 3695-4106;
+GTR+G, ND2cod3 = 2695-3694\3;
+
+Unlink Branches
+
+Outgroup rooting 
+--outgroup Gallus
+
+

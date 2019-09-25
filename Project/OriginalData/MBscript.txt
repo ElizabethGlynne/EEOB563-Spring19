@@ -5,6 +5,18 @@ salloc -N 1 -n 4 -t 24:00:00
 mpirun -np 4 mb
 log start filename=ProjMB.txt
 execute Diurnality_6gene_data.nxs
+
+Elizabeth@E-Glynne MINGW64 ~/Documents/GitHub/EEOB563-Spring19/Project/MrBayes (master)
+$ ls
+Diurnality_6gene_data.nxs  MB-1mil-partn.run1.t   MB-1mil-partn-ss.run1.p
+Diurnality_6gene_edit.nxs  MB-1mil-partn.run2.p   MB-1mil-partn-ss.run1.t
+MB-1mil-partn.ckp          MB-1mil-partn.run2.t   MB-1mil-partn-ss.run2.p
+MB-1mil-partn.ckp~         MB-1mil-partn-ss.ckp   MB-1mil-partn-ss.run2.t
+MB-1mil-partn.mcmc         MB-1mil-partn-ss.ckp~  MB-1mil-partn-ss.ss
+MB-1mil-partn.run1.p       MB-1mil-partn-ss.mcmc  ProjMB.txt
+
+
+
 outgroup Gallus
 charset  nDNA = 1-2692;
 charset  ND2cod1_2_tRNA = 2693-3694\3 2694-3694\3 3695-4106;
@@ -18,7 +30,7 @@ prset applyto=(all) ratepr=variable
 mcmcp ng=1000000 printf=2500 samp=2500 diagnf=2000 diagnst=maxstddev
 mcmcp nch=4 savebr=yes filename=MB-1mil-partn
 mcmc
-ss ng=1000000 diagnfr=2000 filename=MB-1mil-partn-ss   #record the mean marg likelihood
+ss ng=1000 diagnfr=2000 filename=MB-1thou-partn-ss   #record the mean marg likelihood
 sump filename=MB-1mil-partn
 sump filename=MB-1mil-partn-ss  #record the margial likelihood est by harmonic mean
 sumt filename=MB-1mil-partn

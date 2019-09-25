@@ -2,11 +2,57 @@ TnT Script
 Using TnT v 1.5
 Convert nxs file to TNT using Mesquite
 Set outgroup to Gallus
-Default parameters
-> Switch Algorithms:				Search	Minimum length	Best_Score	Tree(s)	Time	Arrangements	Notes
-	- Search and Tree fusing	:		5		5 times														Consensus sectorial search (S) and Alternate equal weights (R)
-	- Search and Ratchet		:	
-	- Search and Drift			:
-	- Ratchet and Drift			:
-    - Ratchet and Tree fusing 	:
-    - Drift and Tree fusing		:
+> Trial Search:
+			Switch Algorithms:				Search	Minimum length	Best_Score	Tree(s)	Time	Arrangements	Trees_retained		Notes
+Default	- Search and Tree fusing	:		5		1 times			80339*		00:01:24	313,500,000			2				RSS and CSS (S) and Alternate equal weights (R)
+		- Search and Ratchet		:		5		1 times			80344		00:00:46	300,000,000			2				RSS and CSS	
+		- Search and Drift			:		5		1 times			80344		00:00:15	90,500,000			5	
+		- Ratchet and Tree Fusing	:		5		1 times			80339*		00:00:43	295,500,000			5
+		- Drift and Tree fusing 	:		5		1 times			80349		00:00:38	290,500,000			3
+		- Ratchet and Drift		````:		5		1 times			80341		00:01:13	495,500,000			1
+		- ALL						:		5		1 times			80339*		00:01:25	538,000,000			7
+		- ALL						:		19		1 times			80339*		00:00:48	300,000,000			2
+		- ALL						:		5		5 times			80339*		00:01:25	538,000,000			7
+> Run ALL, 							:		5 		5 times			80339*		00:05:15	2,000,000,000		12
+		- 	Tree 	Lengths	
+			1-12	84828
+>Resampling
+	Boostrap (standard, sampling with replacement) 99 replicates, using new tech "all" search parameters above
+	25 initial
+	find min length 5 times 
+	searched tree space of _________ trees
+	minimum length: 
+	consensus ran
+	kept branch length
+	
+> save tre file as an svg
+		In the latest version of TNT (august 2010), it is possible to save
+		trees as svg, the results are esthetically pleasing -- at least for me
+		;) -- and can be easily edited with commercial (e.g. illustrator) or
+		free (e.g. inkscape) vectorial editors... Or if you like the code, in
+		a plain text editor!
+	
+		The key command is ttag... if you want to save the strict consensus
+		(for example) use something like this:
+
+		ttag = ;
+		nel ;                         /* Here you can set the result of
+		resampling, or bremer support, etc */
+		ttag &cons.svg ;
+
+		If you want to save the tree 6 for example
+		
+		ttag *6 :
+		ttag &tree6.svg ;
+
+		Check out the help for ttag :)
+> Re-run with TNT using outgroup
+	log file
+	input data
+	expand memory
+	set outgroup
+	New Tech search: 1000 Trees, min length 1 time
+	Resample: New Tech 
+	Consensus 
+	Save 
+				

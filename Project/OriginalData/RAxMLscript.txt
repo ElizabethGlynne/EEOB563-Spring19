@@ -1,7 +1,10 @@
 RAxML Script
 hpc class: salloc -N 4 -n 16 -t 5:00:00
-*change NXS to Phy using hiv.lanl.gov : Diurnality_6gene_conv.phy
+*change NXS to Phy using https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html : Diurnality_6gene_conv.phy
 
 $Quick and Dirty search:
- raxml-ng --msa Diurnality_6gene_conv.phy --model GTR+G --prefix Q --threads 2 --seed 13 --tree pars{25},rand{25}
+ raxml-ng --msa Diurnality_6gene_conv.phy --model GTR+FO+G4m --prefix Q --threads 2 --seed 13 --tree pars{25},rand{25}
+	>quick and dirty search ran with 1 partition
 
+$Running ML search and bootstrap analysis in one step:
+ raxml-ng --all --msa Diurnality_6gene_conv.phy --model GTR+G --prefix SnB --seed 13 --threads 2 --bs-metric fbp
